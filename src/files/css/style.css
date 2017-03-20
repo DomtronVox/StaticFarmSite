@@ -1,0 +1,190 @@
+/*class styles*/
+.signLike{
+border: 4px;
+border-style: solid; 
+border-color: #7c4311;
+
+background-color: #ffd195;
+}
+
+
+/*General styling*/
+
+body{
+background-color:#ecefca;
+}
+
+p {
+margin-right: 2%;
+margin-left: 2%;
+}
+
+/*Tops and Bottoms styling*/
+
+header{
+max-width:310px;
+padding:6px;
+margin-left:auto;
+margin-right:auto;
+
+text-align:center; 
+color:#b60000;
+}
+
+footer{
+padding-top: 80px;
+padding-bottom: 10px;
+margin-left: 2%;
+margin-right: 2%;
+font-size: 14px;
+text-align: center;
+}
+
+
+/*Navigation Bar styling*/
+
+#navBar{
+text-align:center;
+margin-left: 2%;
+margin-right: 2%;
+margin-bottom: 4px;
+height:50px;
+}
+
+#navBar ul{
+list-style: none;
+padding:2px;
+}
+
+#navBar li {
+display: inline;
+padding: 2px;
+
+margin-right:4px;
+
+border: 4px;
+border-style: solid; 
+border-color: #df4313;
+
+background-color:#ff5f2e;
+}
+
+#navBar li a{
+color: black;
+text-decoration:none;
+}
+
+#navBar li.selected {
+background-color:#c72f00;
+}
+
+
+/*Side Bar styling*/
+
+#sideBar{
+width: 180px;
+
+text-align:center;
+
+padding: 5px;
+}
+
+/*Content styling*/
+
+#content{
+margin-left:2%;
+min-height: 400px;
+
+padding: 5px;
+}
+
+/*media queries for specific resolutions*/
+
+/* Smartphones */
+@media (max-width : 460px) {
+    #navBar {
+    height:auto;
+    }
+
+    #navBar li {
+    display: block;
+    }
+
+    #sideBar{
+    width:240px;
+
+    margin-top:20px;
+    margin-right:auto;
+    margin-left:auto;
+    }
+
+    #content{
+    margin-right:2%;
+
+    font-size: 18px;
+    }   
+}
+
+/* Tablets and Readers ----------- */
+@media (min-width : 461px)
+   and (max-width : 999px) {
+    #sideBar{
+    width:300px;
+
+    margin-top:20px;
+    margin-right:auto;
+    margin-left:auto;
+    }
+
+    #content{
+    margin-right:2%;
+
+    font-size: 18px;
+    }   
+}
+
+/* Desktops and laptops ----------- */
+@media (min-width : 1000px) {
+/*   and (max-width : 1399px) { */
+
+    #sideBar {
+    min-height: 400px;
+    width: 18%;
+    
+    float:right;
+    margin-right:2%;
+    }
+
+    #content{    
+    width:74%;
+    
+    float:left;
+    margin-left:2%;
+    }   
+}
+/*
+ large screens ----------- 
+@media (min-width : 1400px) {
+    #navBar {
+    width: 1320px;
+
+    margin-left: 4%;
+    margin-right: 4%;
+    }
+
+    #sideBar {
+    min-height: 400px;
+    width: 250px;
+    
+    float: right;
+    margin-left: 2%;
+    }
+
+    #content{    
+    width: 1024px;
+    
+    float:left;
+    margin-left:4%;
+    }   
+}
+*/

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        
+        <title>{{site.sitetitle}} - {{title}}</title>
+        
+        <link rel="stylesheet" type="text/css" href="/css/style.css">
+        <link rel="stylesheet" type="text/css" href="/css/pedigree.css">
+        
+    </head>
+    <body>
+        <header>
+            <div class="signLike">
+                <h1>Dozy Doe Down</h1>
+                <h2>{{title}}</h2>
+            </div>
+        </header>
+                
+        {{> nav }}
+        
+
+        <div style="width:100%;min-height:400px;">
+        <div id="content" class="signLike">
+            {{{contents}}}
+
+            <table>
+            {{#each this.collections.Goat}}
+                <tr><td>this</td></tr>
+            {{/each }}
+            </table>
+
+        </div>
+        
+        {{> sidebar }}
+
+        </div>
+
+        {{> footer }}        
+
+    </body>
+</html>

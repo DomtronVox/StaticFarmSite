@@ -1,0 +1,20 @@
+
+        <table class="Pedigree">
+        <tr>
+            <td>{{goat_data.[Barn Name]}}</td>
+            <td></td>
+        </tr>
+
+        <tr>
+            <th>Parents</th>
+            <th>Grandparents</th>
+            <th>GG-parents</th>
+            <th>GGG-parents</th>
+            <th>GGGG-parents</th>
+        </tr>
+       
+        {{! construct table rows from pedigree info }}
+        {{ buildPedigree pedigree }}
+
+        </table>
+        
