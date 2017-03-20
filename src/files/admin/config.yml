@@ -2,8 +2,9 @@ backend:
   name: github
   repo: https://github.com/DomtronVox/StaticFarmSite # Path to your Github repository
   branch: master # Branch to update
-  media_folder: src/files/pictures
-  public_folder: /files/images
+
+media_folder: images/
+public_folder: /files/images
 
 collections: # A list of collections the CMS should be able to edit
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
@@ -16,5 +17,5 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Categories", name: "categories", widget: "string"}
-    meta: # Meta data fields. Just like fields, but without any preview element
+    meta: # Meta data fields. Just like fields, but without any preview esrc/files/admin/config.ymllement
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
