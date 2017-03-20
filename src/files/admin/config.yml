@@ -1,0 +1,6 @@
+backend:
+  name: github
+  repo: https://github.com/DomtronVox/StaticFarmSite # Path to your Github repository
+  branch: master # Branch to update
+  media_folder: src/files/pictures
+  public_folder: /files/images
