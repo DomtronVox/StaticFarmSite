@@ -7,9 +7,21 @@ media_folder: images/
 public_folder: /files/images
 
 collections: # A list of collections the CMS should be able to edit
+  - name: "main_page"
+    label: "Main Pages"
+    folder: "src/documents/"
+    create: "false"
+    slug: ""
+    fields:
+      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Categories", name: "categories", widget: "string"}
+    meta:
+      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"} 
+
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Post" # Used in the UI, ie.: "New Post"
-    folder: "_posts" # The path to the folder where the documents are stored
+    folder: "src/documents/posts" # The path to the folder where the documents are stored
     sort: "date:desc" # Default is title:asc
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
