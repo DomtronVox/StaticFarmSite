@@ -9,7 +9,7 @@ public_folder: /files/images
 collections: # A list of collections the CMS should be able to edit
   - name: "main_page"
     label: "Main Pages"
-    folder: "src/documents/"
+    folder: "/src/documents/"
     create: "false"
     slug: ""
     fields:
@@ -21,7 +21,7 @@ collections: # A list of collections the CMS should be able to edit
 
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Post" # Used in the UI, ie.: "New Post"
-    folder: "src/documents/posts" # The path to the folder where the documents are stored
+    folder: "/src/documents/posts" # The path to the folder where the documents are stored
     sort: "date:desc" # Default is title:asc
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
