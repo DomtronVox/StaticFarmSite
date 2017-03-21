@@ -3,7 +3,7 @@ collection: MainPage
 layout: default.html
 navTitle: Manx
 title: Manx
-navPriority: '3'
+navPriority: '5'
 ---
 
 write content here.
