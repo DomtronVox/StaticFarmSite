@@ -1,9 +1,9 @@
 ---
-title: "Manx"
-navTitle: "Manx"
-navPriority: 5
-layout: "default.html"
 collection: MainPage
+layout: default.html
+navTitle: Manx
+title: Manx
+navPriority: '3'
 ---
 
 write content here.
