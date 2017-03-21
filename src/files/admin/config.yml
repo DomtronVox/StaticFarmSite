@@ -9,7 +9,7 @@ public_folder: images/
 collections: # A list of collections the CMS should be able to edit
   - name: "main_page"
     label: "Main Pages"
-    folder: "src/documents/"
+    folder: "src/documents/main_pages"
     create: "false"
     slug: "{{slug}}"
     fields:
