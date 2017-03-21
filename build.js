@@ -47,14 +47,29 @@ settings["csv_parser"] = {
 
 //processing - handle some custom processing
 settings["build"] = function(err, files) {
-        //console.log(Object.keys(files));
-        //console.log(this._metadata.collections.Goats)
-        for (file in files) {
-            files[file].collections = this._metadata.collections;
+    console.log(Object.keys(files));
+    //console.log(this._metadata.collections.Goats)
+    for (file in files) {
+        files[file].collections = this._metadata.collections;
+    }
+
+    //print any errors that occure
+    if (err) { throw err; }
+}
+
+//>>TODO temporary fix for having to put mainpages under it's own directory because 
+//   netlify-cms does not like content collections with sub-folders
+function modifyMainPagesPath(files, metalsmith, done) {
+
+    setImmediate(done);
+
+    for (file in files) {
+
+        if ( file.substring(0, 10) == "main_pages") {
+            files[file.substring(11)] = files[file];
+            delete files[file];
         }
-       
-        //print any errors that occure
-        if (err) { throw err; }
+    }
 }
 
 //for debugging
@@ -93,6 +108,7 @@ Metalsmith(__dirname)
     .use( csv_parser(settings["csv_parser"]) )
     .use( csv_generate_pages() )
     //.use(printTest)
+    .use( modifyMainPagesPath )
     .use( collections(settings["collections"]) )
     .use( markdown(settings["markdown"]) )
     .use( permalinks() )
