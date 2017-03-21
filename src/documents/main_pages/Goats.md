@@ -1,9 +1,9 @@
 ---
-title: "Goats"
-navTitle: "Goats"
-navPriority: 4
-layout: "goatindex.html"
 collection: MainPage
+layout: goatindex.html
+navTitle: Goats
+title: Goats
+navPriority: '5'
 ---
 
 write content here.
