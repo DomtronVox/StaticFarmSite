@@ -3,7 +3,7 @@ collection: MainPage
 layout: goatindex.html
 navTitle: Goats
 title: Goats
-navPriority: '5'
+navPriority: '3'
 ---
 
 We raise registered Nigerian Dwarf Dairy goats.
@@ -16,4 +16,5 @@ We raise registered Nigerian Dwarf Dairy goats.
 ### [Reference Bucks](/Goats/reference-bucks.html)
 
 ### [Reference Does](/Goats/reference-does.html)
+
 
