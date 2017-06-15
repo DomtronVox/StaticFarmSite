@@ -1,9 +1,9 @@
 ---
-title: "Nigerian Dwarf Dairy Goats"
-navTitle: "Goats"
-navPriority: 2
-layout: "default.html"
 collection: MainPage
+layout: goatindex.html
+navTitle: Goats
+title: Goats
+navPriority: '5'
 ---
 
 We raise registered Nigerian Dwarf Dairy goats.
