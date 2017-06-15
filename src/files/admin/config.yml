@@ -45,7 +45,17 @@ collections: # A list of collections the CMS should be able to edit
     slug: "{{slug}}"
     fields: # The fields each document in this collection have
       - {label: "Barn Name", name: "barn_name", widget: "string", required: true}
-      
+      - {label: "Long Name", name: "long_name", widget: "string", required: true}
+      - {label: "Gender", name: "gender", widget: "select", options: ["male", "female"], required: true}
+      - {label: "Is it a Reference Goat", name: "reference", widget: "boolean", required: true}
+      - {label: "Birth Date", name: "birth_date", widget: "datetime"}
+      - {label: "Birth Farm", name: "birth_farm", widget: "string"}
+      - {label: "Tattoo Right Ear", name: "tatts_right", widget: "string"}
+      - {label: "Tattoo Left Ear", name: "tatts_left", widget: "string"}
+      - {label: "ADGA Registration Number", name: "adga_num", widget: "string"}
+      - {label: "Sire", name: "sire", widget: "string", required: true}
+      - {label: "Dam", name: "dam", widget: "string", required: true}
+      - {label: "Description", name: "body", widget: "markdown"}
     meta: # Meta data fields. Just like fields, but without any preview esrc/files/admin/config.ymllement
       - {label: "Title", name: "title", widget: "hidden", default: "Goats"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "goatpage.html"}
