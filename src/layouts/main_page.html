@@ -39,11 +39,16 @@
 
 </head>
 <body>
-<header class="small-header" id="header"><!--header-start-->
-    <div class="container">
-    	<figure class="logo">
+<header class="header" id="header"><!--header-start-->
+	<div class="container">
+    	<figure class="logo animated fadeInDown delay-07s">
         	<a href="#"><img src="/images/logo.png" alt=""></a>	
-        </figure>	        
+        </figure>	
+        <h1 class="animated fadeInDown delay-07s">Welcome To Dozy Doe Down</h1>
+        <ul class="we-create animated fadeInUp delay-1s">
+        	<li>Farm mission text</li>
+        </ul>
+            <a class="link animated fadeInUp delay-1s servicelink" href="#service">See What We Have</a>
     </div>
 </header><!--header-end-->
 
@@ -58,14 +63,13 @@
 
 
 
-<section class="main-section" id="content"><!--main-section-start-->
+<section class="main-section" id="service"><!--main-section-start-->
     <div class="container contents">
     	{{{contents}}}
     </div>
 
 
 </section><!--main-section-end-->
-
 
 
 </div>
@@ -87,6 +91,7 @@
     </div>
 </footer>
 
+
 <script type="text/javascript">
     $(document).ready(function(e) {
         $('#test').scrollToFixed();
@@ -98,6 +103,16 @@
         
     });
 </script>
+
+  <script>
+    wow = new WOW(
+      {
+        animateClass: 'animated',
+        offset:       100
+      }
+    );
+    wow.init();
+  </script>
 
 
 <script type="text/javascript">
@@ -122,7 +137,6 @@
 		});
 	})
 </script>
-
 
 <script type="text/javascript">
 
@@ -168,6 +182,7 @@ $(window).load(function(){
     });
   
 });
+
 </script>
 
 </body>

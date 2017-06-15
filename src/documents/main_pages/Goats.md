@@ -1,11 +1,19 @@
 ---
-title: "Goats"
+title: "Nigerian Dwarf Dairy Goats"
 navTitle: "Goats"
-navPriority: 4
-layout: "goatindex.html"
+navPriority: 2
+layout: "default.html"
 collection: MainPage
 ---
 
-write content here.
+We raise registered Nigerian Dwarf Dairy goats.
 
+
+### [Bucks](/Goats/bucks.html)
+
+### [Does](/Goats/does.html)
+
+### [Reference Bucks](/Goats/reference-bucks.html)
+
+### [Reference Does](/Goats/reference-does.html)
 

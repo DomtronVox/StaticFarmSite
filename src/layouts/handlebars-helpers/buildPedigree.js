@@ -12,6 +12,7 @@ var Handlebars = require('handlebars')
 
 module.exports = function(data) {
 
+    if (data == undefined) { return "" }
 
     var rows = [];
     //console.log(data)
@@ -73,7 +74,7 @@ var DecendIntoLevel = function(rows, data, column, columns) {
     var rowspan = Math.pow(2, columns) / Math.pow(2, column+1);
     var column_cell_count =  Math.pow(2, columns) / rowspan;
     
-    console.log(column, columns, rowspan, column_cell_count)
+    //console.log(column, columns, rowspan, column_cell_count)
 
     for (var i=0; i < column_cell_count; i++) {
 
