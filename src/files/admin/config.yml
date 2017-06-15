@@ -55,7 +55,6 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Extra Info", name: "extra_info", widget: "markdown"}
       - {label: "Sire", name: "sire", widget: "string", required: true}
       - {label: "Dam", name: "dam", widget: "string", required: true}
-      - {label: "Is it a Reference Goat", name: "reference", widget: "boolean", required: true}
       - {label: "Sire Pictures", name: "sire_picture", widget: "image"}
       - {label: "Dam Pictures", name: "dam_picture", widget: "image"}
     meta: # Meta data fields. Just like fields, but without any preview esrc/files/admin/config.ymllement
