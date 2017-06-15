@@ -1,6 +1,6 @@
 ---
 collection: MainPage
-layout: goatindex.html
+layout: main_page.html
 navTitle: Goats
 title: Goats
 navPriority: '3'

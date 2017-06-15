@@ -1,9 +1,9 @@
 ---
-collection: MainPage
-layout: default.html
 navTitle: Livestock Guardian Dogs
 title: Livestock Guardian Dogs
 navPriority: '2'
+collection: MainPage
+layout: "main_page.html"
 ---
 
 # What are Livestock Guardian Dogs

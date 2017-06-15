@@ -14,10 +14,13 @@ collections: # A list of collections the CMS should be able to edit
     slug: "{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Navigation Bar Text", name: "navTitle", widget: "string", tagname: "h1"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Navigation bar priority (lower=farther left)", name: "navPriority", widget: "number"}
     meta:
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"} 
+      - {label: "Navigation bar priority (lower=farther left)", name: "navPriority", widget: "number"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "main_page.html"}
+      - {label: "Collection", name: "collection", widget: "hidden", default: "MainPage"}
 
   - name: "post" 
     label: "Post"
@@ -29,5 +32,32 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Categories", name: "categories", widget: "string"}
-    meta: # Meta data fields. Just like fields, but without any preview esrc/files/admin/config.ymllement
+    meta: # Meta data fields. Just like fields, but without any preview element
+      - {label: "Layout", name: "layout", widget: "string", default: " "}
+      - {label: "Collection", name: "collection", default: "post"}
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
+
+  - name: "Goat Pages" 
+    label: "Goat Pages"
+    folder: "src/documents/Goats" # The path to the folder where the documents are stored
+    sort: "title:asc" # Default is title:asc
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}"
+    fields: # The fields each document in this collection have
+      - {label: "Barn Name", name: "barn_name", widget: "string", required: true}
+      - {label: "Long Name", name: "long_name", widget: "string", required: true}
+      - {label: "Gender", name: "gender", widget: "select", options: ["male", "female"], required: true}
+      - {label: "Is it a Reference Goat", name: "reference", widget: "boolean", required: true}
+      - {label: "Birth Date", name: "birth_date", widget: "datetime"}
+      - {label: "Birth Farm", name: "birth_farm", widget: "string"}
+      - {label: "Tattoo Right Ear", name: "tatts_right", widget: "string"}
+      - {label: "Tattoo Left Ear", name: "tatts_left", widget: "string"}
+      - {label: "ADGA Registration Number", name: "adga_num", widget: "string"}
+      - {label: "Sire", name: "sire", widget: "string", required: true}
+      - {label: "Dam", name: "dam", widget: "string", required: true}
+      - {label: "Description", name: "body", widget: "markdown"}
+    meta: # Meta data fields. Just like fields, but without any preview esrc/files/admin/config.ymllement
+      - {label: "Title", name: "title", widget: "hidden", default: "Goats"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "goatpage.html"}
+      - {label: "Collection", name: "collection", widget: "hidden", default: "Goats"}
+

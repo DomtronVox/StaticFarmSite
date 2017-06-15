@@ -2,7 +2,7 @@
 title: "Contact Us"
 navTitle: "Contact Us"
 navPriority: 6
-layout: "default.html"
+layout: "main_page.html"
 collection: MainPage
 ---
 
