@@ -59,8 +59,8 @@ collections: # A list of collections the CMS should be able to edit
       - {required: false, label: "Polled", name: "polled", widget: "select", options: ["no", "yes"], defualt:"no"}
       - {required: true, label: "Is it a Reference Goat", name: "reference", widget: "select", options: ["no", "yes"], defualt:"no"}
 
-      - {required: true,  label: "Sire", name: "sire", widget: "string", required: true}
-      - {required: true,  label: "Dam", name: "dam", widget: "string", required: true}
+      - {required: true,  label: "Sire", name: "sire", widget: "string"}
+      - {required: true,  label: "Dam", name: "dam", widget: "string"}
 
       - {required: false, label: "Pdigree Picture", name: "pedigree_picture", widget: "image"}
 
