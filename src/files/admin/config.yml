@@ -44,20 +44,36 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}"
     fields: # The fields each document in this collection have
-      - {label: "Full Title", name: "full_title", widget: "string", required: true}
-      - {label: "LA Score", name: "la_score", widget: "string", required: true}
-      - {label: "Gender", name: "gender", widget: "select", options: ["male", "female"], required: true}
-      - {label: "Birth Date", name: "birth_date", widget: "datetime"}
-      - {label: "Description", name: "body", widget: "markdown"}
-      - {label: "ADGA Registration Number", name: "adga_num", widget: "string"}
-      - {label: "AGS Registration Number", name: "ags_num", widget: "string"}
-      - {label: "Milk Records", name: "milk_records", widget: "text"}
-      - {label: "Extra Info", name: "extra_info", widget: "markdown"}
-      - {label: "Sire", name: "sire", widget: "string", required: true}
-      - {label: "Dam", name: "dam", widget: "string", required: true}
-      - {label: "Is it a Reference Goat", name: "reference", widget: "select", options: ["no", "yes"]}
-      - {label: "Sire Pictures", name: "sire_picture", widget: "image"}
-      - {label: "Dam Pictures", name: "dam_picture", widget: "image"}
+      - {required: true,  label: "Full Title", name: "full_title", widget: "string"}
+      - {required: false, label: "LA Score", name: "la_score", widget: "string"}
+      - {required: true,  label: "Gender", name: "gender", widget: "select", options: ["male", "female"]}
+      - {required: true,  label: "Birth Date", name: "birth_date", widget: "datetime"}
+      - {required: false, label: "Description", name: "body", widget: "markdown"}
+
+      - {required: false, label: "ADGA Registration Number", name: "adga_num", widget: "string"}
+      - {required: false, label: "AGS Registration Number", name: "ags_num", widget: "string"}
+      - {required: false, label: "Milk Records", name: "milk_records", widget: "text"}
+
+      - {required: false, label: "Extra Info", name: "extra_info", widget: "markdown"}
+      - {required: false, label: "Blue Eyes", name: "blue_eyes", widget: "select", options: ["no", "yes"], defualt:"no"}
+      - {required: false, label: "Polled", name: "polled", widget: "select", options: ["no", "yes"], defualt:"no"}
+      - {required: true, label: "Is it a Reference Goat", name: "reference", widget: "select", options: ["no", "yes"], defualt:"no"}
+
+      - {required: true,  label: "Sire", name: "sire", widget: "string", required: true}
+      - {required: true,  label: "Dam", name: "dam", widget: "string", required: true}
+
+      - {required: false, label: "Pdigree Picture", name: "pedigree_picture", widget: "image"}
+
+      - {required: false, label: "Side Picture", name: "side_picture", widget: "image"}
+      - {required: false, label: "2nd Side Picture", name: "side2_picture", widget: "image"}
+      - {required: false, label: "Front Picture", name: "front_picture", widget: "image"}
+      - {required: false, label: "Back/Udder Picture", name: "back_picture", widget: "image"}
+      - {required: false, label: "Highlight Picture", name: "highlight_picture", widget: "image"}
+
+      - {required: false, label: "Sire Picture 1", name: "sire_picture1", widget: "image"}
+      - {required: false, label: "Sire Picture 2", name: "sire_picture2", widget: "image"}
+      - {required: false, label: "Dam Picture 1", name: "dam_picture1", widget: "image"}
+      - {required: false, label: "Dam Picture 2", name: "dam_picture2", widget: "image"}
     meta: # Meta data fields. Just like fields, but without any preview esrc/files/admin/config.ymllement
       - {label: "Title", name: "title", widget: "hidden", default: "Goats"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "goatpage.html"}
