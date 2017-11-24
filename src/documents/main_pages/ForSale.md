@@ -1,9 +1,5 @@
 ---
-title: "For Sale"
-navTitle: "For Sale"
-navPriority: 5
-layout: "default.html"
-collection: MainPage
+title: For Sale
 ---
 
-write content here.
+write content here..
