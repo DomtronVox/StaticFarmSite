@@ -11,6 +11,7 @@ polled: 'no'
 reference: 'no'
 sire: CH Algedi Farm DJ Drops of Honey *B
 dam: Gypsy Moon SD Irasbeth
+pedigree_picture: /images/gypsy moon dh mad teaparty.png
 side_picture: >-
   /images/teaparty, side view best
   13217465_10156854394645487_531753926492640830_o.jpg
