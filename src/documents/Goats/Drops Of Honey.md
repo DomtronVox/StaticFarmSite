@@ -12,5 +12,8 @@ reference: 'no'
 sire: NC PROMISEDLAND RC ZORRO *B
 dam: "SG Doublegate SCG Fashionmodel 2*M LA90\_EEEV 5-10 305 790 lbs of milk"
 side_picture: /images/glamour side view 13227305_10156854398235487_3410824979030834887_o.jpg
+front_picture: >-
+  /images/glamour front view
+  13220699_10156854397030487_2592633990884907735_o.jpg
 ---
 dark gold and black buckskin random white spots
