@@ -2,4 +2,4 @@
 title: For Sale
 ---
 
-write content here..
+write content here.
