@@ -1,8 +1,8 @@
 ---
-title: For Sale2
+title: For Sale
 navTitle: For Sale
 navPriority: '4'
 collection: MainPage
 layout: default.html
 ---
-test
+write content here.
