@@ -19,7 +19,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
       #hidden fields are not editable by the user but still show up in the file's front matter
       - {label: "Collection", name: "collection", widget: "hidden", default: "MainPage"}
-      - {label: "Layout", name: "layout", widget: "hidden", default: "main_page.html"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "default.html"}
     meta: #no clue what meta does. Didn't work as I was expecting.
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"} 
       
