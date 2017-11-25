@@ -17,10 +17,12 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Navigation Bar Text", name: "navTitle", widget: "string"}
       - {label: "Navigation bar priority (lower=farther left)", name: "navPriority", widget: "number"}
       - {label: "Body", name: "body", widget: "markdown"}
-    meta:
-      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"} 
-      - {label: "Layout", name: "layout", widget: "hidden", default: "main_page.html"}
+      #hidden fields are not editable by the user but still show up in the file's front matter
       - {label: "Collection", name: "collection", widget: "hidden", default: "MainPage"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "main_page.html"}
+    meta: #no clue what meta does. Didn't work as I was expecting.
+      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"} 
+      
 
   - name: "goats" 
     label: "Goat Pages"
@@ -59,8 +61,9 @@ collections: # A list of collections the CMS should be able to edit
       - {required: false, label: "Sire Picture 2", name: "sire_picture2", widget: "image"}
       - {required: false, label: "Dam Picture 1", name: "dam_picture1", widget: "image"}
       - {required: false, label: "Dam Picture 2", name: "dam_picture2", widget: "image"}
-    meta: # Meta data fields. Just like fields, but without any preview element src/files/admin/config.yml
+
+      #hidden fields are not editable by the user but still show up in the file's front matter
       - {label: "Title", name: "title", widget: "hidden", default: "Goats"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "goatpage.html"}
-      - {label: "Collection", name: "collection", widget: "hidden", default: "Goats"}
+      - {label: "Collection", name: "collection", widget: "hidden", default: "Goats"}      
 
