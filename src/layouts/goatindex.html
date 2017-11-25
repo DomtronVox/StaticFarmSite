@@ -64,7 +64,12 @@
 
         
         {{#each pagination.files}}
-            <h1>{{long_name}}</h1>
+            <h1><a href="/Goats/{{long_name}}.html">{{long_name}}</a></h1>
+            <p> born {{birth_date}}</p>
+            <p> Birth Farm {{birth_farm}}</p>
+            <p> Sire is {{sire}} </p>
+            <p> Dam is {{dam}}</p>
+            <p> ADGA Registration Number {{adga_num}}</p>
         {{/each }}
         
 
