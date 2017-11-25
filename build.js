@@ -35,6 +35,11 @@ settings["collections"] = {
         pattern: "*.css",
         sortBy: 'date',
         reverse: false
+    },
+    Goats: {
+        pattern: "src/documents/Goats/*",
+        sortBy: 'full_title',
+        reverse: false
     }
   }
 
@@ -166,7 +171,8 @@ function mergeMainPages(files, metalsmith, done) {
 function printTest(files, metalsmith, done) {
 
     setImmediate(done);
-    console.log("hay you");
+    console.log("#############################################################################")
+    console.log(metalsmith);
 
 }
 
