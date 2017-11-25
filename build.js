@@ -65,7 +65,7 @@ settings["pagination1"] = {
     path: 'Goats/bucks.html',
     
     filter: function (page) {
-      return page.gender == "male" && !page.reference
+      return page.gender == "male" && page.reference == "no"
     },
     pageMetadata: {
       title: 'Listing of Our Bucks'
@@ -80,7 +80,7 @@ settings["pagination2"] = {
     pageContents: new Buffer("Below is a listing of all our Does."),
     path: 'Goats/does.html',
     filter: function (page) {
-      return page.gender == "female" && !page.reference
+      return page.gender == "female" && page.reference == "no"
     },
     pageMetadata: {
       title: 'Listing of Our Does'
@@ -95,7 +95,7 @@ settings["pagination3"] = {
     pageContents: new Buffer("Below is a listing of all our reference bucks."),
     path: 'Goats/reference-bucks.html',
     filter: function (page) {
-      return page.gender == "male" && page.reference
+      return page.gender == "male" && page.reference == "yes"
     },
     pageMetadata: {
       title: 'Listing of Reference Bucks'
@@ -110,7 +110,7 @@ settings["pagination4"] = {
     pageContents: new Buffer("Below is a listing of all our reference does."),
     path: 'Goats/reference-does.html',
     filter: function (page) {
-      return page.gender == "female" && page.reference
+      return page.gender == "female" && page.reference == "yes"
     },
     pageMetadata: {
       title: 'Listing of Reference Does'
@@ -172,7 +172,7 @@ function printTest(files, metalsmith, done) {
 
     setImmediate(done);
     console.log("#############################################################################")
-    console.log(metalsmith);
+    console.log(metalsmith._metadata.collections);
 
 }
 

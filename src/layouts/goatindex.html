@@ -64,12 +64,19 @@
 
         
         {{#each pagination.files}}
-            <h1><a href="/Goats/{{long_name}}.html">{{long_name}}</a></h1>
-            <p> born {{birth_date}}</p>
-            <p> Birth Farm {{birth_farm}}</p>
-            <p> Sire is {{sire}} </p>
-            <p> Dam is {{dam}}</p>
-            <p> ADGA Registration Number {{adga_num}}</p>
+            <div style="margin-bottom:20px;">
+                <h1><a href="/Goats/{{full_title}}.html">{{full_title}}</a></h1>
+                <img src="{{side_picture}}" alt="Side picture of {{full_title}}" style="float:right;width:50%;"></img>
+                <p> {{la_score}}
+                <p> Sire: {{sire}} </p>
+                <p> Dam: {{dam}}</p>
+                <p> Sire's Sire: {{sire_sire}}</p>
+                <p> Sire's Dam: {{sire_dam}}</p>
+                <p> Dam's Sire: {{dam_sire}}</p>
+                <p> Dam's Dam: {{dam_dam}}</p>
+                <br/>
+                <p>Click here to see {{nickname}}'s page.</p>
+            </div>
         {{/each }}
         
 

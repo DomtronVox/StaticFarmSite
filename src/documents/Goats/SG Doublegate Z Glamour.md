@@ -1,5 +1,6 @@
 ---
 full_title: SG Doublegate Z Glamour
+nickname: Glamour
 la_score: LA 85 VEV+  (New to farm at time of LA)
 gender: female
 birth_date: 2/12/11
@@ -15,5 +16,6 @@ side_picture: /images/glamour side view 13227305_10156854398235487_3410824979030
 front_picture: >-
   /images/glamour front view
   13220699_10156854397030487_2592633990884907735_o.jpg
+collection: Goats
 ---
 dark gold and black buckskin random white spots

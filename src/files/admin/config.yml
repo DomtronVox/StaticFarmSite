@@ -32,6 +32,7 @@ collections: # A list of collections the CMS should be able to edit
     slug: "{{slug}}"
     fields: # The fields each document in this collection have
       - {required: true,  label: "Full Title", name: "full_title", widget: "string"}
+      - {required: true,  label: "Nickname", name: "nickname", widget: "string"}
       - {required: false, label: "LA Score", name: "la_score", widget: "string"}
       - {required: true,  label: "Gender", name: "gender", widget: "select", options: ["male", "female"]}
       - {required: false,  label: "Birth Date", name: "birth_date", widget: "datetime"}
@@ -48,6 +49,12 @@ collections: # A list of collections the CMS should be able to edit
 
       - {required: true,  label: "Sire", name: "sire", widget: "string"}
       - {required: true,  label: "Dam", name: "dam", widget: "string"}
+
+      - {required: true,  label: "Sire's Sire", name: "sire_sire", widget: "string"}
+      - {required: true,  label: "Sire's Dam", name: "sire_dam", widget: "string"}
+
+      - {required: true,  label: "Dam's Sire", name: "dam_sire", widget: "string"}
+      - {required: true,  label: "Dam's Dam", name: "dam_dam", widget: "string"}
 
       - {required: false, label: "Pdigree Picture", name: "pedigree_picture", widget: "image"}
 
