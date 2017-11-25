@@ -1,8 +1,12 @@
 ---
-title: Goats2
+title: Goats
 navTitle: Goats
 navPriority: '3'
 collection: MainPage
 layout: main_page.html
 ---
-test
+### [Does](/Goats/does.html) | [Bucks](/Goats/bucks.html) | [Reference Bucks](/Goats/reference-bucks.html) | [Reference Does](/Goats/reference-does.html)
+
+We raise registered Nigerian Dwarf Dairy goats.
+
+###
