@@ -61,7 +61,7 @@ settings["pagination1"] = {
   'collections.Goats': {
     perPage: 1000,
     layout: 'goatindex.html',
-    pageContents: new Buffer("Below is a listing of all our bucks."),
+    pageContents: new Buffer(""),
     path: 'Goats/bucks.html',
     
     filter: function (page) {
@@ -77,7 +77,7 @@ settings["pagination2"] = {
   'collections.Goats': {
     perPage: 1000,
     layout: 'goatindex.html',
-    pageContents: new Buffer("Below is a listing of all our Does."),
+    pageContents: new Buffer(""),
     path: 'Goats/does.html',
     filter: function (page) {
       return page.gender == "female" && page.reference == "no"
@@ -92,7 +92,7 @@ settings["pagination3"] = {
   'collections.Goats': {
     perPage: 1000,
     layout: 'goatindex.html',
-    pageContents: new Buffer("Below is a listing of all our reference bucks."),
+    pageContents: new Buffer(""),
     path: 'Goats/reference-bucks.html',
     filter: function (page) {
       return page.gender == "male" && page.reference == "yes"
@@ -107,7 +107,7 @@ settings["pagination4"] = {
   'collections.Goats': {
     perPage: 1000,
     layout: 'goatindex.html',
-    pageContents: new Buffer("Below is a listing of all our reference does."),
+    pageContents: new Buffer(""),
     path: 'Goats/reference-does.html',
     filter: function (page) {
       return page.gender == "female" && page.reference == "yes"

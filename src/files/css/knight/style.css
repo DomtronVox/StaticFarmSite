@@ -206,6 +206,7 @@ color: #fff;
 	padding:0;
 	list-style:none;
         background:#333333 !important;
+        font-size:18px;
 }
 .main-nav li{
 	display:inline;
