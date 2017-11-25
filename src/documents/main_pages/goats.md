@@ -3,7 +3,7 @@ title: Goats
 navTitle: Goats
 navPriority: '3'
 collection: MainPage
-layout: main_page.html
+layout: default.html
 ---
 ### [Does](/Goats/does.html) | [Bucks](/Goats/bucks.html) | [Reference Bucks](/Goats/reference-bucks.html) | [Reference Does](/Goats/reference-does.html)
 
