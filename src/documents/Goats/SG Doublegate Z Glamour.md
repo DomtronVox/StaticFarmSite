@@ -17,5 +17,7 @@ front_picture: >-
   /images/glamour front view
   13220699_10156854397030487_2592633990884907735_o.jpg
 collection: Goats
+layout:goatpage.html
+title: Goats
 ---
 dark gold and black buckskin random white spots
