@@ -1,5 +1,5 @@
 ---
-full_title: Gypsy Moon DH Mad TeaParty
+title: Gypsy Moon DH Mad TeaParty
 nickname: TeaParty
 la_score: LA 87 VVVV at 6 weeks fresh
 gender: female
@@ -24,7 +24,6 @@ back_picture: >-
   13198407_10156854394640487_7216686927729674263_o.jpg
 collection: Goats
 layout: goatpage.html
-title: Goats
 ---
 Pale gold and white with small dark moonspots; V in udder texture
 
