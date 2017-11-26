@@ -1,5 +1,6 @@
 ---
 title: Wooly Dog Down Vanessa Redwing 1*M
+nickname: Vanessa
 la_score: 'LA 84 +EE+ '
 gender: female
 birth_date: 6/7/05
