@@ -31,7 +31,7 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}"
     fields: # The fields each document in this collection have
-      - {required: true,  label: "Full Title", name: "full_title", widget: "string"}
+      - {required: true,  label: "Full Goat Name", name: "title", widget: "string"}
       - {required: true,  label: "Nickname", name: "nickname", widget: "string"}
       - {required: false, label: "LA Score", name: "la_score", widget: "string"}
       - {required: true,  label: "Gender", name: "gender", widget: "select", options: ["male", "female"]}
@@ -70,7 +70,6 @@ collections: # A list of collections the CMS should be able to edit
       - {required: false, label: "Dam Picture 2", name: "dam_picture2", widget: "image"}
 
       #hidden fields are not editable by the user but still show up in the file's front matter
-      - {label: "Title", name: "title", widget: "hidden", default: "Goats"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "goatpage.html"}
       - {label: "Collection", name: "collection", widget: "hidden", default: "Goats"}      
 
