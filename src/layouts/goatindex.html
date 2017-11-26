@@ -67,21 +67,34 @@
             <img src="{{side_picture}}" alt="Side picture of {{nickname}}"></img>
             <div style="height:500px;margin-top:50px;margin-bottom:10px;">
                 <h1><a href="/Goats/{{full_title}}.html">{{full_title}}</a></h1>
-                <img src="{{back_picture}}" alt="Rear picture of {{nickname}}" style="float:right;height:380px;"></img>
-                <h2> {{la_score}} </h2>
+                {{#if back_picture}}
+                  <img src="{{back_picture}}" alt="Rear picture of {{nickname}}" style="float:right;height:380px;"></img>
+                {{/if}}
+                {{#if la_score}}
+                  <h2> {{la_score}} </h2>
+                {{/if}}
                 <p> Sire: {{sire}} </p>
                 <p> Dam: {{dam}}
                     <ul style="list-style-type: none;">
-                        <li> Sire's Sire: {{sire_sire}}</li>
-                        <li> Sire's Dam: {{sire_dam}}</li>
-                        <li> Dam's Sire: {{dam_sire}}</li>
-                        <li> Dam's Dam: {{dam_dam}}</li>
+                        {{#if sire_sire}}
+                          <li> Sire's Sire: {{sire_sire}}</li>
+                        {{/if}}
+                        {{#if sire_dam}}
+                          <li> Sire's Dam: {{sire_dam}}</li>
+                        {{/if}}
+                        {{#if dam_sire}}
+                          <li> Dam's Sire: {{dam_sire}}</li>
+                        {{/if}}
+                        {{#if dam_dam}}
+                          <li> Dam's Dam: {{dam_dam}}</li>
+                        {{/if}}
                     </ul>
                 </p>
                 
                 <br/>
                 <p><a href="/Goats/{{full_title}}.html">Click here to see {{nickname}}'s page.</a></p>
             </div>
+            <hr/>
         {{/each }}
         
 
