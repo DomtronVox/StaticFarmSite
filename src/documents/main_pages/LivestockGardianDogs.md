@@ -11,7 +11,7 @@ What is a Livestock Guardian Dog (LGD)?    Some people think a LGD is a border c
 
 History of Karakachans:  The Karakachan dog Association of America describes the breed in this way:
 
-"The Karakachan Dog is one of Europe’s oldest breeds. Its ancestors \[Thracian Mollos]  started forming as early as the third millennium BC.... created for guarding its owner’s flock and property, it does not hesitate to fight wolves or bears or coyotes to defend its owner and his family in case of danger. 
+"The Karakachan Dog \[also called Thracian Mollos] is one of Europe’s oldest breeds. Its ancestors started forming as early as the third millennium BC.... created for guarding its owner’s flock and property, it does not hesitate to fight wolves or bears or coyotes to defend its owner and his family in case of danger. 
 
 The dog is named after the Karakachans – nomadic shepherds of Thracian origin and the oldest inhabitants of the Balkans.   Due to their conservative stock-breeding traditions, they managed to preserve some of the oldest breeds of domestic animals in Europe–the Karakachan sheep, the Karakachan horse, and, of course, the Karakachan Dog.
 
