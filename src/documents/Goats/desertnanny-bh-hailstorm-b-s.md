@@ -3,9 +3,10 @@ title: "DesertNanny BH Hailstorm *B\_*S"
 nickname: Hailstorm
 la_score: ' LA 89 VEV'
 gender: male
+birth_date: 2017-12-23T11:55:43.741Z
 blue_eyes: 'yes'
 polled: 'no'
-reference: 'yes'
+reference: 'no'
 sire: 'DesertNanny BBB Blue Haboob *S *B  '
 dam: Desert Nanny BR Blackbottom Pie  4*m 4*D  LA 86 VV++
 sire_sire: 'DesertNanny BR BlueBerryBuckle *S *B  '
