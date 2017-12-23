@@ -1,9 +1,9 @@
 ---
-title: Dozy Doe Down Hauntd Melody
-nickname: Melody
-gender: female
+title: Dozy Doe Down Hidden Tresor
+nickname: Tresor
+gender: male
 birth_date: 2017-12-23T11:43:47.445Z
-blue_eyes: 'no'
+blue_eyes: 'yes'
 polled: 'no'
 reference: 'no'
 sire: Wooly Dog Down Etienne Bleu  POLLED BLUE EYES
