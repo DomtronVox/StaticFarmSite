@@ -12,6 +12,9 @@ sire_sire: Gay-Mor’s T Blue  Looneytoons  +*S BLUE EYES
 sire_dam: Gay-Mor's Lucky Naughty Marietta 3*D
 dam_sire: "Pride of Texas Gladiator LA\_85\_+VE"
 dam_dam: "Rosasharn's TL Sun Dance 2005 ANDDA RGCH Jr. Doe 2x\_Best Of Breed Jr. Doe"
+side_picture: /images/bella pic2.jpg
+front_picture: /images/bella pic1.jpg
+back_picture: /images/sam_3701.jpg
 layout: goatpage.html
 collection: Goats
 ---
