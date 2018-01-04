@@ -1,6 +1,6 @@
 ---
 title: so why DO you want goats?
-navTitle: goats
+navTitle: goat intro
 navPriority: '1'
 collection: MainPage
 layout: default.html
