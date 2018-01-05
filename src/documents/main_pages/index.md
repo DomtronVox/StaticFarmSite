@@ -7,7 +7,7 @@ layout: main_page.html
 ---
 # Welcome!
 
-Hello, and **welcome** to our website. Dozy Doe Down is family owned and operated. We love to teach and hope that here you will learn something new. This website lets you meet our registered ND \*\*goats\*\* and \*\*Livestock Guardian Dogs\*\*, see who is \*\*for sale\*\*, get general information about our operation, and enjoy the pictures.
+Hello, and **welcome** to our website. Dozy Doe Down is family owned and operated. We love to teach and hope that here you will learn something new. This website lets you meet our registered ND **goats** and **Livestock Guardian Dogs**, see who is **for sale**, get general information about our operation, and enjoy the pictures.
 
 # About Us
 
