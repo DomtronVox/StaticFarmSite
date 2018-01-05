@@ -1,5 +1,5 @@
 ---
-title: Welcome to the Farm
+title: Hi! Welcome to Dozy Doe Down!
 navTitle: Welcome
 navPriority: 1
 collection: MainPage
@@ -7,7 +7,7 @@ layout: main_page.html
 ---
 # Welcome!
 
-Hello, and **welcome** to the website for Dozy Doe Down, a small family owned and operated ranch. This website lets you meet our animals, see who is up for sale, and get general information about our operation.
+Hello, and **welcome** to our website. Dozy Doe Down is family owned and operated. We love to teach and hope that here you will learn something new. This website lets you meet our animals, see who is for sale, get general information about our operation, and enjoy the pictures.
 
 # About Us
 
