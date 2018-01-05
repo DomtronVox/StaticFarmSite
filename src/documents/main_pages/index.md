@@ -7,9 +7,9 @@ layout: main_page.html
 ---
 # Welcome!
 
-Hello, and **welcome!** to our website. Dozy Doe Down is family owned and operated. We love to teach and hope that here you will learn something new. This website helps you meet our registered **Nigerian dwarf** **goats** and** livestock guardian dogs**, see who is **for sale**, and read **about us**. There is a **just for newbies** section and **FAQs **section. Please **contact us **for comments and questions. Most of all i hope you enjoy the pictures.
+Hello, and **welcome!** to our website. Dozy Doe Down is family owned and operated. We love to teach and hope that here you will learn something new. This website helps you meet our registered **Nigerian dwarf** **goats** and** livestock guardian dogs**, see who is **for sale**, and read **about us**. 
 
-
+We love to teach and hope that here you will learn something new. So we have a **just for newbies** section and **FAQs **section. Please **contact us **for comments and questions. Most of all i hope you enjoy the pictures.
 
 # About Us
 
