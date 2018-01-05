@@ -1,9 +1,9 @@
 ---
+title: Welcome to the Farm
+navTitle: Welcome
+navPriority: 1
 collection: MainPage
 layout: main_page.html
-navPriority: 1
-navTitle: Welcome
-title: Welcome All'yall to the Farm
 ---
 # Welcome!
 
