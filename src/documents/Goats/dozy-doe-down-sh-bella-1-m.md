@@ -1,5 +1,5 @@
 ---
-title: Dozy Doe Down SH Bella 1*M
+title: Dozy Doe Down SH Bella 1 M
 nickname: Bella
 gender: female
 birth_date: 2017-12-23T12:08:41.170Z
