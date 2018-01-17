@@ -1,8 +1,9 @@
 ---
 title: Goat Milk and Health
 navTitle: Interesting Facts
+navNest: Goats
 navPriority: '1'
-collection: MainPage
+collection: SubPage
 layout: default.html
 ---
 A Dr. Jensen discovered a common denominator in his 70-year study of people over the age of 100 in 90 countries. 

@@ -1,8 +1,9 @@
 ---
 title: so why DO you want goats?
 navTitle: just for newbies
+navNest: Goats
 navPriority: '1'
-collection: MainPage
+collection: SubPage
 layout: default.html
 ---
 pets? lawn ornaments? 

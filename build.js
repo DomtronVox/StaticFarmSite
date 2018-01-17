@@ -31,6 +31,9 @@ settings["collections"] = {
     MainPage: {
         sortBy: "navPriority"
     },
+    SubPage: {
+        sortBy: "navPriority"
+    },
     CSS: {
         pattern: "*.css",
         sortBy: 'date',
@@ -127,14 +130,32 @@ settings["move_up"] = {
 
 //processing - handle some custom processing
 function customProcessing(files, metalsmith, done) {
-
+    //just allows this to work like a metalsmith plugin
     setImmediate(done);
 
+    //add the file path to each file object so it doesn't get lost later on
     for (file in files) {
-        //files[file].collections = this._metadata.collections;
         files[file].path = file;
     }
 
+    //Further sort the sub pages collection so it is easier to build the nav bar
+    var subpage_collection = metalsmith._metadata.collections.SubPage;
+    var sorted_collection = {}
+    for (index in subpage_collection) {
+        var page = subpage_collection[index];
+
+        //if nav nest is defined sort the page
+        if (page && page.navNest) {
+            //create the sort catagory if it doesn't already exist
+            if (! (page.navNest in sorted_collection)) { sorted_collection[page.navNest] = [];}
+
+            sorted_collection[page.navNest].push(page);
+        }
+    }
+    //#finish by adding the sorted list to the collection object
+    subpage_collection["sortedByMainPage"] = sorted_collection
+
+    //console.log(metalsmith._metadata.collections.SubPage)
 }
 
 

@@ -1,8 +1,9 @@
 ---
 title: The DIFFERENCE between Goats Milk and Cows milk
 navTitle: Interesting Facts
+navNest: Goats
 navPriority: '1'
-collection: MainPage
+collection: SubPage
 layout: default.html
 ---
 Goat milk breaks down in the stomach in 20 minutes; it takes an hour/+ for the stomach to break down cow milk.

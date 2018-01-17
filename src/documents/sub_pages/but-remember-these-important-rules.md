@@ -1,8 +1,9 @@
 ---
 title: ' but remember these IMPORTANT rules...'
 navTitle: just for newbies
+navNest: Goats
 navPriority: '1'
-collection: MainPage
+collection: SubPage
 layout: default.html
 ---
 \*\**1) only buy from TESTED herds and ASK for the test results. Some diseases stay in your ground for YEARS. you want neg test results for CAE, CL, and Johnes. (we test for these and also for brucellosis each yr). 

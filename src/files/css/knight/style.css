@@ -209,7 +209,8 @@ color: #fff;
         font-size:18px;
 }
 .main-nav li{
-	display:inline;
+        position:relative;
+	display:inline-block;
 	margin:0 1px;
 }
 .main-nav li a{
@@ -227,8 +228,30 @@ color: #fff;
 
 .main-nav li a:hover{ 
 	text-decoration:none;
-	color: #c6337d;
+	color: #c6337a;
 }
+
+.sub-nav{
+        position: absolute;
+        left: -9999px;
+        padding-left: 2px;
+        background:#333333;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        min-width: 160px;
+        z-index: 1;
+}
+
+.sub-nav li{
+        color: black;
+        text-decoration: none;
+        display: block;
+        text-align: left;
+}
+
+.dropdown:hover .sub-nav{ 
+	left: auto;
+}
+
 
 .small-logo{ 
 	padding:0 32px;

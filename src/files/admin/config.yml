@@ -23,6 +23,22 @@ collections: # A list of collections the CMS should be able to edit
     meta: #no clue what meta does. Didn't work as I was expecting.
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"} 
       
+  - name: "sub_page"
+    label: "Sub Pages"
+    folder: "src/documents/sub_pages"
+    create: "true"
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Navigation Bar Text", name: "navTitle", widget: "string"}
+      - {label: "Which Main Page to sort navigation button under.", name: "navNest", widget: "relation", collection: "main_page", searchFields: "[title]", valueField: "title"}
+      - {label: "Navigation bar priority (lower=farther up)", name: "navPriority", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      #hidden fields are not editable by the user but still show up in the file's front matter
+      - {label: "Collection", name: "collection", widget: "hidden", default: "SubPage"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "default.html"}
+    meta: #no clue what meta does. Didn't work as I was expecting.
+      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
 
   - name: "goats" 
     label: "Goat Pages"
