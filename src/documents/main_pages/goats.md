@@ -1,5 +1,5 @@
 ---
-title: Goats
+title: Nigerian Dwarf Goats
 navTitle: Nigerian Dwarf Goats
 navPriority: '3'
 collection: MainPage
