@@ -1,7 +1,7 @@
 ---
 title: For Sale
 navTitle: For Sale
-navPriority: '30'
+navPriority: '40'
 collection: MainPage
 layout: default.html
 ---
