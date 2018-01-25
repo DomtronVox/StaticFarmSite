@@ -1,7 +1,7 @@
 ---
-title: Hi! Welcome to Dozy Doe Down!
+title: About Us
 navTitle: About Us
-navPriority: '10'
+navPriority: '50'
 collection: MainPage
 layout: main_page.html
 ---
