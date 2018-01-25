@@ -1,7 +1,7 @@
 ---
 title: Livestock Guardian Dogs
 navTitle: Livestock Guardian Dogs
-navPriority: '4'
+navPriority: '40'
 collection: MainPage
 layout: default.html
 ---
