@@ -5,4 +5,6 @@ navPriority: '30'
 collection: MainPage
 layout: default.html
 ---
-write content here.
+needs one drop down for "ND GOATS"
+
+needs 2nd drop down for "LGDs"
