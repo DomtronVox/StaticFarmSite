@@ -1,7 +1,7 @@
 ---
 title: KIDDING SCHED
 navTitle: KIDDING SCHED
-navPriority: '2'
+navPriority: '20'
 collection: MainPage
 layout: default.html
 ---
