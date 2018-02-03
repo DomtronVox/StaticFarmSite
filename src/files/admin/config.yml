@@ -31,6 +31,7 @@ collections: # A list of collections the CMS should be able to edit
     fields:
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Navigation Bar Text", name: "navTitle", widget: "string"}
+      - {label: "Which Main Page to sort navigation button under.", name: "navNest", widget: "relation", collection: "main_page", searchFields: "[title]", valueField: "title"}
       
 
   - name: "goats" 
