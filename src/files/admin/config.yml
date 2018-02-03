@@ -30,7 +30,9 @@ collections: # A list of collections the CMS should be able to edit
     slug: "{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Navigation Bar Text", name: "navTitle", widget: "string"}
       
+
   - name: "goats" 
     label: "Goat Pages"
     folder: "src/documents/Goats" # The path to the folder where the documents are stored
