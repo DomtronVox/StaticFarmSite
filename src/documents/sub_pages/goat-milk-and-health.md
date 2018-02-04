@@ -1,8 +1,8 @@
 ---
 title: Goat Milk and Health
-navTitle: Interesting Facts
+navTitle: Goat Milk and Health
 navNest: Nigerian Dwarf Goats
-navPriority: '1'
+navPriority: '7'
 collection: SubPage
 layout: default.html
 ---
