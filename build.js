@@ -30,19 +30,23 @@ settings["permalinks"] = {
 settings["collections"] = {
     MainPage: {
         sortBy: "navPriority"
+      , refer: false
     },
     SubPage: {
         sortBy: "navPriority"
+      , refer: false
     },
     CSS: {
-        pattern: "*.css",
-        sortBy: 'date',
-        reverse: false
+        pattern: "*.css"
+      , sortBy: 'date'
+      , refer: false
+      , reverse: false
     },
     Goats: {
-        pattern: "src/documents/Goats/*",
-        sortBy: 'full_title',
-        reverse: false
+        pattern: "src/documents/Goats/*"
+      , sortBy: 'full_title'
+      , refer: false
+      , reverse: false
     }
   }
 
@@ -65,13 +69,16 @@ settings["pagination1"] = {
     perPage: 1000,
     layout: 'goatindex.html',
     pageContents: new Buffer(""),
-    path: 'Goats/bucks.html',
-    
+    path: 'Goats/does.html',
     filter: function (page) {
-      return page.gender == "male" && page.reference == "no"
+      return page.gender == "female" && page.reference == "no"
     },
     pageMetadata: {
-      title: 'Listing of Our Bucks'
+      title: 'Listing of Our Does'
+    , navTitle: "Does"
+    , navNest: "Nigerian Dwarf Goats" //Note/TODO: dangerous to hard code this, if someone changes the page title it will break these pages
+    , collection: "SubPage"
+    , navPriority: '1'
     }
   }
 }
@@ -81,32 +88,22 @@ settings["pagination2"] = {
     perPage: 1000,
     layout: 'goatindex.html',
     pageContents: new Buffer(""),
-    path: 'Goats/does.html',
+    path: 'Goats/bucks.html',
+    
     filter: function (page) {
-      return page.gender == "female" && page.reference == "no"
+      return page.gender == "male" && page.reference == "no"
     },
     pageMetadata: {
-      title: 'Listing of Our Does'
+      title: 'Listing of Our Bucks'
+    , navTitle: "Bucks"
+    , navNest: "Nigerian Dwarf Goats" //Note/TODO: dangerous to hard code this, if someone changes the page title it will break these pages
+    , collection: "SubPage"
+    , navPriority: '2'
     }
   }
 }
 
 settings["pagination3"] = {
-  'collections.Goats': {
-    perPage: 1000,
-    layout: 'goatindex.html',
-    pageContents: new Buffer(""),
-    path: 'Goats/reference-bucks.html',
-    filter: function (page) {
-      return page.gender == "male" && page.reference == "yes"
-    },
-    pageMetadata: {
-      title: 'Listing of Reference Bucks'
-    }
-  }
-}
-
-settings["pagination4"] = {
   'collections.Goats': {
     perPage: 1000,
     layout: 'goatindex.html',
@@ -117,9 +114,33 @@ settings["pagination4"] = {
     },
     pageMetadata: {
       title: 'Listing of Reference Does'
+    , navTitle: "Reference Does"
+    , navNest: "Nigerian Dwarf Goats" //Note/TODO: dangerous to hard code this, if someone changes the page title it will break these pages
+    , collection: "SubPage"
+    , navPriority: '3'
     }
   }
 }
+
+settings["pagination4"] = {
+  'collections.Goats': {
+    perPage: 1000,
+    layout: 'goatindex.html',
+    pageContents: new Buffer(""),
+    path: 'Goats/reference-bucks.html',
+    filter: function (page) {
+      return page.gender == "male" && page.reference == "yes"
+    },
+    pageMetadata: {
+      title: 'Listing of Reference Bucks'
+    , navTitle: "Reference Bucks"
+    , navNest: "Nigerian Dwarf Goats" //Note/TODO: dangerous to hard code this, if someone changes the page title it will break these pages
+    , collection: "SubPage"
+    , navPriority: '4'
+    }
+  }
+}
+
 
 //>>TODO temporary fix for having to put mainpages under it's own directory because 
 //   netlify-cms does not like content collections with sub-folders
@@ -137,6 +158,14 @@ function customProcessing(files, metalsmith, done) {
     for (file in files) {
         files[file].path = file;
     }
+
+    //manually add the pagination index's to their subpage collection
+    //TODO Not a nice way to do it but since we call collections before
+    var subpage_collection = metalsmith._metadata.collections.SubPage;
+    goat_pagination_files = [ files["Goats/does.html"], files["Goats/bucks.html"], 
+                              files["Goats/reference-does.html"], files["Goats/reference-bucks.html"] ];
+
+    Array.prototype.push.apply(subpage_collection, goat_pagination_files)
 
     //Further sort the sub pages collection so it is easier to build the nav bar
     var subpage_collection = metalsmith._metadata.collections.SubPage;
