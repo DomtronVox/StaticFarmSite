@@ -1,8 +1,8 @@
 ---
 title: so why DO you want goats?
 navTitle: Why Get Goats?
-navNest: Nigerian Dwarf Goats
-navPriority: '6'
+navNest: 'For newbies '
+navPriority: '1'
 collection: SubPage
 layout: default.html
 ---
