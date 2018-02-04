@@ -1,7 +1,7 @@
 ---
 title: The DIFFERENCE between Goats Milk and Cows milk
 navTitle: Goats vs Cows Milk
-navNest: Nigerian Dwarf Goats
+navNest: 'For newbies '
 navPriority: '5'
 collection: SubPage
 layout: default.html
