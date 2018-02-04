@@ -1,8 +1,8 @@
 ---
 title: ' but remember these IMPORTANT rules...'
 navTitle: IMPORTANT rules
-navNest: Nigerian Dwarf Goats
-navPriority: '8'
+navNest: 'For newbies '
+navPriority: '2'
 collection: SubPage
 layout: default.html
 ---
