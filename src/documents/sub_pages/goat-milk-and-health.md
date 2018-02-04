@@ -1,7 +1,7 @@
 ---
 title: Goat Milk and Health
 navTitle: Goat Milk and Health
-navNest: Nigerian Dwarf Goats
+navNest: 'For newbies '
 navPriority: '7'
 collection: SubPage
 layout: default.html
