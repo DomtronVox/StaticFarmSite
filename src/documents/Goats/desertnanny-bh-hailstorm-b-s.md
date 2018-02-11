@@ -1,5 +1,5 @@
 ---
-title: "DesertNanny BH Hailstorm *B\_*S"
+title: 'DesertNanny BH Hailstorm '
 nickname: Hailstorm
 la_score: ' LA 89 VEV'
 gender: male
