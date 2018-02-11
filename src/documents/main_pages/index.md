@@ -5,8 +5,6 @@ navPriority: '50'
 collection: MainPage
 layout: main_page.html
 ---
-# About Us
-
 ## Our History
 
 We were homeschooling our kids, canning our food, baking our bread, heating our home with wood. We were raising and butchering meat rabbits, chickens, and ducks. ALL THIS while living in town. Raising dairy goats for milk, yogurt, and cheese was another goal to be self sufficient, so we decided to take the next step and move to the country. (YAY!!) About 15 years ago we started looking for a location to build our farm. Five years later, after seeing dozens of places, one providentially fell into our laps. An acquaintance was selling some property at an auction. We had only two days notice, but we got our 23 acres of heaven (woodland actually, perfect for goats!) Deciding to do as much as we could ourselves, we cleared a 700 foot road that bisects the property. Our first building up was a pole barn/workshop. My husband said we needed that first--"REALLY??" I wondered-- so we could have a place to store building materials and tools.  Then we fenced a couple of acres for our goats, building their housing at the same time. We hired the well and septic crews. Finally came the clearing and grading for the house area, the house and (AT LAST) moving in! we have many more  ideas for improvement.  Like most, our farm is a work in progress.
