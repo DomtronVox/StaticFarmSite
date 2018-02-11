@@ -106,7 +106,8 @@ p{
 }
 
 .logo{
-	width:500px;
+	/*width:500px;*/
+        height: 100%;
 	margin:0 auto 15px;
 }
 .header h1{
@@ -121,11 +122,11 @@ p{
 .small-header{
 	text-align:left;
 	background:url(/images/knight/pw_maze_black_2X.png) left top repeat;
-	height:130px;
+	height:330px;
 }
 
 .small-header .logo{
-	width:200px;
+	width:500px;
 	margin:0 auto 10px;
 }
 
