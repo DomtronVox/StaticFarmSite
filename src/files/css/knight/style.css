@@ -44,7 +44,7 @@ img{ max-width:100%;}
 a, a:hover, a:active{ outline:0px !important}
 
 @font-face {
-  font-family: 'FontAwesome';
+  font-family: 'LinotypeZapfino One';
   src: url('/fonts/knight/fontawesome-webfont.eot?v=4.1.0');
   src: url('/fonts/knight/fontawesome-webfont.eot?#iefix&v=4.1.0') format('embedded-opentype'), url('/fonts/knight/fontawesome-webfont.woff?v=4.1.0') format('woff'), url('/fonts/knight/fontawesome-webfont.ttf?v=4.1.0') format('truetype'), url('/fonts/knight/fontawesome-webfont.svg?v=4.1.0#fontawesomeregular') format('svg');
   font-weight: normal;
@@ -55,7 +55,7 @@ a, a:hover, a:active{ outline:0px !important}
 ---------------------------------*/
 body {
 	background:#fff;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'LinotypeZapfino One', sans-serif;
 	font-size:14px;
 	font-weight:normal;
 	color:#222222;
@@ -86,7 +86,7 @@ h3{
 h6{
 	font-size:16px;
 	color:#888888;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'LinotypeZapfino One', sans-serif;
 	font-weight:400;
 	text-align:center;
 	margin:0 0 60px 0;
@@ -110,7 +110,7 @@ p{
 	margin:0 auto 15px;
 }
 .header h1{
-	font-family: 'Montserrat',sans-serif;
+	font-family: 'LinotypeZapfino One',sans-serif;
 	font-size:50px;
 	font-weight:400;
 	letter-spacing: -1px;
@@ -142,7 +142,7 @@ p{
 }
 .we-create li{
 	display:inline-block;
-	font-family: 'Montserrat',sans-serif;
+	font-family: 'LinotypeZapfino One',sans-serif;
 	font-size:14px;
 	color: #bcbcbc;
 	text-transform: uppercase;
@@ -169,7 +169,7 @@ color: #fff;
 	color:#fff !important;
 	font-size:16px;
 	font-weight:400;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'LinotypeZapfino One', sans-serif;
 	display:inline-block;
 	border-radius:3px;
 	text-transform:uppercase;
@@ -217,7 +217,7 @@ color: #fff;
 	display:inline-block;
 	color:#f7ee6d;
 	text-transform:uppercase;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'LinotypeZapfino One', sans-serif;
 	text-decoration: none;
 	line-height:20px;
 	margin:17px 32px;
@@ -289,7 +289,7 @@ color: #fff;
 	font-style:normal;
 	font-size:18px;
 	color:#222222;
-	font-family: 'FontAwesome';
+	font-family: 'LinotypeZapfino One';
 	font-weight:normal;
 	margin-right:7px;
 }
@@ -352,7 +352,7 @@ color: #fff;
 	border-radius:4px;
 	font-size:15px;
 	color:#aaa;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'LinotypeZapfino One', sans-serif;
 	margin:0 0 15px 0;
 	transition:all 0.3s ease-in-out;
 	-moz-transition:all 0.3s ease-in-out;
@@ -379,7 +379,7 @@ color: #fff;
 	color:#ffffff;
 	font-size:14px;
 	text-transform:uppercase;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'LinotypeZapfino One', sans-serif;
 	font-weight:400;
 	border:0px;
 	transition:all 0.3s ease-in-out;
@@ -456,7 +456,7 @@ color: #fff;
 
 .res-nav_click {
 	line-height:38px;
-	font-family: 'FontAwesome';
+	font-family: 'LinotypeZapfino One';
 	font-size:38px;
 	text-decoration: none !important;
 	color:#777777;
