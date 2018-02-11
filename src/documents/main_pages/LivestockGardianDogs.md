@@ -1,6 +1,6 @@
 ---
 title: Livestock Guardian Dogs
-navTitle: Livestock Guardian Dogs
+navTitle: Livestock  Guardian  Dogs
 navPriority: '30'
 collection: MainPage
 layout: default.html
