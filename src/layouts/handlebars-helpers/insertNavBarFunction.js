@@ -35,10 +35,10 @@ module.exports = function(mainpages, subpages) {
         return_html += '</li>\n' //close out main nav button line tag
 
         //insert logo near the middle
-        if (index+1 == Math.floor(mainpages.length/2) ) {
+        /*if (index+1 == Math.floor(mainpages.length/2) ) {
             
             return_html += '<li class="small-logo"><a href="/"><img src="/images/small-logo.png" alt=""></a></li>\n'
-        }
+        }*/
 
     }
     
