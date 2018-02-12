@@ -1,7 +1,7 @@
 ---
 title: Wooly Dog Down Vanessa Redwing 1*M
 nickname: Vanessa
-la_score: 'LA 84 +EE+ '
+la_score: LA 84 +EE+ (at 10 yrs old)
 gender: female
 birth_date: 6/7/05
 adga_num: D1448464P
