@@ -1,5 +1,5 @@
 ---
-title: "DesertNanny BH Hailstorm *B\_*S"
+title: 'DesertNanny BH Hailstorm '
 nickname: Hailstorm
 la_score: ' LA 89 VEV'
 gender: male
@@ -8,7 +8,7 @@ blue_eyes: 'yes'
 polled: 'no'
 reference: 'no'
 sire: 'DesertNanny BBB Blue Haboob *S *B  '
-dam: Desert Nanny BR Blackbottom Pie  4*m 4*D  LA 86 VV++
+dam: Desert Nanny BR Blackbottom Pie  LA 86 VV++
 sire_sire: 'DesertNanny BR BlueBerryBuckle *S *B  '
 sire_dam: DesertNanny UMA AmberRose 4*M 4*D
 dam_sire: DF Farms HD Barney Rubble +*S +B LA 87 VVV
