@@ -9,6 +9,8 @@ We are breeders of Karakachan Livestock Guardian Dogs and are registered with th
 
 What is a Livestock Guardian Dog (LGD)?    Some people think a LGD is a border collie or other herding dog.  No, this is in fact the opposite of a Livestock Guardian Dog. They are very laid-back and careful of your livestock. They warn the owner when a baby is born, when an animal is hurt.   LGDs watch over and protect your herd 365/24/7. They bark to warn of danger to the flock, scaring off or killing small predators and will fight any large predators that invade your pens. 
 
+![](/images/kdaa post at christmas 12347921_10153370999242857_7846015720512439668_n.jpg)
+
 History of Karakachans:  The Karakachan dog Association of America describes the breed in this way:
 
 "The Karakachan Dog \[also called Thracian Mollos] is one of Europe’s oldest breeds. Its ancestors started forming as early as the third millennium BC.... created for guarding its owner’s flock and property, it does not hesitate to fight wolves or bears or coyotes to defend its owner and his family in case of danger. 
