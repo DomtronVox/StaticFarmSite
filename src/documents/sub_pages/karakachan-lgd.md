@@ -6,6 +6,10 @@ navPriority: '10'
 collection: SubPage
 layout: default.html
 ---
+We are breeders of Karakachan Livestock Guardian Dogs and are registered with the American Karakachan Dog Association (AKDA) and the Karakachan Dog Association of America (KDAA). 
+
+![]()
+
 History of Karakachans:  The Karakachan dog Association of America describes the breed in this way:
 
 "The Karakachan Dog \[also called Thracian Mollos] is one of Europe’s oldest breeds. Its ancestors started forming as early as the third millennium BC.... created for guarding its owner’s flock and property, it does not hesitate to fight wolves or bears or coyotes to defend its owner and his family in case of danger. 
