@@ -6,4 +6,4 @@ navPriority: '20'
 collection: SubPage
 layout: default.html
 ---
-DO NOT REQUIRE
+We currently also sell Great Pyrenees/ Anatolian Shepherd puppies. all pups are born and raised with our registered Nigerian Dwarf goats and also have exposure to our chickens.
