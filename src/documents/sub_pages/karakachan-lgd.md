@@ -22,14 +22,14 @@ The dog is named after the Karakachans – nomadic shepherds of Thracian origin 
 
 Since then, through the dedicated efforts of a few special people in Bulgaria and around the world, the population of the Karakachan dog has grown steadily.    In 2004, Dr. D. Phillip Sponenberg DVM, PHD imported the first Karakachans into the United States of America.     Today, there are between 100 and 200 Karakachan dogs serving as livestock guardians in the United States.
 
-![](/images/heidi.jpg)
+![null](/images/heidi.jpg)
 
 \*Heidi (BaBaYaga Melachay x Tessa Raindrop)\*
 
 <hr />
 
-![](/images/19398745_10207437718541427_143098271_n.jpg)
+![null](/images/19398745_10207437718541427_143098271_n.jpg)
 
 \*Branimir (Karaman Kyurenitsa x Yorda Kyurenitsa) from Hopping Acres. Above at Hopping Acres. Below with Tresor in the buck pen.\*
 
-![](/images/19398745_10207437718541427_143098271_n.jpg)
+![null](/images/use for intro to web site.jpg)
