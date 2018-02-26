@@ -5,4 +5,4 @@ navPriority: '20'
 collection: MainPage
 layout: default.html
 ---
-Spring Kidding Sched
+![](/images/ 2018 kidding sched.png)
