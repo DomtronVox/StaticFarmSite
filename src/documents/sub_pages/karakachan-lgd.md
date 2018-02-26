@@ -6,9 +6,11 @@ navPriority: '10'
 collection: SubPage
 layout: default.html
 ---
-We are breeders of Karakachan Livestock Guardian Dogs and are registered with the American Karakachan Dog Association (AKDA) and the Karakachan Dog Association of America (KDAA). 
+We are breeders of Karakachan Livestock Guardian Dogs and are registered with the American Karakachan Dog Association (AKDA) and the Karakachan Dog Association of America (KDAA). With the help of Dr. Phil we have bought dogs with complementary bloodlines. 
 
-![]()
+![null](/images/kdaa post at christmas 12347921_10153370999242857_7846015720512439668_n.jpg)
+
+Rayna (Mapacho x Hitar of Syncope Falls) from Running River Ranch
 
 History of Karakachans:  The Karakachan dog Association of America describes the breed in this way:
 
