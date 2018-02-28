@@ -7,13 +7,15 @@ layout: default.html
 ---
 What is a Livestock Guardian Dog (LGD)?    Some people think a LGD is a border collie or other herding dog.  No, this is in fact the opposite of a Livestock Guardian Dog.
 
+<hr />
+
 ![](/images/pups with glamour.jpg)
 
-<hr />
+<hr />LGDs watch over and protect your herd 365/24/7. They bark to warn of danger to the flock, scaring off or killing small predators and will fight any large predators that invade your pens.  
 
 ![](/images/pup sold to maria.jpg)
 
-They are very laid-back and careful of your livestock. They warn the owner when a baby is born, when an animal is hurt.   LGDs watch over and protect your herd 365/24/7. They bark to warn of danger to the flock, scaring off or killing small predators and will fight any large predators that invade your pens.  
+They are very laid-back and careful of your livestock. They warn the owner when a baby is born, when an animal is hurt.   
 
 ![](/images/"maggie" sold to chad mccoy.jpg)
 
