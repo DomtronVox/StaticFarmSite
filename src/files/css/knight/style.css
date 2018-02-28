@@ -208,7 +208,6 @@ color: #fff;
 	padding:0;
 	list-style:none;
         background:#333333 !important;
-        font-size:38px;
 }
 .main-nav li{
         position:relative;
@@ -218,8 +217,9 @@ color: #fff;
 .main-nav li a{
 	display:inline-block;
 	color:#f7ee6d;
-	text-transform:uppercase;
-	font-family: 'LinotypeZapfino One', sans-serif;
+	font-family: 'Century Schoolbook L';
+        font-size:28px;
+        font-style: italic;
 	text-decoration: none;
 	line-height:20px;
 	margin:17px 32px;
