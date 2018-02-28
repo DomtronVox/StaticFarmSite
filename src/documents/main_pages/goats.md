@@ -5,8 +5,12 @@ navPriority: '10'
 collection: MainPage
 layout: default.html
 ---
-### [Does](/Goats/does.html) | [Bucks](/Goats/bucks.html) | [Reference Bucks](/Goats/reference-bucks.html) | [Reference Does](/Goats/reference-does.html)
+(add text and pics) 
 
-We raise registered Nigerian Dwarf Dairy goats.
 
-###
+
+
+
+"you can see pics of the goats by using the drop down menu under Nigerian Dwarf goats OR you can click on these links below." 
+
+click on these links below to see pics of the goats OR you can use the drop down menu under Nigerian Dwarf goats.
