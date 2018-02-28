@@ -1,6 +1,6 @@
 ---
-title: KIDDING SCHED
-navTitle: KIDDING SCHED
+title: Kidding Schedule
+navTitle: Kidding Schedule
 navPriority: '20'
 collection: MainPage
 layout: default.html
