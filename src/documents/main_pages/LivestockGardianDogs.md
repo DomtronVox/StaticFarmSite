@@ -17,15 +17,7 @@ They are very laid-back and careful of your livestock. They warn the owner when 
 
 <hr />
 
-![](/images/pup sold to maria cropped pic.jpg)
-
-<hr />
-
 ![](/images/pup sold to maria chged resolution 500.jpg)
-
-<hr />
-
-![](/images/pup sold to maria.jpg)
 
 <hr />
 
