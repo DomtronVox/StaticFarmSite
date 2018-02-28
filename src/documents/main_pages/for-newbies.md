@@ -1,6 +1,6 @@
 ---
-title: 'For newbies '
-navTitle: For newbies
+title: 'For Newbies '
+navTitle: For Newbies
 navPriority: '45'
 collection: MainPage
 layout: default.html
