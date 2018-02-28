@@ -6,6 +6,12 @@ navPriority: '10'
 collection: SubPage
 layout: default.html
 ---
+We are breeders of Karakachan Livestock Guardian Dogs and are registered with the American Karakachan Dog Association (AKDA) and the Karakachan Dog Association of America (KDAA). With the help of Dr. Phil we have bought dogs with complementary bloodlines. 
+
+![null](/images/kdaa post at christmas 12347921_10153370999242857_7846015720512439668_n.jpg)
+
+\*Rayna (Mapacho x Hitar of Syncope Falls) from Running River Ranch\*
+
 History of Karakachans:  The Karakachan dog Association of America describes the breed in this way:
 
 "The Karakachan Dog \[also called Thracian Mollos] is one of Europe’s oldest breeds. Its ancestors started forming as early as the third millennium BC.... created for guarding its owner’s flock and property, it does not hesitate to fight wolves or bears or coyotes to defend its owner and his family in case of danger. 
@@ -16,4 +22,14 @@ The dog is named after the Karakachans – nomadic shepherds of Thracian origin 
 
 Since then, through the dedicated efforts of a few special people in Bulgaria and around the world, the population of the Karakachan dog has grown steadily.    In 2004, Dr. D. Phillip Sponenberg DVM, PHD imported the first Karakachans into the United States of America.     Today, there are between 100 and 200 Karakachan dogs serving as livestock guardians in the United States.
 
-![null](/images/kdaa post at christmas 12347921_10153370999242857_7846015720512439668_n.jpg)
+![null](/images/heidi.jpg)
+
+\*Heidi (BaBaYaga Melachay x Tessa Raindrop)\*
+
+<hr />
+
+![](/images/19398745_10207437718541427_143098271_n.jpg)
+
+\*Branimir (Karaman Kyurenitsa x Yorda Kyurenitsa) from Hopping Acres. Above at Hopping Acres. Below with Tresor in the buck pen.\*
+
+![](/images/use for intro to web site.jpg)
