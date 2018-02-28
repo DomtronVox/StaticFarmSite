@@ -9,6 +9,10 @@ What is a Livestock Guardian Dog (LGD)?    Some people think a LGD is a border c
 
 <hr />
 
+![](/images/pups with glamour 800.jpg)
+
+<hr />
+
 ![](/images/pups with glamour.jpg)
 
   <hr />
