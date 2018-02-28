@@ -39,7 +39,20 @@
 
 .figure{ margin:0px;}
 
-img{ max-width:100%;}
+img{ max-width:100%; }
+
+.main-section img {
+    border: 8px solid #c6337a;
+    padding: 8px;
+    position: relative;
+}
+
+
+/*
+    color: gold;
+    border: 8px solid #957122;
+    border-image: repeating-linear-gradient( 60deg, gold, #957122 4%, purple 1%, #c6337a 8%) 10;
+}*/
 
 a, a:hover, a:active{ outline:0px !important}
 
