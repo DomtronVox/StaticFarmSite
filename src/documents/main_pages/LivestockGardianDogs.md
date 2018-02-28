@@ -21,7 +21,7 @@ They are very laid-back and careful of your livestock. They warn the owner when 
 
 <hr />
 
-LGDs watch over and protect your herd 365/24/7. They bark to warn of danger to the flock, scaring off or killing small predators and will fight any large predators that invade your pens.  
+LGDs watch over and protect your herd 365/24/7. They bark to warn of danger to the flock, scaring off or killing small predators, and will fight any large predators that invade your pens.  
 
 <hr />
 
