@@ -29,7 +29,7 @@ LGDs watch over and protect your herd 365/24/7. They bark to warn of danger to t
 
 <hr />
 
-Above, MAGGIE watching her sheep. Below, GERMAINE with her chickens. All LGDs on this page born at Dozy Doe Down.
+Above, MAGGIE watching her sheep. Below, GERMAINE with her chickens. All LGDs on this page born at Dozy Doe Down. click on these links below to see pics of our LGDS OR you can use the drop down menu under Nigerian Dwarf goats.  [Karakachans](Karakachans)  [Other LGDs](<other LGDs>)
 
 <hr />
 
