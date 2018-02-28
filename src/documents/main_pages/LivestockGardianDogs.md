@@ -27,6 +27,10 @@ LGDs watch over and protect your herd 365/24/7. They bark to warn of danger to t
 
 ![](/images/"maggie" sold to chad mccoy.jpg)
 
+<hr />
+
 Above, MAGGIE watching her sheep. Below, GERMAINE with her chickens. Both born at Dozy Doe Down.
+
+<hr />
 
 ![null](/images/23022118_10214630361583454_1629941011_n.jpg)
