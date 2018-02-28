@@ -13,14 +13,6 @@ What is a Livestock Guardian Dog (LGD)?    Some people think a LGD is a border c
 
 <hr />
 
-![](/images/pups with glamour 800.jpg)
-
-<hr />
-
-![](/images/pups with glamour.jpg)
-
-  <hr />
-
 They are very laid-back and careful of your livestock. They warn the owner when a baby is born, when an animal is hurt.
 
 <hr />
