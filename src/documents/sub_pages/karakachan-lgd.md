@@ -10,7 +10,7 @@ We are breeders of Karakachan Livestock Guardian Dogs and are registered with th
 
 <hr />
 
-![null](/images/kdaa post at christmas 12347921_10153370999242857_7846015720512439668_n.jpg)
+![](/images/kdaa post at christmas 12347921_10153370999242857_7846015720512439668_n.jpg)
 
 Rayna (Mapacho x Hitar of Syncope Falls) from Running River Ranch
 
@@ -28,13 +28,13 @@ Since then, through the dedicated efforts of a few special people in Bulgaria an
 
 <hr />
 
-![null](/images/heidi.jpg)
+![](/images/heidi.jpg)
 
 Heidi (BaBaYaga Melachay x Tessa Raindrop)
 
 <hr />
 
-![null](/images/19398745_10207437718541427_143098271_n.jpg)
+![](/images/19398745_10207437718541427_143098271_n.jpg)
 
 Branimir (Karaman Kyurenitsa x Yorda Kyurenitsa) from Hopping Acres. Above at Hopping Acres. Below with Dozy Doe Down EB Hidden Tresor in the buck pen.
 
