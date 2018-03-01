@@ -5,6 +5,8 @@ navPriority: '45'
 collection: MainPage
 layout: default.html
 ---
+**BEWARE: GOATS ARE ADDICTIVE! (bwahahaha)**
+
 We normally start with wethers when working with people having no goat experience. A wether is a castrated male. They make excellent pets, don't have that "bucky" smell, and are cheaper than registered does or bucks.
 
 Just like any other new project, everyone has a learning curve with goats and will make mistakes. After you feel more comfortable with your wethers you can add a couple of new babies--this time does!  and when they are ready to be bred (at about 15 months old) you can get a buck and now YOU'RE IN BUSINESS!
