@@ -6,7 +6,7 @@ navPriority: '20'
 collection: SubPage
 layout: default.html
 ---
-![](/images/3.5.17 paton with melody.jpg)
+![](/images/pups with glamour 500.jpg)
 
 <hr />
 
