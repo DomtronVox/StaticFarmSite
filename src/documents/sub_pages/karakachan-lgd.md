@@ -28,7 +28,7 @@ Since then, through the dedicated efforts of a few special people in Bulgaria an
 
 <hr />
 
-![](/images/heidi.jpg)
+![](/images/heidi 499.jpg)
 
 Heidi (BaBaYaga Melachay x Tessa Raindrop)
 
