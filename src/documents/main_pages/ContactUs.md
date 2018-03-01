@@ -1,7 +1,7 @@
 ---
 title: Contact Us
 navTitle: Contact Us
-navPriority: '60'
+navPriority: '90'
 collection: MainPage
 layout: default.html
 ---
