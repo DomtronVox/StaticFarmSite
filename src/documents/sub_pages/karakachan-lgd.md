@@ -8,13 +8,13 @@ layout: default.html
 ---
 We are breeders of Karakachan Livestock Guardian Dogs and are registered with the American Karakachan Dog Association (AKDA) and the Karakachan Dog Association of America (KDAA). With the help of Dr. Phil we have bought dogs with complementary bloodlines. 
 
-<hr />
+<br />
 
 ![](/images/kdaa post at christmas 12347921_10153370999242857_7846015720512439668_n.jpg)
 
 Rayna (Mapacho x Hitar of Syncope Falls) from Running River Ranch
 
-<hr />
+<br />
 
 History of Karakachans:  The Karakachan dog Association of America describes the breed in this way:
 
@@ -26,18 +26,18 @@ The dog is named after the Karakachans – nomadic shepherds of Thracian origin 
 
 Since then, through the dedicated efforts of a few special people in Bulgaria and around the world, the population of the Karakachan dog has grown steadily.    In 2004, Dr. D. Phillip Sponenberg DVM, PHD imported the first Karakachans into the United States of America.     Today, there are between 100 and 200 Karakachan dogs serving as livestock guardians in the United States.
 
-<hr />
+<br />
 
 ![](/images/heidi 499.jpg)
 
 Heidi (BaBaYaga Melachay x Tessa Raindrop)
 
-<hr />
+<br />
 
-![](/images/19398745_10207437718541427_143098271_n.jpg)
+![null](/images/19398745_10207437718541427_143098271_n.jpg)
 
 Branimir (Karaman Kyurenitsa x Yorda Kyurenitsa) from Hopping Acres. Above at Hopping Acres. Below with Dozy Doe Down EB Hidden Tresor in the buck pen.
 
-<hr />
+<br />
 
 ![](/images/use for intro to web site.jpg)
