@@ -1,5 +1,5 @@
 ---
-title: Sales Policy
+title: For Sale
 navTitle: For Sale
 navPriority: '40'
 collection: MainPage
