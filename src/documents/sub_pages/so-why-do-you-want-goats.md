@@ -10,7 +10,7 @@ layout: default.html
 
 pets? lawn ornaments? 
 
-being self-sufficient by making your own milk, yogurt, cheese, meat, even soap?
+being self-sufficient by making your own milk, yogurt, cheese, meat, even soap and cleaning products?
 
 <hr>
 
