@@ -36,7 +36,7 @@ Heidi (BaBaYaga Melachay x Tessa Raindrop)
 
 ![null](/images/19398745_10207437718541427_143098271_n.jpg)
 
-Branimir (Karaman Kyurenitsa x Yorda Kyurenitsa) from Hopping Acres. Above at Hopping Acres. Below with Tresor in the buck pen.
+Branimir (Karaman Kyurenitsa x Yorda Kyurenitsa) from Hopping Acres. Above at Hopping Acres. Below with Dozy Doe Down EB Hidden Tresor in the buck pen.
 
 <hr />
 
