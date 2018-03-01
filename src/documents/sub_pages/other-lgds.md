@@ -14,7 +14,7 @@ We currently also sell Great Pyrenees/ Anatolian Shepherd puppies. all pups are 
 
 <hr />
 
-![null](/images/3.5.17 freya, closest to br hen, drinking. ignoring hen.jpg)
+![](/images/3.5.17 freya, closest to br hen, drinking. ignoring hen.jpg)
 
 <hr />
 
@@ -22,7 +22,7 @@ Above, chickens and pups sharing their water.  Below, pup watching the goats pla
 
 <hr />
 
-![](/images/3.5.17 watching the goats play king of the goathouse.jpg)
+![](/images/3.5.17 watching the goats play king of the goathouse cropped.jpg)
 
 <hr />
 
@@ -30,7 +30,7 @@ Above, chickens and pups sharing their water.  Below, pup watching the goats pla
 
 <hr />
 
-Above Patton with our goats.  Below, Germaine as a pup bottom of pic.
+Above Patton with our goats.  Below, Germaine as a pup (bottom of pic).
 
 <hr />
 
