@@ -6,7 +6,7 @@ navPriority: '5'
 collection: SubPage
 layout: default.html
 ---
-The DIFFERENCE between Goat Milk and Cow milk
+The DIFFERENCE between Goat Milk and Cow Milk
 
 <br />
 
