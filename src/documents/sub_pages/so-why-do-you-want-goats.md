@@ -1,7 +1,7 @@
 ---
 title: so why DO you want goats?
 navTitle: Why Get Goats?
-navNest: 'For newbies '
+navNest: 'For Newbies '
 navPriority: '1'
 collection: SubPage
 layout: default.html
