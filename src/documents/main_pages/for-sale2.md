@@ -13,6 +13,6 @@ Our herd is tested at least once a year for CAE, Johnes, and Brucellosis. and we
 
 <br />
 
-we are very strict on bio-security here so you will not be able to walk around Dozy Doe Down. (Johnes can be tracked on shoes) BUT we are very glad to have you come see the goats in a pen at the entrance of our farm.
+we are very strict on bio-security here so you will not be able to walk around Dozy Doe Down. (Johnes can be tracked on shoes) BUT any animal you are interested in we will be happy to move to a pen at the entrance of our farm.
 
 <br />
