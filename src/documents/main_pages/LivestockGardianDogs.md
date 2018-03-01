@@ -7,7 +7,7 @@ layout: default.html
 ---
 What is a Livestock Guardian Dog (LGD)?    Some people think a LGD is a border collie or other herding dog.  No, this is in fact the opposite of a Livestock Guardian Dog.
 
-<hr />
+<br />
 
 ![](/images/pups with glamour 500.jpg)
 
