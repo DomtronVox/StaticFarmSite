@@ -5,4 +5,8 @@ navPriority: '60'
 collection: MainPage
 layout: default.html
 ---
-asefas
+Frequently Asked Questions
+
+<br />
+
+<br />
