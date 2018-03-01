@@ -7,7 +7,7 @@ layout: default.html
 ---
 <hr />
 
-![](/images/ 2017 hs spring kids (some) pic1.jpg)
+![](/images/2017 hs spring kids cropped.png)
 
 these are some of the kids born in 2017. we expect another "bumper crop" for this year.
 
