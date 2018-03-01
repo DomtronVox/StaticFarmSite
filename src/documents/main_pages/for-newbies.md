@@ -15,7 +15,7 @@ We prefer offering wethers (castrated males) when working with people having no 
 
 <hr>
 
-Our policy used to be to start you with a minimum of two goats.  But over the years I've had a few people contact us in tears. They bought only one kid from someone else OR they had two goats but one died and the other was crying 24/7. And, "**would I sell them a goat???" ** 
+Our policy used to be to start you with a minimum of two goats.  But over the years I've had a few people contact us in tears. They bought only one kid from someone else OR they had two goats but one died and the other was crying 24/7. And, "please, do you have a wether I could buy to make my sad goat happy?" 
 
 <hr>
 
