@@ -6,7 +6,7 @@ navPriority: '10'
 collection: SubPage
 layout: default.html
 ---
-We are breeders of Karakachan Livestock Guardian Dogs and are registered with the American Karakachan Dog Association (AKDA) and the Karakachan Dog Association of America (KDAA). With the help of Dr. Phil we have bought dogs with complementary bloodlines. 
+We are breeders of Karakachan Livestock Guardian Dogs and are registered with the American Karakachan Dog Association (AKDA) and the Karakachan Dog Association of America (KDAA). With the help of Dr. Phillip Sponenberg we have bought dogs with complementary bloodlines. 
 
 <br />
 
