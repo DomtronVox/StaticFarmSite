@@ -1,5 +1,5 @@
 ---
-title: Dozy Doe Down Hidden Tresor
+title: Dozy Doe Down EB Hidden Tresor
 nickname: Tresor
 gender: male
 birth_date: 2017-12-23T11:43:47.445Z
