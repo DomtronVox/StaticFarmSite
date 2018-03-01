@@ -1,5 +1,5 @@
 ---
-title: Sweet Garden Rosabella
+title: Sweet Garden Rosabella 4*M
 nickname: Rosa
 gender: female
 birth_date: 2017-12-23T11:02:35.951Z
