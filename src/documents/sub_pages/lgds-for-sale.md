@@ -1,6 +1,6 @@
 ---
 title: LGDs For Sale
-navTitle: LGDs For Sale
+navTitle: 'LGDs '
 navNest: For Sale
 navPriority: '2'
 collection: SubPage
