@@ -26,4 +26,4 @@ layout: default.html
 
 <br />
 
-5. **Have LOTS of FUN!!**
+* **Have LOTS of FUN!!**
