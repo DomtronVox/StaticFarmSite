@@ -1,11 +1,11 @@
 ---
-title: Gypsy Moon DH Mad TeaParty
+title: Gypsy Moon DH Mad TeaParty 1*M
 nickname: TeaParty
 la_score: LA 87 VVVV at 6 weeks fresh
 gender: female
 birth_date: 02/27/13
 adga_num: D1656566
-milk_records: on milk test
+milk_records: ''
 extra_info: "## Pedigree highlights\n\nG.Sire: **GCH Algedi Farm Drops of Jupiter S ++*B LA91 EEE**\n\nG.Dam: **CH SG Rosasharn's UMT Tupelo Honey  4\\*D 4\\*M  LA91 EEEE 11x BOB      3x Best Doe  5x\_Best\_Udder    4x Sr Grand**\n\nG.G. Dam: **ARMCH SG Rosasharn's BuckWheat Honey 3\\*D 3\\*M  LA91\_EEEE** _7-00* 305 1500 Lbs of milk_"
 blue_eyes: 'no'
 polled: 'no'
@@ -22,8 +22,8 @@ front_picture: >-
 back_picture: >-
   /images/teaparty, rear view
   13198407_10156854394640487_7216686927729674263_o.jpg
-collection: Goats
 layout: goatpage.html
+collection: Goats
 ---
 Pale gold and white with small dark moonspots; V in udder texture
 
