@@ -8,6 +8,8 @@ layout: default.html
 ---
 ND Goats for Sale
 
+<br />
+
 Within a few hours of being born ND kids are very active. We disbud all our goats unless they are born polled--genetically hornless. That way they won't accidentally put out a person eye--I've known it to happen.
 
 <br />
