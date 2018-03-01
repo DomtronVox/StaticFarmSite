@@ -1,7 +1,7 @@
 ---
 title: ' but remember these IMPORTANT rules...'
 navTitle: IMPORTANT rules
-navNest: 'For newbies '
+navNest: 'For Newbies '
 navPriority: '2'
 collection: SubPage
 layout: default.html
