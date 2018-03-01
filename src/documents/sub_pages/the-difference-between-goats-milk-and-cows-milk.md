@@ -1,7 +1,7 @@
 ---
 title: The DIFFERENCE between Goats Milk and Cows milk
 navTitle: Goats vs Cows Milk
-navNest: 'For newbies '
+navNest: 'For Newbies '
 navPriority: '5'
 collection: SubPage
 layout: default.html
