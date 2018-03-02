@@ -1,12 +1,12 @@
 ---
 title: Goat Milk and Health
-navTitle: Goat Milk and Health
+navTitle: Goat Milk and Your Health
 navNest: 'For Newbies '
 navPriority: '7'
 collection: SubPage
 layout: default.html
 ---
-# Goat Milk and Health
+# Goat Milk and Your Health
 
 ## A Dr. Jensen discovered a common denominator in his 70-year study of people over the age of 100 in 90 countries. 
 
