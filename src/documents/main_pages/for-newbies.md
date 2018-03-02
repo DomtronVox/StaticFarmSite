@@ -19,7 +19,7 @@ We prefer offering wethers (castrated males) when working with people having no 
 
 <br />
 
-![null](/images/three wethers sold for christmas cropped.jpg)
+![null]()
 
 <br />
 
@@ -31,7 +31,7 @@ So now our policy is to sell in groups of three, when possible.  That way if som
 
 <br />
 
-![](/images/three wethers sold for christmas.jpg)
+![](/images/three wethers sold for christmas cropped.jpg)
 
 <br />
 
