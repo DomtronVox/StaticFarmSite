@@ -43,8 +43,6 @@ Our blueberry bushes
 
 <br />
 
-## 
-
 ![null]()
 
 <br />
