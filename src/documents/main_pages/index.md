@@ -33,9 +33,9 @@ About 15 years ago we started looking for a location to build our farm. Five yea
 
 ![](/images/sunrise from my porch smaller.jpg)
 
-<br />
+above: sunrise from my porch .. below sunset 
 
-![]()
+![](/images/sunset day 2  smaller.jpg)
 
 <br />
 
