@@ -21,6 +21,16 @@ layout: default.html
 
 <br />
 
+## Fixed some breakfast. Crepes with fresh blueberries picked this mornin'.
+
+![](/images/crepes 871.jpg)
+
+<br />
+
+![](/images/blueberries.jpg)
+
+<br />
+
 ## Want to play with the kids? Goat kids, of course!
 
 <br />
