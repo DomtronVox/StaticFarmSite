@@ -15,11 +15,11 @@ We prefer offering wethers (castrated males) when working with people having no 
 
 <br />
 
-**Goats are like potato chips, you cant get just one!** Goats are herd animals. They HAVE TO have another goat friend otherwise they mope and cry, get stressed and that leads to sickness. 
+**Goats are like potato chips, you cant have just one!** Goats are herd animals. They HAVE TO have another goat friend otherwise they mope and cry, get stressed and that leads to sickness. 
 
 <br />
 
-![null]()
+![null](/images/three wethers sold for christmas cropped.jpg)
 
 <br />
 
