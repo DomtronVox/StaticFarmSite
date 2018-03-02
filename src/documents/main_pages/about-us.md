@@ -19,11 +19,17 @@ layout: default.html
 
 ![](/images/peach jam pic.jpg)
 
-![](/images/peach jam pic.jpg)
+<br />
+
+![](/images/barred rocks for sale pic.jpg)
 
 <br />
 
 ## About 15 years ago we started looking for a location to build our farm. Five years later, after seeing dozens of places, one providentially fell into our laps. An acquaintance was selling some property at an auction. We had only two days notice, but we got our 23 acres of heaven (woodland actually, perfect for goats!)
+
+<br />
+
+![](/images/woods.jpg)
 
 <br />
 
