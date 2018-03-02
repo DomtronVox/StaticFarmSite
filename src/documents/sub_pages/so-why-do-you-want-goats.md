@@ -14,7 +14,7 @@ being self-sufficient by making your own milk, yogurt, cheese, meat, even soap a
 
 <br />
 
-![](/images/bella-apache doelings pic2.jpg)
+![]()
 
 <br />
 
