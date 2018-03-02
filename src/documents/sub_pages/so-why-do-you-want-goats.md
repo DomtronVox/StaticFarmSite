@@ -30,7 +30,7 @@ Nigerians are great at producing JUST the right amt of milk for family homestead
 
 <br />
 
-![null](/images/amber, rear view closeup 13227619_10156854393145487_1279162912626503681_o.jpg)
+![null](/images/amber, rear view closeup cropped.jpg)
 
 <br />
 
