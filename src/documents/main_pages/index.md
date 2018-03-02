@@ -27,11 +27,17 @@ About 15 years ago we started looking for a location to build our farm. Five yea
 
 <br />
 
-![null](/images/sunrise from my porch smaller.jpg)
+ Deciding to do as much as we could ourselves, we cleared a 700 foot road that bisects the property. Our first building up was a pole barn/workshop. My husband said we needed that first--"REALLY??" I wondered-- so we could have a place to store building materials and tools.  Then we fenced a couple of acres for our goats, building their housing at the same time. We hired the well and septic crews. Finally came the clearing and grading for the house area, the house and (AT LAST) moving in! we have many more  ideas for improvement.  Like most, our farm is a work in progress.
 
 <br />
 
- Deciding to do as much as we could ourselves, we cleared a 700 foot road that bisects the property. Our first building up was a pole barn/workshop. My husband said we needed that first--"REALLY??" I wondered-- so we could have a place to store building materials and tools.  Then we fenced a couple of acres for our goats, building their housing at the same time. We hired the well and septic crews. Finally came the clearing and grading for the house area, the house and (AT LAST) moving in! we have many more  ideas for improvement.  Like most, our farm is a work in progress.
+![](/images/sunrise from my porch smaller.jpg)
+
+<br />
+
+![]()
+
+<br />
 
 ## Location
 
