@@ -10,7 +10,8 @@ layout: default.html
 
 ## A Dr. Jensen discovered a common denominator in his 70-year study of people over the age of 100 in 90 countries. 
 
-* # It was goat milk.
+# It was goat milk.
+
 * ## Margaret Patton of London died at 137 years old.
 * ## Jonathan Hartop walked nine miles a day at the age of 136 and lived to be 138.
 * ## Thomas Parr lived 152 years.
