@@ -10,15 +10,15 @@ layout: default.html
 
 <br />
 
-We currently also sell Great Pyrenees/ Anatolian Shepherd puppies. all pups are born and raised with our registered Nigerian Dwarf goats and also have exposure to our chickens.
+## We currently also sell Great Pyrenees/ Anatolian Shepherd puppies. all pups are born and raised with our registered Nigerian Dwarf goats and also have exposure to our chickens.
 
-<br />
+## <br />
 
 ![](/images/3.5.17 freya, closest to br hen, drinking. ignoring hen.jpg)
 
 <br />
 
-Above, chickens and pups sharing their water.  Below, pup watching the goats play "king of the goat house"
+## Above, chickens and pups sharing their water.  Below, pup watching the goats play "king of the goat house"
 
 <br />
 
@@ -30,7 +30,7 @@ Above, chickens and pups sharing their water.  Below, pup watching the goats pla
 
 <br />
 
-Above Patton with our goats.  Below, Germaine as a pup (bottom of pic).
+## Above Patton with our goats.  Below, Germaine as a pup (bottom of pic).
 
 <br />
 
