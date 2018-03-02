@@ -11,7 +11,7 @@ We prefer offering wethers (castrated males) when working with people having no 
 
 <br />
 
-![]()
+![null](/images/sam_2409.jpg)
 
 <br />
 
@@ -19,7 +19,7 @@ We prefer offering wethers (castrated males) when working with people having no 
 
 <br />
 
-![]()
+![null]()
 
 <br />
 
