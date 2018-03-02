@@ -7,7 +7,7 @@ layout: default.html
 ---
 <br />
 
-Email us at   [ DozyDoeDown@gmail.com](DozyDoeDown@gmail.com)
+# Email us at   [ DozyDoeDown@gmail.com](DozyDoeDown@gmail.com)
 
 <br />
 
@@ -15,4 +15,4 @@ Email us at   [ DozyDoeDown@gmail.com](DozyDoeDown@gmail.com)
 
 <br />
 
-"Like" us on FB <https://www.facebook.com/dozydoedown/>
+# "Like" us on FaceBook <https://www.facebook.com/dozydoedown/>
