@@ -37,13 +37,15 @@ layout: default.html
 
 <br />
 
-![null](/images/blueberries.jpg)
+![l](/images/fencing cropped.jpg)
 
-Our blueberry bushes 
+
 
 <br />
 
-![null]()
+![null](/images/blueberries.jpg)
+
+Our blueberry bushes 
 
 <br />
 
