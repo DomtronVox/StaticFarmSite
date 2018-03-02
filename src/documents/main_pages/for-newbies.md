@@ -7,7 +7,7 @@ layout: default.html
 ---
 # **BEWARE: GOATS ARE ADDICTIVE! (bwahahaha)**
 
-## We prefer offering wethers (castrated males) when working with people having no goat experience.  Wethers make excellent pets, don't have that "bucky" smell, and are cheaper than registered does or bucks. Since you don't already have goats, i prefer to sell in groups of three, when possible. **WHY THREE?** you ask. 
+## We prefer offering wethers (castrated males) when working with people having no goat experience.  Wethers make excellent pets, don't have that "bucky" smell, and are cheaper than registered does or bucks. Since you don't already have goats, i prefer to sell in groups of three, when possible. **WHY THREE?** you ask.
 
 <br />
 
@@ -15,7 +15,7 @@ layout: default.html
 
 <br />
 
-## **Goats are like potato chips, you cant have just one! ** Goats are herd animals. They HAVE TO have another goat friend otherwise they mope and cry, get stressed and that leads to sickness. 
+## **Goats are like potato chips, you cant have just one! ** Goats are herd animals. They HAVE TO have another goat friend otherwise they mope and cry, get stressed and that leads to sickness.
 
 ## <br />
 
@@ -23,7 +23,7 @@ layout: default.html
 
 <br />
 
-## Our policy used to be to start you with a minimum of two goats.  But over the years I've had a few people contact us in tears. They bought only one kid from someone else OR they had two goats but one died and the other was crying 24/7. And, "please, do you have a wether I could buy to make my sad goat happy?" 
+## Our policy used to be to start you with a minimum of two goats.  But over the years I've had a few people contact us in tears. They bought only one kid from someone else OR they had two goats but one died and the other was crying 24/7. And, "please, do you have a wether I could buy to make my sad goat happy?"
 
 <br />
 
@@ -39,4 +39,4 @@ layout: default.html
 
 <br />
 
-Click on these links below to see interesting articles OR you can use the drop down menu under For Newbies. [Why Get Goats? ](sub_pages/so-why-do-you-want-goats.html) | [Important Rules](sub_pages/but-remember-these-important-rules.html) | [Goat Milk vs Cow Milk](sub_pages/the-difference-between-goats-milk-and-cows-milk.html) | [Goat Milk and Your Health](sub_pages/goat-milk-and-health.html)
+## Click on these links below to see interesting articles OR you can use the drop down menu under For Newbies. [Why Get Goats? ](sub_pages/so-why-do-you-want-goats.html) | [Important Rules](sub_pages/but-remember-these-important-rules.html) | [Goat Milk vs Cow Milk](sub_pages/the-difference-between-goats-milk-and-cows-milk.html) | [Goat Milk and Your Health](sub_pages/goat-milk-and-health.html)
