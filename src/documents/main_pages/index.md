@@ -9,7 +9,7 @@ Dozy Doe Down is family owned and operated.  We strongly believe EVERYONE deserv
 
 <br />
 
-![](/images/buck no 2 pic2.jpg)
+![](/images/celestrina embers bucks.jpg)
 
 <br />
 
@@ -27,7 +27,7 @@ About 15 years ago we started looking for a location to build our farm. Five yea
 
 <br />
 
-![]()
+![null](/images/sunrise from my porch smaller.jpg)
 
 <br />
 
