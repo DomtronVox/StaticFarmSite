@@ -1,7 +1,7 @@
 ---
 title: About Us
-navTitle: About Us
-navPriority: '70'
+navTitle: Home
+navPriority: '5'
 collection: MainPage
 layout: homepage.html
 ---
