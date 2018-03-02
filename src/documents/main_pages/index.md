@@ -43,4 +43,4 @@ Sunrise (above) and Sunset (below) both taken from my porch
 
 Our farm is found between the two picturesque towns of Pumpkintown and Marietta. Located at the foot of the Appalachian mountains in upstate South Carolina, we enjoy an occasional snowfall some winters, long comfortable springs and falls, and warm summers perfect for growing things.
 
-## Ya'all come back, hear?
+## Ya'all come back now, hear?
