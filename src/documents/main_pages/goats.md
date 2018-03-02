@@ -1,7 +1,7 @@
 ---
 title: Nigerian Dwarf Goats
 navTitle: Nigerian  Dwarf  Goats
-navPriority: '10'
+navPriority: '15'
 collection: MainPage
 layout: default.html
 ---
