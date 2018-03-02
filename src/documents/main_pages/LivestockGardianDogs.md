@@ -21,7 +21,7 @@ layout: default.html
 
 <hr />
 
-## LGDs watch over and protect your herd 365/24/7. They bark to warn of danger to the flock, scaring off or killing small predators, and will fight any large predators that invade your pens.  
+## LGDs watch over and protect your herd 365/24/7. They bark to warn of danger to the flock, scaring off or killing small predators, and will fight any large predators that invade your pens.
 
 <hr />
 
@@ -29,7 +29,7 @@ layout: default.html
 
 <hr />
 
-## Above, MAGGIE watching her sheep. Below, GERMAINE with her chickens. All LGDs on this page born at Dozy Doe Down. click on these links below to see pics of our LGDS OR you can use the drop down menu under Livestock Guardian Dogs.  [Karakachans](/sub_pages/karakachan-lgd.html)    |    [Other LGDs](<other LGDs>)
+## Above, MAGGIE watching her sheep. Below, GERMAINE with her chickens. All LGDs on this page born at Dozy Doe Down. 
 
 <hr />
 
