@@ -29,10 +29,10 @@ layout: default.html
 
 <hr />
 
-## Above, MAGGIE watching her sheep. Below, GERMAINE with her chickens. All LGDs on this page born at Dozy Doe Down. 
+## Above, MAGGIE watching her sheep. Below, GERMAINE with her chickens. All LGDs on this page born at Dozy Doe Down.
 
 <hr />
 
 ![null](/images/23022118_10214630361583454_1629941011_n.jpg)
 
-## click on these links below to see pics of our LGDS OR you can use the drop down menu under Livestock Guardian Dogs.    [Karakachans](/sub_pages/karakachan-lgd.html)   |  [ Other LGDs](/sub_pages/other-lgds.html)
+## Click on these links below to see pics of our LGDS OR you can use the drop down menu under Livestock Guardian Dogs.    [Karakachans](/sub_pages/karakachan-lgd.html)   |  [ Other LGDs](/sub_pages/other-lgds.html)
