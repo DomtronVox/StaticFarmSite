@@ -9,8 +9,4 @@ layout: default.html
 
 
 
-
-
-"you can see pics of the goats by using the drop down menu under Nigerian Dwarf goats OR you can click on these links below." 
-
-click on these links below to see pics of the goats OR you can use the drop down menu under Nigerian Dwarf goats.
+click on these links below to see pics of the goats OR you can use the drop down menu under Nigerian Dwarf goats. Sr. Does | Jr. Does | Bucks | Reference Goats
