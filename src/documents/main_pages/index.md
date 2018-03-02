@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: Home
 navTitle: Home
 navPriority: '10'
 collection: MainPage
