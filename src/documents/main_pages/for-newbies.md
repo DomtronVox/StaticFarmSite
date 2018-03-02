@@ -31,4 +31,8 @@ So now our policy is to sell in groups of three, when possible.  That way if som
 
 <br />
 
+![](/images/three wethers sold for christmas.jpg)
+
+<br />
+
 Just like any other new project, everyone has a learning curve with goats and will make mistakes. After you feel more comfortable with your wethers you can add a couple of new babies--this time does!  and when they are ready to be bred (at about 15 months old) you can get a buck and now YOU'RE IN BUSINESS!
