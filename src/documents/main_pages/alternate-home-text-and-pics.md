@@ -5,7 +5,7 @@ navPriority: '90'
 collection: MainPage
 layout: default.html
 ---
-## Mornin! i know it's early but glad your here! We can watch the sunrise from the porch.
+## Mornin! I know it's early but glad your here! We can watch the sunrise from the porch.
 
 <br />
 
