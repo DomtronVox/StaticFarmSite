@@ -14,17 +14,23 @@ being self-sufficient by making your own milk, yogurt, cheese, meat, even soap a
 
 <br />
 
+![](/images/bella-apache doelings pic2.jpg)
+
 <br />
 
 Nigerian Dwarf goats are the most popular of all the goat breeds. They make SUPER pets especially if bottle raised..then they think PEOPLE are their MAMAS. They come in nearly all colors: white, silvers, golds, browns, chocolates, blacks or any combination of those listed. They have eyes of varying shades of melting brown or bright blues.
 
 <br />
 
-![]()
+![null](/images/teaparty x etienne.jpg)
 
 <br />
 
 Nigerians are great at producing JUST the right amt of milk for family homesteads. They come into heat every 21 days and can be bred to freshen (give birth) year around. This means you can have one doe freshen in the spring and another freshen in the fall or winter.  This allows your milk quantity to be evenly produced year around.
+
+<br />
+
+![]()
 
 <br />
 
