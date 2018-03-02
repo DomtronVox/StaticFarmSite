@@ -1,7 +1,7 @@
 ---
 title: Alternate home text and pics
 navTitle: Alternate home text and pics
-navPriority: '100'
+navPriority: '90'
 collection: MainPage
 layout: default.html
 ---
@@ -20,3 +20,13 @@ see the kids (goat kids, of course!)
 Set a spell
 
 ![](/images/wether in pink chair cropped.jpg)
+
+there's the sun setting
+
+![](/images/sunset day 2  smaller.jpg)
+
+Well you've spent the day but dont forget to visit the rest of Dozy Doe Down.  Click on these links below to see Dozy Doe Down OR you can use the drop down menu under our Logo. Nigerian Dwarf Goats | Kidding Schedule | Livestock Guardian Dogs | For Sale | For Newbies | FAQs | About Us | Contact Us
+
+
+
+Ya'all come back now, hear?
