@@ -9,13 +9,25 @@ Dozy Doe Down is family owned and operated.  We strongly believe EVERYONE deserv
 
 <br />
 
+![](/images/buck no 2 pic2.jpg)
+
+<br />
+
 Our History
 
 We were homeschooling our kids, canning our food, baking our bread, heating our home with wood. We were raising and butchering meat rabbits, chickens, and ducks. ALL THIS while living in town. Raising dairy goats for milk, yogurt, and cheese was another goal to be self sufficient, so we decided to take the next step and move to the country. (YAY!!) 
 
 <br />
 
+![](/images/3.5.17 boy 1.jpg)
+
+<br />
+
 About 15 years ago we started looking for a location to build our farm. Five years later, after seeing dozens of places, one providentially fell into our laps. An acquaintance was selling some property at an auction. We had only two days notice, but we got our 23 acres of heaven (woodland actually, perfect for goats!)
+
+<br />
+
+![]()
 
 <br />
 
