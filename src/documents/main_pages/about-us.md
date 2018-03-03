@@ -17,11 +17,11 @@ layout: default.html
 
 <br />
 
-![](/images/peach jam pic.jpg)
+![](/images/peach jam pic794.jpg)
 
 <br />
 
-##  We were raising and butchering meat rabbits, chickens, and ducks. ALL THIS while living in town. Raising dairy goats for milk, yogurt, and cheese was another means to being self sufficient, so we decided to take the next step and move to the country. (YAY!!)
+## We were raising and butchering meat rabbits, chickens, and ducks. ALL THIS while living in town. Raising dairy goats for milk, yogurt, and cheese was another means to being self sufficient, so we decided to take the next step and move to the country. (YAY!!)
 
 <br />
 
@@ -42,12 +42,6 @@ layout: default.html
 <br />
 
 ![l](/images/fencing cropped.jpg)
-
-<br />
-
-![null](/images/blueberries.jpg)
-
-Our blueberry bushes 
 
 <br />
 
