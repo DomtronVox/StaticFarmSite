@@ -13,11 +13,15 @@ layout: default.html
 
 <br />
 
-## We were homeschooling our kids, canning our food, baking our bread, heating our home with wood. We were raising and butchering meat rabbits, chickens, and ducks. ALL THIS while living in town. Raising dairy goats for milk, yogurt, and cheese was another means to being self sufficient, so we decided to take the next step and move to the country. (YAY!!)
+## We were homeschooling our kids, canning our food, baking our bread, heating our home with wood.
 
 <br />
 
 ![](/images/peach jam pic.jpg)
+
+<br />
+
+##  We were raising and butchering meat rabbits, chickens, and ducks. ALL THIS while living in town. Raising dairy goats for milk, yogurt, and cheese was another means to being self sufficient, so we decided to take the next step and move to the country. (YAY!!)
 
 <br />
 
@@ -33,13 +37,11 @@ layout: default.html
 
 <br />
 
-## Deciding to do as much as we could ourselves, we cleared a 700 foot road that bisects the property. Our first building up was a pole barn/workshop. My husband said we needed that first--"REALLY??" I wondered-- so we could have a place to store building materials and tools. Then we fenced a couple of acres for our goats, building their housing at the same time. We hired the well and septic crews. Finally came the clearing and grading for the house area, the house and (AT LAST) moving in! we have many more ideas for improvement. Like most, our farm is a work in progress.
+## Deciding to do as much as we could ourselves, we cleared a 700 foot road that bisects the property. Our first building up was a pole barn/workshop. My husband said we needed that first so we could have a place to store building materials and tools. "REALLY??" I wondered... Then we fenced a couple of acres for our goats, building their housing at the same time. We hired the well and septic crews. Finally came the clearing and grading for the house area, the house and (AT LAST) moving in! we have many more ideas for improvement. Like most, our farm is a work in progress.
 
 <br />
 
 ![l](/images/fencing cropped.jpg)
-
-
 
 <br />
 
