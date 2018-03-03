@@ -47,7 +47,7 @@ layout: default.html
 
 ![](/images/wether in pink chair cropped.jpg)
 
-## Wow the time has passed.  The sun is setting.
+## Wow the time has passed.  The sun's setting.
 
 <br />
 
