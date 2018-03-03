@@ -17,7 +17,7 @@ layout: default.html
 
 <br />
 
-![](/images/peach jam pic794.jpg)
+![](/images/peach jam 500.jpg)
 
 <br />
 
