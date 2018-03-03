@@ -5,7 +5,7 @@ navPriority: '20'
 collection: MainPage
 layout: default.html
 ---
-## Contact me with what doe/buck kid from what breeding you would WISH for. i will contact you when "your doe" kids letting you know  what is born.  A $100  nonrefundable deposit (paypal or ck)  holds your choice until you can pick it up or arrange for transporting it.  The balance, in cash/paypal, is due before or at time of pickup. I would like pick up within one month of birth. I bottle raise all babies and can switch your baby to  store bought whole milk if you need me to. I give all babies BoSe shots, disbud (if not polled) and worm them. Discounts can be worked out on group purchases.   <br />
+## Contact me with what doe/buck kid from what breeding you would WISH for. i will contact you when "your doe" kids letting you know  what is born.  A $100  nonrefundable deposit (paypal or ck)  holds your choice until you can pick it up or arrange for transporting it.  The balance, in cash/paypal, is due before or at time of pickup. I would like pick up within one month of birth. I bottle raise all babies and can switch your baby to  store bought whole milk if you need me to. I  disbud (if not polled) and worm all babies. Also start them on Di-Methox. Discounts can be worked out on group purchases.   <br />
 
 ## \*\* Since we are constantly working to improve our herd we reserve the right of FIRST CHOICE on any kid. Thank you\*\*
 
