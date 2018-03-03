@@ -5,7 +5,7 @@ navPriority: '15'
 collection: MainPage
 layout: default.html
 ---
-
+## The Nigerian Dwarf is a miniature breed of dairy goat originating in West Africa and developed in the USA. The balanced proprotions of the ND give it the appearance of the large breeds of dairy goats but does stand no more than 22.5" and bucks 23.5". Any color combination is acceptable. the ears are erect and alert. the face is either straight or dished.
 
 <br />
 
