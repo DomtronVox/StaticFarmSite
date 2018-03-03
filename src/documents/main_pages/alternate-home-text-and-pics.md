@@ -5,6 +5,8 @@ navPriority: '90'
 collection: MainPage
 layout: default.html
 ---
+> A Day at Dozy Doe Down.
+
 ## Mornin! I know it's early but glad your here! We can watch the sunrise from the porch.
 
 <br />
@@ -27,7 +29,7 @@ layout: default.html
 
 <br />
 
-![](/images/blueberries.jpg)
+![null](/images/blueberries.jpg)
 
 <br />
 
