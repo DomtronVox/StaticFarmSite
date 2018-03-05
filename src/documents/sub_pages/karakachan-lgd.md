@@ -24,7 +24,15 @@ Rayna (Mapacho x Hitar of Syncope Falls) from Running River Ranch
 
 ## The breed flourished for centuries until, in the 1940s, the Bulgarian Communist Government nationalized the farming industry.  All livestock were placed in communal farms and the Communist regime ordered extermination of the Karakachan dogs, whose services were deemed unnecessary on the collective farms.   It was at this point in their history that the Karakachan dog became dangerously close to extinction. "
 
-## Since then, through the dedicated efforts of a few special people in Bulgaria and around the world, the population of the Karakachan dog has grown steadily.    In 2004, Dr. D. Phillip Sponenberg DVM, PHD imported the first Karakachans into the United States of America.     Today, there are between 100 and 200 Karakachan dogs serving as livestock guardians in the United States.
+<br />
+
+![]()
+
+Ana Beechkeld (Hoss Beechkeld x Alice Beechkeld)
+
+<br />
+
+## Since then, through the dedicated efforts of a few special people in Bulgaria and around the world, the population of the Karakachan dog has grown steadily.    In 2004, Dr. D. Phillip Sponenberg DVM, PHD imported the first Karakachans into the United States of America.     Today, there are between 100 and 300 Karakachan dogs serving as livestock guardians in the United States.
 
 <br />
 
