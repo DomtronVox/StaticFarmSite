@@ -26,9 +26,9 @@ Rayna (Mapacho x Hitar of Syncope Falls) from Running River Ranch
 
 <br />
 
-![]()
+![](/images/use for intro to web site.jpg)
 
-Ana Beechkeld (Hoss Beechkeld x Alice Beechkeld)
+Branimir (Karaman Kyurenitsa x Yorda Kyurenitsa) from Hopping Acres. with Dozy Doe Down EB Hidden Tresor in the buck pen.
 
 <br />
 
@@ -42,10 +42,6 @@ Heidi (BaBaYaga Melachay x Tessa Raindrop)
 
 <br />
 
-![null](/images/19398745_10207437718541427_143098271_n.jpg)
-
-Branimir (Karaman Kyurenitsa x Yorda Kyurenitsa) from Hopping Acres. Above at Hopping Acres. Below with Dozy Doe Down EB Hidden Tresor in the buck pen.
-
-<br />
-
 ![](/images/use for intro to web site.jpg)
+
+Ana Beechkeld (Hoss Beechkeld x Alice Beechkeld) This sweet girl is our newest addition.
