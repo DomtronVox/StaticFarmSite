@@ -38,10 +38,12 @@ Branimir (Karaman Kyurenitsa x Yorda Kyurenitsa) from Hopping Acres. with Dozy D
 
 ![](/images/heidi 499.jpg)
 
-Heidi (BaBaYaga Melachay x Tessa Raindrop)
+Above:  Heidi (BaBaYaga Melachay x Tessa Raindrop)
 
 <br />
 
-![](/images/use for intro to web site.jpg)
+<br />
+
+![]()
 
 Ana Beechkeld (Hoss Beechkeld x Alice Beechkeld) This sweet girl is our newest addition.
