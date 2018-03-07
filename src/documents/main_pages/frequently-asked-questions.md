@@ -24,3 +24,9 @@ layout: default.html
 **Do you test your goats?** Yes. That is very important to us. We test our whole herd yearly for CAE, Johnes, and Brucellosis. We have never had a case of CL in all the years we’ve been raising goats. Every year we randomly test a few goats for CL. DOZY DOE DOWN has always been NEGATIVE on all tests.
 
 <br />
+
+Can I visit your farm and see your goats/puppies?   Yes and no. If visitors are interested in getting an animal,  we can bring the goat/pup to a designated area at the front of the property. You must wear booties (that we provide) and wash your hands before petting the animal. But visitors are not allowed free access to roam Dozy Doe Down.   We feel very strongly about bio‑security. Diseases like Johnes can be tracked on shoes. We do the best we can  to keep our goats safe.  One way is to restrict visitors’ access as much as possible.
+
+<br />
+
+<br />
