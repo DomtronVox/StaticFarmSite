@@ -25,10 +25,10 @@ layout: default.html
 
 <br />
 
-**Can I visit your farm and see your goats/puppies?**   Yes and no. If visitors are interested coming to Dozy Doe Down, **WITH AN APPOINTMENT, **we can bring the goat/pup to a designated area at the front of the property. You must wear booties (that we provide) and wash your hands before petting the animal. But we are NOT a petting zoo and visitors are not allowed free access to roam Dozy Doe Down.   We feel very strongly about bio‑security. Diseases like Johnes can be tracked on shoes. We do the best we can  to keep our goats safe and one way is to restrict visitors’ access as much as possible.
+**Can I visit your farm and see your goats/puppies?**   Yes and no. If visitors are interested in coming to Dozy Doe Down, **WITH AN APPOINTMENT, **we can bring the goat/pup to a designated area at the front of the property. You must wear booties (that we provide) and wash your hands before petting the animal. But we are NOT a petting zoo and visitors are not allowed free access to roam Dozy Doe Down.   We feel very strongly about bio‑security. Diseases like Johnes can be tracked on shoes. We do the best we can  to keep our goats safe and one way is to restrict visitors’ access as much as possible.
 
 <br />
 
-**Do you accept credit cards or personal check?** We accept cash (USA) and PayPal. Personal checks must clear the bank before the animal can leave Dozy Doe Down.  We never accept credit cards. 
+**Do you accept credit cards or personal check?** We accept cash (USA) and PayPal. Personal checks must clear the bank before the animal can leave Dozy Doe Down.  We are not set up for credit cards. 
 
 <br />
