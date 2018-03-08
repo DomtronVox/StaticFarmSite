@@ -11,9 +11,10 @@ layout: default.html
 
 <br />
 
-![](/images/daffodils in bloom smaller.jpg)
+<center><div class="fb-page" data-href="https://www.facebook.com/dozydoedown/" data-tabs="messages" data-width="500" data-small-header="false" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"><blockquote cite="https://www.facebook.com/dozydoedown/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/dozydoedown/">Dozy Doe Down Nigerian Dwarf Dairy Goats</a></blockquote></div></center>
 
 <br />
 
+![](/images/daffodils in bloom smaller.jpg)
 
-<center><div class="fb-page" data-href="https://www.facebook.com/dozydoedown/" data-tabs="messages" data-width="500" data-small-header="false" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"><blockquote cite="https://www.facebook.com/dozydoedown/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/dozydoedown/">Dozy Doe Down Nigerian Dwarf Dairy Goats</a></blockquote></div></center>
+
