@@ -48,11 +48,11 @@ img{ max-width:100%; }
 }
 
 
-/*
+.news-box-home {
     color: gold;
     border: 8px solid #957122;
     border-image: repeating-linear-gradient( 60deg, gold, #957122 4%, purple 1%, #c6337a 8%) 10;
-}*/
+}
 
 a, a:hover, a:active{ outline:0px !important}
 
@@ -451,6 +451,17 @@ color: #fff;
 	margin:15px auto 35px;
 	width: 76px;
 }
+
+.footer-associated-logos {
+    text-align: center;
+    margin-bottom:10px;
+}
+
+.footer-associated-logos img {
+    max-height:80px;
+    padding-left: 20px;
+}
+
 .copyright, .credits{
 	color:#cccccc;
 	font-size:14px;
