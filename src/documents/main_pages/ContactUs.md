@@ -11,8 +11,12 @@ layout: default.html
 
 <br />
 
+# "Like" us on FaceBook 
+
+<br />
+
 ![](/images/daffodils in bloom smaller.jpg)
 
 <br />
 
-# "Like" us on FaceBook <https://www.facebook.com/dozydoedown/>
+#
