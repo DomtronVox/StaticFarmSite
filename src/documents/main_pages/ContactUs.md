@@ -11,7 +11,7 @@ layout: default.html
 
 <br />
 
-# "Like" us on FaceBook 
+# "Like" us on FaceBook
 
 <br />
 
@@ -19,4 +19,4 @@ layout: default.html
 
 <br />
 
-#
+# Ya'all come back now, hear?
