@@ -1,16 +1,20 @@
 ---
 title: Nigerian Dwarf Goats
 navTitle: Nigerian  Dwarf  Goats
-navPriority: '10'
+navPriority: '15'
 collection: MainPage
 layout: default.html
 ---
-(add text and pics) 
+## The Nigerian Dwarf is a miniature breed of dairy goat originating in West Africa and developed in the USA. The balanced proportions of the ND give it the appearance of the large breeds of dairy goats but does (females) stand no more than 22.5" and bucks (males) no more than 23.5". Any color combination is acceptable. It can be polled or disbudded. The eyes can be blue or any shade of brown. The ears are erect and alert. the face is either straight or dished.
 
+<br />
 
+![](/images/teaparty, side view best 13217465_10156854394645487_531753926492640830_o.jpg)
 
+<br />
 
+Gypsy Moon DH Mad TeaParty
 
-"you can see pics of the goats by using the drop down menu under Nigerian Dwarf goats OR you can click on these links below." 
+<br />
 
-click on these links below to see pics of the goats OR you can use the drop down menu under Nigerian Dwarf goats.
+## Click on these links below to see our goats OR you can use the drop down menu under Nigerian Dwarf goats. [Sr. Does ](goats/does)| Jr. Does | [Bucks ](http://barber-monkey-66235.netlify.com/goats/bucks)| [Reference Goats](barber-monkey-66235.netlify.com/goats/reference-does)

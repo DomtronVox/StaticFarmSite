@@ -1,27 +1,22 @@
 ---
 title: Goat Milk and Health
-navTitle: Goat Milk and Health
-navNest: 'For newbies '
+navTitle: Goat Milk and Your Health
+navNest: 'For Newbies '
 navPriority: '7'
 collection: SubPage
 layout: default.html
 ---
-A Dr. Jensen discovered a common denominator in his 70-year study of people over the age of 100 in 90 countries. 
+# Goat Milk and Your Health
 
-It was goat milk.
+## A Dr. Jensen discovered a common denominator in his 70-year study of people over the age of 100 in 90 countries. 
 
-Margaret Patton of London died at 137 years old.
+# It was goat milk.
 
-Jonathan Hartop walked nine miles a day at the age of 136 and lived to be 138.
-
-Thomas Parr lived 152 years.
-
-Peter Czartin from Austria lived to be 184.
-
-All of these people lived on goat milk.
-
-Goat milk neutralizes acids and toxins.
-
-Goat milk is easily digested, making it the perfect food for children, elderly people, those with digestive difficulties, those recuperating from a disease or health conditions, and pets that have been weaned from their mother.
-
-Goat milk is high in healing enzymes and has a superior form of calcium than cow milk.
+* ## Margaret Patton of London died at 137 years old.
+* ## Jonathan Hartop walked nine miles a day at the age of 136 and lived to be 138.
+* ## Thomas Parr lived 152 years.
+* ## Peter Czartin from Austria lived to be 184.
+* ## All of these people lived on goat milk.
+* ## Goat milk neutralizes acids and toxins.
+* ## Goat milk is easily digested, making it the perfect food for children, elderly people, those with digestive difficulties, those recuperating from a disease or health conditions, and pets that have been weaned from their mother.
+* ## Goat milk is high in healing enzymes and has a superior form of calcium than cow milk.

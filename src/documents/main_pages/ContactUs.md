@@ -5,6 +5,14 @@ navPriority: '90'
 collection: MainPage
 layout: default.html
 ---
-Email us at   [ DozyDoeDown@gmail.com](DozyDoeDown@gmail.com)
+<br />
 
-"Like" us on FB <https://www.facebook.com/dozydoedown/>
+# Email us at   [ DozyDoeDown@gmail.com](DozyDoeDown@gmail.com)
+
+<br />
+
+![](/images/daffodils in bloom smaller.jpg)
+
+<br />
+
+# "Like" us on FaceBook <https://www.facebook.com/dozydoedown/>
