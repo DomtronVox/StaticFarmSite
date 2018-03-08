@@ -5,12 +5,6 @@ navPriority: '10'
 collection: MainPage
 layout: homepage.html
 ---
-<br />
-
-<red> asdfafdfhsldfaldf
-
-<br />
-
 ## Dozy Doe Down is family owned and operated.  We strongly believe EVERYONE deserves a disease free herd.  Therefore we provide quality registered Nigerian Dwarf Goats regularly tested for CAE, Johnes, Brucellosis and CL. Our herd tested NEGATIVE in 2017 (just as in previous years). We constantly improve that quality by evaluating on-going results from DHIR milk testing and Linear Appraisal through ADGA.
 
 <br />
