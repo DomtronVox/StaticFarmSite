@@ -231,11 +231,11 @@ color: #fff;
 	display:inline-block;
 	color:#f7ee6d;
 	font-family: 'Century Schoolbook L';
-        font-size:28px;
+        font-size:18px;
         font-style: italic;
 	text-decoration: none;
 	line-height:20px;
-	margin:17px 32px;
+	margin:10px 15px;
 	transition:all 0.3s ease-in-out;
 	-moz-transition:all 0.3s ease-in-out;
 	-webkit-transition:all 0.3s ease-in-out;
@@ -261,6 +261,7 @@ color: #fff;
         text-decoration: none;
         display: block;
         text-align: left;
+        padding-bottom: 4px;
 }
 
 .dropdown:hover .sub-nav{ 
