@@ -43,4 +43,4 @@ these are some of the kids born in 2017. we expect another "bumper crop" for thi
 
 <br />
 
-## I  disbud (if not polled) and worm all babies. Also start them on Di-Methox.   We give CD/T shots at least once a year to adults.  We give a CD/T shot and Bo-Se to pregnant does within 1 month of kidding. This is passed to the babies in utero and gives them some protection at birth until they are able to get their own CD/T. All babies should be given one CD/T shot around 6 weeks old and another “booster” CD/T shot 21-28 days later.
+##
