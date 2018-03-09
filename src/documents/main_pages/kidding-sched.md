@@ -23,7 +23,7 @@ layout: default.html
 * **A nonrefundable $100 deposit (paypal or personal check)  holds your kid until you can pick it up or arrange for transport.  No kids are held without a deposit.**
 * **The balance is due before (paypal) or at time of pickup (cash). **
 * **Discounts are available on multiple purchases.  **
-* **Pick up should be within one month of birth.  By then they should only need a bottle 2x /day. I am happy to switch your baby to store bought whole milk before pickup if you need me to.**
+* **Pick up time should be within one month of birth.  By then they should only need a bottle 2x /day. I am happy to switch your baby to store bought whole milk before pickup if you need me to.**
 * **We do our best, but kids do get sick or die. If this happens before you pick up your kid, you can transfer the money paid to another kid OR we will refund your money.  **
 * **Send me a msg (on the contact page)  if you have questions about refunds or pickup.**
 
