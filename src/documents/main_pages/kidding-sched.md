@@ -9,7 +9,7 @@ layout: default.html
 * **Look over the kidding schedule. **
 * **Like a breeding? Let me know. I'm happy to put you on the "Wish List"! **
 * ** I will contact you when "your doe" freshens (has babies) letting you know if your wish came true.  **
-* **A nonrefundable $100 deposit (paypal or personal check)  holds your kid until you can pick it up or arrange for transport.  **
+* **A nonrefundable $100 deposit (paypal or personal check)  holds your kid until you can pick it up or arrange for transport.  No kids are held without a deposit.**
 * **The balance, is due before (paypal) or at time (cash) of pickup. **
 * **Discounts are available on multiple purchases.  **
 * **Pick up should be within one month of birth.  By then they should only need a bottle 2x /day.**
