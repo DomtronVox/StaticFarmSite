@@ -24,7 +24,7 @@ layout: default.html
 * **Discounts are available on multiple purchases.  **
 * **Pick up time should be within one month of birth.  By then they should only need a bottle 2x /day. I am happy to switch your baby to store bought whole milk before pickup if you need me to.**
 * **We do our best, but kids do get sick or die. If this happens before you pick up your kid, you can transfer the money paid to another kid OR we will refund your money.  **
-* **Send me a msg (on the contact page)  if you have questions about refunds or pickup.**
+* **Send me a msg (on the contact page)  if you have any questions about buying kids, refunds, or pickup.**
 
 <br />
 
