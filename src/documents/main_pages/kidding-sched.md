@@ -16,7 +16,6 @@ layout: default.html
 
 <br />
 
-* 
 * **Look over the kidding schedule. **
 * **Like a breeding? Let me know. I'm happy to put you on the "Wish List"! **
 * ** I will contact you when "your doe" freshens (has babies) letting you know if your wish came true.  **
