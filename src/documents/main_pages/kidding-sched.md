@@ -5,6 +5,12 @@ navPriority: '20'
 collection: MainPage
 layout: default.html
 ---
+<br />
+
+![](/images/bella-apache doelings pic2.jpg)
+
+<br />
+
 * **All babies are taught to accept a bottle with teat. We will supply a free bottle and teat per total purchase. if you want to buy extra there is a small surcharge.**
 * **Look over the kidding schedule. **
 * **Like a breeding? Let me know. I'm happy to put you on the "Wish List"! **
