@@ -5,7 +5,7 @@ navPriority: '20'
 collection: MainPage
 layout: default.html
 ---
-* **All babies are taught to accept a bottle with teat. We will supply a free bottle and teat per total purchase. if you want to buy extra there is a small surcharge.**
+* **All babies are taught to accept a bottle with a prichard's teat. We will supply a free bottle and screw on teat per total purchase. if you want to buy extra there is a small surcharge.**
 * **I  disbud (if not polled) and worm all babies. **
 * **Also start them on Di-Methox (coccidiosis prevention) at three weeks old.   **
 * ** We give a CD/T shot and Bo-Se to pregnant does within 1 month of kidding. This is passed to the babies in utero and gives them some protection at birth until they are able to get their own CD/T. All babies should be given one CD/T shot around 6 weeks old and another “booster” CD/T shot 21-28 days later.**
