@@ -30,12 +30,6 @@ layout: default.html
 
 ## \*\* Since we are constantly working to improve our herd we reserve the right of FIRST CHOICE on any kid. Thank you\*\*
 
-## <br />
-
-![](/images/2017 hs spring kids cropped.png)
-
-these are some of the kids born in 2017. we expect another "bumper crop" for this year.
-
 <br />
 
 ![](/images/2018 kidding sched.png)
