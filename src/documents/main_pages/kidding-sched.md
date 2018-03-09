@@ -5,13 +5,16 @@ navPriority: '20'
 collection: MainPage
 layout: default.html
 ---
-## Contact me with what doe/buck kid from what breeding you would WISH for. i will contact you when "your doe" kids letting you know  what is born.  A $100  nonrefundable deposit (paypal or ck)  holds your choice until you can pick it up or arrange for transporting it.  The balance, in cash/paypal, is due before or at time of pickup. Discounts can be worked out on multiple purchases.  I would like pick up within one month of birth.
+* **Look over the kidding schedule. **
+* **Like a breeding? Let me know. I'm happy to put you on the "Wish List"! **
+* ** I will contact you when "your doe" kids letting you know if your wish came true.  **
+* **A $100  nonrefundable deposit (paypal or personal check)  holds your kid until you can pick it up or arrange for transporting it.  The balance, in cash/paypal, is due before or at time of pickup. Discounts are available on multiple purchases.  I would like pick up within one month of birth.**
 
 <br />
 
 ## \*\* Since we are constantly working to improve our herd we reserve the right of FIRST CHOICE on any kid. Thank you\*\*
 
-<br />
+## <br />
 
 ![](/images/2017 hs spring kids cropped.png)
 
