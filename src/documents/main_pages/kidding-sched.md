@@ -36,4 +36,4 @@ layout: default.html
 
 <br />
 
-![](/images/zz2018.png)
+![](/images/2018 kidding sched.jpg)
