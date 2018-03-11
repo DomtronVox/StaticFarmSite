@@ -1,7 +1,7 @@
 ---
 title: Wooly Dog Down AA WoodlandFawn
 nickname: Fawn
-gender: female
+gender: Senior Doe
 birth_date: '3'
 blue_eyes: 'no'
 polled: 'no'
