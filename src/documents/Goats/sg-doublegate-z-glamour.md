@@ -2,7 +2,7 @@
 title: SG Doublegate Z Glamour 3*M
 nickname: Glamour
 la_score: LA 85 VEV+  (New to farm at time of LA)
-gender: female
+gender: Senior Doe
 birth_date: 2/12/11
 adga_num: ' D1585254'
 milk_records: on milk test
