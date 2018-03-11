@@ -162,8 +162,8 @@ function customProcessing(files, metalsmith, done) {
     //manually add the pagination index's to their subpage collection
     //TODO Not a nice way to do it but since we call collections before
     var subpage_collection = metalsmith._metadata.collections.SubPage;
-    goat_pagination_files = [ files["Goats/does.html"], files["Goats/bucks.html"], 
-                              files["Goats/reference-does.html"], files["Goats/reference-bucks.html"] ];
+    goat_pagination_files = [ files["Goats/senior-does.html"], files["Goats/junior-does.html"], 
+                              files["Goats/bucks.html"], files["Goats/reference-goats.html"] ];
 
     Array.prototype.push.apply(subpage_collection, goat_pagination_files)
 
