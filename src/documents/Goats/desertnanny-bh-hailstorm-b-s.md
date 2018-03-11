@@ -2,7 +2,7 @@
 title: 'DesertNanny BH Hailstorm '
 nickname: Hailstorm
 la_score: ' LA 89 VEV'
-gender: male
+gender: Buck
 birth_date: 2017-12-23T11:55:43.741Z
 blue_eyes: 'yes'
 polled: 'no'
