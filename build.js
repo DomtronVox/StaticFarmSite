@@ -69,13 +69,13 @@ settings["pagination1"] = {
     perPage: 1000,
     layout: 'goatindex.html',
     pageContents: new Buffer(""),
-    path: 'Goats/does.html',
+    path: 'Goats/senior-does.html',
     filter: function (page) {
-      return page.gender == "female" && page.reference == "no"
+      return page.gender == "Senior Doe" && page.reference == "no"
     },
     pageMetadata: {
-      title: 'Listing of Our Does'
-    , navTitle: "Does"
+      title: 'Listing of Our Senior Does'
+    , navTitle: "Senior Does"
     , navNest: "Nigerian Dwarf Goats" //Note/TODO: dangerous to hard code this, if someone changes the page title it will break these pages
     , collection: "SubPage"
     , navPriority: '1'
@@ -88,14 +88,14 @@ settings["pagination2"] = {
     perPage: 1000,
     layout: 'goatindex.html',
     pageContents: new Buffer(""),
-    path: 'Goats/bucks.html',
+    path: 'Goats/junior-does.html',
     
     filter: function (page) {
-      return page.gender == "male" && page.reference == "no"
+      return page.gender == "Junior Doe" && page.reference == "no"
     },
     pageMetadata: {
-      title: 'Listing of Our Bucks'
-    , navTitle: "Bucks"
+      title: 'Listing of Our Junior Does'
+    , navTitle: "Junior Does"
     , navNest: "Nigerian Dwarf Goats" //Note/TODO: dangerous to hard code this, if someone changes the page title it will break these pages
     , collection: "SubPage"
     , navPriority: '2'
@@ -108,13 +108,13 @@ settings["pagination3"] = {
     perPage: 1000,
     layout: 'goatindex.html',
     pageContents: new Buffer(""),
-    path: 'Goats/reference-does.html',
+    path: 'Goats/bucks.html',
     filter: function (page) {
-      return page.gender == "female" && page.reference == "yes"
+      return page.gender == "Buck" && page.reference == "no"
     },
     pageMetadata: {
-      title: 'Listing of Reference Does'
-    , navTitle: "Reference Does"
+      title: 'Listing of Our Bucks'
+    , navTitle: "Bucks"
     , navNest: "Nigerian Dwarf Goats" //Note/TODO: dangerous to hard code this, if someone changes the page title it will break these pages
     , collection: "SubPage"
     , navPriority: '3'
@@ -127,13 +127,13 @@ settings["pagination4"] = {
     perPage: 1000,
     layout: 'goatindex.html',
     pageContents: new Buffer(""),
-    path: 'Goats/reference-bucks.html',
+    path: 'Goats/reference-goats.html',
     filter: function (page) {
-      return page.gender == "male" && page.reference == "yes"
+      return page.reference == "yes"
     },
     pageMetadata: {
-      title: 'Listing of Reference Bucks'
-    , navTitle: "Reference Bucks"
+      title: 'Listing of Our Reference Goats'
+    , navTitle: "Reference Goats"
     , navNest: "Nigerian Dwarf Goats" //Note/TODO: dangerous to hard code this, if someone changes the page title it will break these pages
     , collection: "SubPage"
     , navPriority: '4'

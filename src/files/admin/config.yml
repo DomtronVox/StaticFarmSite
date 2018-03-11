@@ -50,7 +50,7 @@ collections: # A list of collections the CMS should be able to edit
       - {required: true,  label: "Full Goat Name", name: "title", widget: "string"}
       - {required: true,  label: "Nickname", name: "nickname", widget: "string"}
       - {required: false, label: "LA Score", name: "la_score", widget: "string"}
-      - {required: true,  label: "Gender", name: "gender", widget: "select", options: ["male", "female"]}
+      - {required: true,  label: "Gender", name: "gender", widget: "select", options: ["Buck", "Senior Doe", "Junior Doe"]}
       - {required: false,  label: "Birth Date", name: "birth_date", widget: "datetime"}
       - {required: false, label: "Description", name: "body", widget: "markdown"}
 
