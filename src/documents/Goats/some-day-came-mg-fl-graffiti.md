@@ -1,7 +1,7 @@
 ---
 title: Some Day Came MG FL Graffiti
 nickname: Graffiti
-gender: male
+gender: Buck
 birth_date: 2017-12-23T13:00:47.304Z
 blue_eyes: 'no'
 polled: 'yes'
