@@ -1,7 +1,7 @@
 ---
 title: Dozy Doe Down EB Hidden Tresor
 nickname: Tresor
-gender: male
+gender: Buck
 birth_date: 2017-12-23T11:43:47.445Z
 blue_eyes: 'yes'
 polled: 'no'
