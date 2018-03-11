@@ -2,7 +2,7 @@
 title: Gypsy Moon DH Mad TeaParty 1*M
 nickname: TeaParty
 la_score: LA 87 VVVV at 6 weeks fresh
-gender: female
+gender: Senior Doe
 birth_date: 02/27/13
 adga_num: D1656566
 milk_records: ''
