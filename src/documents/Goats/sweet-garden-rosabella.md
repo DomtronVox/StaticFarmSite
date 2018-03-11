@@ -1,7 +1,7 @@
 ---
 title: Sweet Garden Rosabella 4*M
 nickname: Rosa
-gender: female
+gender: Senior Doe
 birth_date: 2017-12-23T11:02:35.951Z
 blue_eyes: 'no'
 polled: 'no'
