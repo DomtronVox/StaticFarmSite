@@ -36,4 +36,4 @@ layout: default.html
 
 <br />
 
-![](/images/kidding.png)
+![null](/images/kidding 2.png)
