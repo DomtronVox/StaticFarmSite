@@ -17,7 +17,7 @@ layout: default.html
 <br />
 
 * **Look over the kidding schedule. **
-* **Like a breeding? Let me know. I'm happy to put you on the "Wish List"! **
+* **Like a breeding? send a msg on the contact page. I'm happy to put you on the "Wish List"! **
 * ** I will contact you when "your doe" freshens (has babies) letting you know if your wish came true.  **
 * **A nonrefundable $100 deposit (paypal or personal check)  holds your kid until you can pick it up or arrange for transport.  No kids are held without a deposit.**
 * **The balance is due before (paypal) or at time of pickup (cash). **
@@ -36,4 +36,4 @@ layout: default.html
 
 <br />
 
-![](/images/2018 kidding sched.jpg)
+![](/images/kidding.png)
