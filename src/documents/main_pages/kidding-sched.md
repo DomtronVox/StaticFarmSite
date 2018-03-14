@@ -32,8 +32,4 @@ layout: default.html
 
 <br />
 
-![](/images/2018 kidding sched.png)
-
-<br />
-
 ![null](/images/kidding 2.png)
