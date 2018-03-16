@@ -6,7 +6,7 @@ navPriority: '10'
 collection: SubPage
 layout: default.html
 ---
-## We truly love and are breeders of Karakachan Livestock Guardian Dogs. We are registered with the American Karakachan Dog Association (AKDA) and the Karakachan Dog Association of America (KDAA). With the help of Dr. Phillip Sponenberg we have bought dogs with complementary bloodlines.
+## We truly love and are breeders of Karakachan Livestock Guardian Dogs. We are registered with the American Karakachan Dog Association (AKDA) and the Karakachan Dog Association of America (KDAA). With the help of Dr. Phillip Sponenberg we have bought dogs with complementary bloodlines. Scroll down to see pics of our Karakachans.
 
 <br />
 
@@ -44,6 +44,6 @@ Above:  Heidi (BaBaYaga Melachay x Tessa Raindrop)
 
 <br />
 
-![]()
+![null]()
 
 Ana Beechkeld (Hoss Beechkeld x Alice Beechkeld) This sweet girl is our newest addition.
