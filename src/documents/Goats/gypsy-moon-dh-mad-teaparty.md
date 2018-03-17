@@ -19,9 +19,29 @@ side_picture: >-
 front_picture: >-
   /images/teaparty, front view 13221209_10156854394575487_6710271640322159385_o
   (1).jpg
-back_picture: >-
-  /images/teaparty, rear view
-  13198407_10156854394640487_7216686927729674263_o.jpg
+galleryImages:
+  - caption: TeaParty front view
+    image: >-
+      /images/teaparty, front view
+      13221209_10156854394575487_6710271640322159385_o (1).jpg
+  - caption: Dozy Doe Down EB Frisco Gold B  (TeaParty x Etienne)
+    image: /images/teaparty x etienne.jpg
+breedingHistory:
+  - bredDate: '2017-02-01'
+    breeder: DesertNanny BH Hailstorm  LA 89 VEV     (Blue Eyes)
+    buckCount: '0'
+    comments: 'a mini-me of her dam except with hailstorm''s blue eyes. '
+    doeCount: '1'
+  - bredDate: '2016-03-17'
+    breeder: Wooly Dog Down Etienne Bleu  (Blue eyes and POLLED)
+    buckCount: '2'
+    comments: both buck kids POLLED with one also having Blue Eyes
+    doeCount: '1'
+  - bredDate: '2015-02-01'
+    breeder: Wooly Dog Down Etienne Bleu  (Blue eyes and POLLED)
+    buckCount: '1'
+    comments: TeaParty's FF     buck kid named Dozy Doe Down EB Frisco Gold B (POLLED)
+    doeCount: '0'
 layout: goatpage.html
 collection: Goats
 ---
