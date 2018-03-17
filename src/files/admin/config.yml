@@ -94,7 +94,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "breedingHistory"
         widget: "list"
         fields:
-            - {required: false, label: "Date", name: "bredDate", widget: "date", default: ""}
+            - {required: false, label: "Date", name: "bredDate", widget: "string"}
             - {required: false, label: "Bred To", name: "breeder", widget: "string"}
             - {required: false, label: "Doelings", name: "doeCount", widget: "number"}
             - {required: false, label: "Bucklings", name: "buckCount", widget: "number"}
