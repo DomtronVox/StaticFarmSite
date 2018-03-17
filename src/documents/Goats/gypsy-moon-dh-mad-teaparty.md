@@ -27,17 +27,17 @@ galleryImages:
   - caption: Dozy Doe Down EB Frisco Gold B  (TeaParty x Etienne)
     image: /images/teaparty x etienne.jpg
 breedingHistory:
-  - bredDate: '2017-02-01'
+  - bredDate: '2017'
     breeder: DesertNanny BH Hailstorm  LA 89 VEV     (Blue Eyes)
     buckCount: '0'
     comments: 'a mini-me of her dam except with hailstorm''s blue eyes. '
     doeCount: '1'
-  - bredDate: '2016-03-17'
+  - bredDate: '2016'
     breeder: Wooly Dog Down Etienne Bleu  (Blue eyes and POLLED)
     buckCount: '2'
     comments: both buck kids POLLED with one also having Blue Eyes
     doeCount: '1'
-  - bredDate: '2015-02-01'
+  - bredDate: '2015'
     breeder: Wooly Dog Down Etienne Bleu  (Blue eyes and POLLED)
     buckCount: '1'
     comments: TeaParty's FF     buck kid named Dozy Doe Down EB Frisco Gold B (POLLED)
