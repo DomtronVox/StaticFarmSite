@@ -154,8 +154,8 @@ function customProcessing(files, metalsmith, done) {
     //just allows this to work like a metalsmith plugin
     setImmediate(done);
 
-    //add the file path to each file object so it doesn't get lost later on
-    for (file in files) {
+    //add the file path an filename to each file object so it doesn't get lost later on
+    for (var file in files) {
         files[file].path = file;
     }
 
