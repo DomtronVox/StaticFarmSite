@@ -13,7 +13,7 @@ layout: default.html
 
 <br />
 
-Gypsy Moon DH Mad TeaParty 1*M (pending)
+Gypsy Moon DH Mad TeaParty 1*M 
 
 <br />
 
