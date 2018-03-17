@@ -6,7 +6,7 @@ navPriority: '10'
 collection: SubPage
 layout: default.html
 ---
-## We truly love and are breeders of Karakachan Livestock Guardian Dogs. We are registered with the American Karakachan Dog Association (AKDA) and the Karakachan Dog Association of America (KDAA). With the help of Dr. Phillip Sponenberg we have bought dogs with complementary bloodlines.
+## We truly love and are breeders of Karakachan Livestock Guardian Dogs. We are registered with the American Karakachan Dog Association (AKDA) and the Karakachan Dog Association of America (KDAA). With the help of Dr. Phillip Sponenberg we have bought dogs with complementary bloodlines. Scroll down to see pics of our Karakachans.
 
 <br />
 
@@ -32,7 +32,7 @@ Branimir (Karaman Kyurenitsa x Yorda Kyurenitsa) from Hopping Acres. with Dozy D
 
 <br />
 
-## Since then, through the dedicated efforts of a few special people in Bulgaria and around the world, the population of the Karakachan dog has grown steadily.    In 2004, Dr. D. Phillip Sponenberg DVM, PHD imported the first Karakachans into the United States of America.     Today, there are between 100 and 300 Karakachan dogs serving as livestock guardians in the United States.
+## Since then, through the dedicated efforts of a few special people in Bulgaria and around the world, the population of the Karakachan dog has grown steadily.    In 2004, Dr. D. Phillip Sponenberg DVM, PHD imported the first Karakachans into the United States of America.     Today, there are roughly 600 Karakachan dogs serving as livestock guardians in the United States.
 
 <br />
 
@@ -44,6 +44,6 @@ Above:  Heidi (BaBaYaga Melachay x Tessa Raindrop)
 
 <br />
 
-![]()
+![null]()
 
 Ana Beechkeld (Hoss Beechkeld x Alice Beechkeld) This sweet girl is our newest addition.

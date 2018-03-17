@@ -1,7 +1,7 @@
 ---
 title: Deer Ridge Twilight Cascabella 1*M
 nickname: Cassie
-gender: female
+gender: Senior Doe
 birth_date: 3/14/12
 adga_num: D1706609
 blue_eyes: 'no'

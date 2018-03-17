@@ -1,7 +1,7 @@
 ---
 title: Dozy Doe Down SH Bella 1*M
 nickname: Bella
-gender: female
+gender: Senior Doe
 birth_date: 2017-12-23T12:08:41.170Z
 blue_eyes: 'yes'
 polled: 'no'
