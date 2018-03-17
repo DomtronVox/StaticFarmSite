@@ -75,16 +75,31 @@ collections: # A list of collections the CMS should be able to edit
       - {required: false, label: "Pdigree Picture", name: "pedigree_picture", widget: "image"}
 
       - {required: false, label: "Side Picture", name: "side_picture", widget: "image"}
-      - {required: false, label: "2nd Side Picture", name: "side2_picture", widget: "image"}
       - {required: false, label: "Front Picture", name: "front_picture", widget: "image"}
-      - {required: false, label: "Back/Udder Picture", name: "back_picture", widget: "image"}
-      - {required: false, label: "Highlight Picture", name: "highlight_picture", widget: "image"}
+#      - {required: false, label: "2nd Side Picture", name: "side2_picture", widget: "image"}
+#      - {required: false, label: "Back/Udder Picture", name: "back_picture", widget: "image"}
+#      - {required: false, label: "Highlight Picture", name: "highlight_picture", widget: "image"}
+      - label: "Gallery"
+        name: "galleryImages"
+        widget: "list"
+        field:
+            - {required: false, label: "Image", name: "image", widget: "image"}
+            - {required: false, label: "Caption", name: "caption", widget: "string"}
 
-      - {required: false, label: "Sire Picture 1", name: "sire_picture1", widget: "image"}
-      - {required: false, label: "Sire Picture 2", name: "sire_picture2", widget: "image"}
-      - {required: false, label: "Dam Picture 1", name: "dam_picture1", widget: "image"}
-      - {required: false, label: "Dam Picture 2", name: "dam_picture2", widget: "image"}
-
+#      - {required: false, label: "Sire Picture 1", name: "sire_picture1", widget: "image"}
+#      - {required: false, label: "Sire Picture 2", name: "sire_picture2", widget: "image"}
+#      - {required: false, label: "Dam Picture 1", name: "dam_picture1", widget: "image"}
+#      - {required: false, label: "Dam Picture 2", name: "dam_picture2", widget: "image"}
+      - label: "Breeding History"
+        name: "breedingHistory"
+        widget: "list"
+        field:
+            - {required: false, label: "Date", name: "bredDate", widget: "date"}
+            - {required: false, label: "Bred To", name: "breeder", widget: "string"}
+            - {required: false, label: "Doelings", name: "doeCount", widget: "number"}
+            - {required: false, label: "Bucklings", name: "buckCount", widget: "number"}
+            - {required: false, label: "Comments", name: "comments", widget: "string"}
+     
       #hidden fields are not editable by the user but still show up in the file's front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "goatpage.html"}
       - {label: "Collection", name: "collection", widget: "hidden", default: "Goats"}      
