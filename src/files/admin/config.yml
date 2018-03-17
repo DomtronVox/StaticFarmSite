@@ -51,7 +51,7 @@ collections: # A list of collections the CMS should be able to edit
       - {required: true,  label: "Nickname", name: "nickname", widget: "string"}
       - {required: false, label: "LA Score", name: "la_score", widget: "string"}
       - {required: true,  label: "Gender", name: "gender", widget: "select", options: ["Buck", "Senior Doe", "Junior Doe"]}
-      - {required: false,  label: "Birth Date", name: "birth_date", widget: "date", default: ""}
+      - {required: false, label: "Birth Date", name: "birth_date", widget: "date", default: "" }
       - {required: false, label: "Description", name: "body", widget: "markdown"}
 
       - {required: false, label: "ADGA Registration Number", name: "adga_num", widget: "string"}
@@ -94,7 +94,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "breedingHistory"
         widget: "list"
         fields:
-            - {required: false, label: "Date", name: "bredDate", widget: "date"}
+            - {required: false, label: "Date", name: "bredDate", widget: "date", default: ""}
             - {required: false, label: "Bred To", name: "breeder", widget: "string"}
             - {required: false, label: "Doelings", name: "doeCount", widget: "number"}
             - {required: false, label: "Bucklings", name: "buckCount", widget: "number"}
