@@ -17,4 +17,4 @@ Gypsy Moon DH Mad TeaParty 1*M
 
 <br />
 
-## Click on these links below to see our goats OR you can use the drop down menu under Nigerian Dwarf goats. [Sr. Does ](goats/does)| Jr. Does | [Bucks ](http://barber-monkey-66235.netlify.com/goats/bucks)| [Reference Goats](barber-monkey-66235.netlify.com/goats/reference-does)
+## Click on these links below to see our goats OR you can use the drop down menu under Nigerian Dwarf goats. [Sr. Does](/Goats/senior-does.html) | Jr. Does | [Bucks ](/goats/bucks)| [Reference Goats](/goats/reference-goats)
