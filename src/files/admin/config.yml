@@ -82,7 +82,7 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Gallery"
         name: "galleryImages"
         widget: "list"
-        field:
+        fields:
             - {required: false, label: "Image", name: "image", widget: "image"}
             - {required: false, label: "Caption", name: "caption", widget: "string"}
 
@@ -93,7 +93,7 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Breeding History"
         name: "breedingHistory"
         widget: "list"
-        field:
+        fields:
             - {required: false, label: "Date", name: "bredDate", widget: "date"}
             - {required: false, label: "Bred To", name: "breeder", widget: "string"}
             - {required: false, label: "Doelings", name: "doeCount", widget: "number"}
