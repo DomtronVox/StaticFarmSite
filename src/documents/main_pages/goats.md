@@ -13,7 +13,7 @@ layout: default.html
 
 **<br />**
 
-**Nigerian Dwarf goats are a welcome addition to the homesteader.  They need smaller shelters and pens and a lot less food compared to full-sized goats. A quart or two a day of very high quality milk is easy to manage in your kitchen for drinking and making cheese, yogurt, fudge, and soap.**
+**Nigerian Dwarf goats are a welcome addition to the homesteader.  They need smaller shelters and pens and a lot less food compared to full-sized goats. A couple of quarts a day of very high quality milk is easy to manage in your kitchen for drinking and making cheese, yogurt, fudge, and soap.**
 
 **All goats are ruminants and need a lot of fiber. They adore woody shrubs like brambles, also poison ivy and honeysuckle, and will eat most weeds and grass.**
 
