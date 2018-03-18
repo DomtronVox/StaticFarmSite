@@ -75,9 +75,9 @@ collections: # A list of collections the CMS should be able to edit
       - {required: false, label: "Pdigree Picture", name: "pedigree_picture", widget: "image"}
 
       - {required: false, label: "Side Picture", name: "side_picture", widget: "image"}
-      - {required: false, label: "Front Picture", name: "front_picture", widget: "image"}
+      - {required: false, label: "Back/Udder Picture", name: "back_picture", widget: "image"}
 #      - {required: false, label: "2nd Side Picture", name: "side2_picture", widget: "image"}
-#      - {required: false, label: "Back/Udder Picture", name: "back_picture", widget: "image"}
+#      - {required: false, label: "Front Picture", name: "front_picture", widget: "image"}
 #      - {required: false, label: "Highlight Picture", name: "highlight_picture", widget: "image"}
       - label: "Gallery"
         name: "galleryImages"
