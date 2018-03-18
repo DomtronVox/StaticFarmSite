@@ -17,11 +17,11 @@ layout: default.html
 
 <br />
 
-![](/images/teaparty, side view best 13217465_10156854394645487_531753926492640830_o.jpg)
+![](/images/amber side view lighter 13217135_10156854393755487_2234556250928031155_o.jpg)
 
 <br />
 
-Gypsy Moon DH Mad TeaParty 1*M 
+Gypsy Moon SZ Ambergris. One of our foundation does 
 
 <br />
 
