@@ -10,7 +10,7 @@ layout: default.html
 
 <br />
 
-**Within a few hours of being born ND kids are very active. We disbud all our goats unless they are born polled--genetically hornless. That way they won't accidentally put out a person eye--I've known it to happen.**
+**Within a few hours of being born ND kids are very active. Running, playing, snuggling and laughing, children and goat kids thoroughly enjoy each other’s company. Nigerian Dwarf kids are the perfect size, clean, and totally harmless with the horns removed. We disbud all our goats unless they are born polled--genetically hornless. This facilitates constant and safe handling for petting, milking, and showing. That way they wont accidentally put out a person eye--I've known it to happen.**
 
 **<br />**
 
