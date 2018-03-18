@@ -9,7 +9,7 @@ layout: default.html
 
 **<br />**
 
-**Nigerians are long and elegant, like miniature dairy goats, but under 24” tall. The breed standard is does (females) no more than 22.5” tall and bucks (males) no more than 23.5” tall. If not polled (genetically hornless) they are disbudded to facilitate constant and safe handling for petting, milking, and showing. Their coloring can be black, white, chocolate and gold appearing in solids, patterns, and spots. Their eye coloring can be any shade of brown or blue. Most owners of registered NDs breed for calm and safe dispositions. Unlike most standard goat breeds, Nigerians can have kids in any season.**
+**Nigerians are long and elegant, like miniature dairy goats, but under 24” tall. The breed standard is does (females) no more than 22.5” tall and bucks (males) no more than 23.5” tall. If not polled (genetically hornless) they are disbudded to facilitate constant and safe handling for petting, milking, and showing. Their coloring can be black, white, chocolate and gold appearing in solids, patterns, and spots. Their eye coloring can be any shade of brown or blue. Most owners of registered NDs breed for calm and safe dispositions. Unlike most standard goat breeds, Nigerians can have kids in any season. This means an even amount of milk year round for owners.**
 
 **<br />**
 
