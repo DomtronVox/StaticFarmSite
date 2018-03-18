@@ -5,7 +5,7 @@ navPriority: '15'
 collection: MainPage
 layout: default.html
 ---
-**This small West African goat arrived in the U.S. and took our hearts by storm. They have spread through the U.S. like wildfire. What is so special about Nigerian Dwarf goats?**
+**This small West African goat arrived in the U.S. and took American hearts by storm. They have spread through the U.S. like wildfire. What is so special about Nigerian Dwarf goats?**
 
 **<br />**
 
