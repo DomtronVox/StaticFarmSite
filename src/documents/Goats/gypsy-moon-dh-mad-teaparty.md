@@ -5,13 +5,21 @@ la_score: LA 87 VVVV at 6 weeks fresh
 gender: Senior Doe
 birth_date: 02/27/13
 adga_num: D1656566
-milk_records: ''
-extra_info: "## Pedigree highlights\n\nG.Sire: **GCH Algedi Farm Drops of Jupiter S ++*B LA91 EEE**\n\nG.Dam: **CH SG Rosasharn's UMT Tupelo Honey  4\\*D 4\\*M  LA91 EEEE 11x BOB      3x Best Doe  5x\_Best\_Udder    4x Sr Grand**\n\nG.G. Dam: **ARMCH SG Rosasharn's BuckWheat Honey 3\\*D 3\\*M  LA91\_EEEE** _7-00* 305 1500 Lbs of milk_"
+milk_records: |-
+  DIM MILK %BF FAT %P PROT
+  305 560  5.2 29 4.6 26 91 40  
+extra_info: "**Pedigree highlights**\n\nG.Sire: **GCH Algedi Farm Drops of Jupiter S ++*B LA91 EEE**\n\nG.Dam: **SGCH Rosasharn's UMT Tupelo Honey  4\\*D 4\\*M  LA91 EEEE 11x BOB      3x Best Doe  5x\_Best\_Udder    4x Sr Grand**\n\nG.G. Dam: **ARMCH SG Rosasharn's BuckWheat Honey 3\\*D 3\\*M  LA91\_EEEE** _7-00* 305 1500 Lbs of milk_\n\nG.S. Sire:**  SGCH **  Rosasharn's Under My Thumb **+\\*S ++\\*B**"
 blue_eyes: 'no'
 polled: 'no'
 reference: 'no'
-sire: CH Algedi Farm DJ Drops of Honey *B
+sire: 'GCH Algedi Farm DJ Drops of Honey +*B '
 dam: Gypsy Moon SD Irasbeth
+sire_sire: GCH Algedi Farm Drops of Jupiter S ++*B LA91 EEE
+sire_dam: >-
+  SGCH Rosasharn's UMT Tupelo Honey 4*D 4*M LA91 EEEE 11x BOB 3x Best Doe 5x
+  Best Udder 4x Sr Grand
+dam_sire: GCH Gypsy Moon Sudoku *S +B
+dam_dam: Golden Brook Farm Dot to Dot
 pedigree_picture: /images/gypsy moon dh mad teaparty.png
 side_picture: >-
   /images/teaparty, side view best
