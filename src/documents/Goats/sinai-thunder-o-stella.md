@@ -6,7 +6,7 @@ birth_date: 2017-12-23T12:02:57.973Z
 blue_eyes: 'no'
 polled: 'no'
 reference: 'no'
-sire: Cedar View Olivero *B
+sire: Cedar View Olivero *B (moonspots)
 dam: >-
   Little Tots Estate St Kowkab *M *D AR LA86 +VVV Top 10 AGS in Milk Testing
   3-00 305 1050 6.8 71 4.6 48 101 00
