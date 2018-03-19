@@ -38,7 +38,7 @@ breedingHistory:
   - bredDate: '2017'
     breeder: DesertNanny BH Hailstorm  LA 89 VEV     (Blue Eyes)
     buckCount: '0'
-    comments: 'a mini-me of her dam except with hailstorm''s blue eyes. '
+    comments: 'a "mini-me" of her dam except with hailstorm''s blue eyes. '
     doeCount: '1'
   - bredDate: '2016'
     breeder: Wooly Dog Down Etienne Bleu  (Blue eyes and POLLED)
