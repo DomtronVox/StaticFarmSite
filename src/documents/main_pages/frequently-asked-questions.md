@@ -1,5 +1,5 @@
 ---
-title: (FAQs) Frequently Asked Questions
+title: ' Frequently Asked Questions (FAQs)'
 navTitle: FAQs
 navPriority: '60'
 collection: MainPage
