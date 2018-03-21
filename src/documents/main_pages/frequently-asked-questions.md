@@ -5,7 +5,7 @@ navPriority: '60'
 collection: MainPage
 layout: default.html
 ---
-**Frequently Asked Questions**
+## **Frequently Asked Questions**
 
 <br />
 
