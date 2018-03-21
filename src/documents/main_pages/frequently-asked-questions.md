@@ -5,10 +5,6 @@ navPriority: '60'
 collection: MainPage
 layout: default.html
 ---
-## **Frequently Asked Questions**
-
-<br />
-
 **Do you accept credit cards or personal check?** We accept cash (USA) and PayPal. Personal checks must clear the bank before the animal can leave Dozy Doe Down.  We are not set up for credit cards. 
 
 <br />
