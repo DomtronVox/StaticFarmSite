@@ -1,10 +1,10 @@
 ---
 title: 'DesertNanny BH Hailstorm '
 nickname: Hailstorm
-la_score: ' LA 89 VEV'
 gender: Buck
+la_score: ' LA 89 VEV'
 birth_date: 2017-12-23T11:55:43.741Z
-blue_eyes: 'yes'
+blue_eyes: true
 polled: 'no'
 reference: 'no'
 sire: 'DesertNanny BBB Blue Haboob *S *B  '
