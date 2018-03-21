@@ -49,8 +49,8 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {required: true,  label: "Full Goat Name", name: "title", widget: "string"}
       - {required: true,  label: "Nickname", name: "nickname", widget: "string"}
-      - {required: false, label: "LA Score", name: "la_score", widget: "string"}
       - {required: true,  label: "Gender", name: "gender", widget: "select", options: ["Buck", "Senior Doe", "Junior Doe"]}
+      - {required: false, label: "LA Score", name: "la_score", widget: "string"}
       - {required: false, label: "Birth Date", name: "birth_date", widget: "date", default: "" }
       - {required: false, label: "Description", name: "body", widget: "markdown"}
 
@@ -61,6 +61,7 @@ collections: # A list of collections the CMS should be able to edit
       - {required: false, label: "Extra Info", name: "extra_info", widget: "markdown"}
       - {required: false, label: "Blue Eyes", name: "blue_eyes", widget: "select", options: ["no", "yes"], default:"no"}
       - {required: false, label: "Polled", name: "polled", widget: "select", options: ["no", "yes"], defualt:"no"}
+      - {required: false, label: "Moonspots", name: "moonspots", widget: "select", options: ["no", "yes"], defualt:"no"}
       - {required: true, label: "Is it a Reference Goat", name: "reference", widget: "select", options: ["no", "yes"], default:"no"}
 
       - {required: true,  label: "Sire", name: "sire", widget: "string"}
@@ -81,6 +82,7 @@ collections: # A list of collections the CMS should be able to edit
 #      - {required: false, label: "Highlight Picture", name: "highlight_picture", widget: "image"}
       - label: "Gallery"
         name: "galleryImages"
+        required: false
         widget: "list"
         fields:
             - {required: false, label: "Image", name: "image", widget: "image"}
@@ -92,6 +94,7 @@ collections: # A list of collections the CMS should be able to edit
 #      - {required: false, label: "Dam Picture 2", name: "dam_picture2", widget: "image"}
       - label: "Breeding History"
         name: "breedingHistory"
+        required: false
         widget: "list"
         fields:
             - {required: false, label: "Date", name: "bredDate", widget: "string"}
