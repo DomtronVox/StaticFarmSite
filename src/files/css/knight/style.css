@@ -119,6 +119,14 @@ p{
 	height:900px;
 }
 
+.header_title {
+        color:#ecdf64;
+        text-align:center;
+        padding:10px;
+        font-style: italic;
+        font-family:'Century Schoolbook L';
+}
+
 .logo{
 	/*width:500px;*/
         height: 100%;
