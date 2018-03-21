@@ -15,7 +15,7 @@ layout: default.html
 
 <br />
 
-## Here's someone sayin "HI"
+## Here's a friendly fella.
 
 <br />
 
