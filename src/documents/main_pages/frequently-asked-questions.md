@@ -1,11 +1,21 @@
 ---
-title: Frequently Asked Questions
+title: (FAQs) Frequently Asked Questions
 navTitle: FAQs
 navPriority: '60'
 collection: MainPage
 layout: default.html
 ---
 **Frequently Asked Questions**
+
+**Do you accept credit cards or personal check?** We accept cash (USA) and PayPal. Personal checks must clear the bank before the animal can leave Dozy Doe Down.  We are not set up for credit cards. 
+
+<br />
+
+**Why can't i just buy ONE goat?**  Goats are like potato chips, you can't have just one! LOL   If you don't already have goats, i prefer to sell in groups of three, when possible. Goats are herd animals. They HAVE TO have another goat friend otherwise they mope and cry, get stressed, and that leads to sickness.
+
+<br />
+
+Our policy used to be to start you with a minimum of two goats.  But over the years I've had a few people contact us in tears. They bought only one kid from someone else OR they had two goats but one died and the other was crying 24/7. And,** "please, do you have a wether I could buy to make my sad goat happy?"  **So now our policy is to sell in groups of three, when possible.  That way if something happens to one there are still two buddies left.  Less stress = less sickness.
 
 <br />
 
@@ -26,9 +36,5 @@ layout: default.html
 <br />
 
 **Can I visit your farm and see your goats/puppies?**   Yes and no. We prefer to meet you off farm. But if visitors are interested in coming to Dozy Doe Down, **WITH AN APPOINTMENT, **we can bring the goat/pup to a designated area at the front of the property. You must wear booties (that we provide) and wash your hands before petting the animal. But we are NOT a petting zoo and visitors are not allowed free access to roam Dozy Doe Down.   We feel very strongly about bio‑security. We have shoes/boots that we wear JUST for the farm. Others shoes for off farm.  Diseases like Johnes can be tracked on shoes. We do the best we can  to keep our goats safe and one way is to restrict visitors’ access as much as possible. I'm sure you can appreciate this policy when it comes times to buy YOUR goat. 
-
-<br />
-
-**Do you accept credit cards or personal check?** We accept cash (USA) and PayPal. Personal checks must clear the bank before the animal can leave Dozy Doe Down.  We are not set up for credit cards. 
 
 <br />
