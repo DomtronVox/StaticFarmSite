@@ -47,6 +47,6 @@ Sunrise (above) and Sunset (below) both taken from my porch
 
 ## Stay awhile and visit.  Click on these links below to see Dozy Doe Down OR you can use the drop down menu under our Logo. [Nigerian Dwarf Goats ](goats.html)| [Kidding Schedule](/kidding-sched.html) | [Livestock Guardian Dogs](livestockgardiandogs) | [For Sale](for-sale2.html) |[ For Newbies ](for-newbies.html)| [FAQs](frequently-asked-questions.html) | [About Us](index.html) | [Contact Us](contactus)
 
-## <br />
+<br />
 
 ## Ya'all come back now, hear?
