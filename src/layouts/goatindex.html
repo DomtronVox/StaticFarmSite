@@ -65,17 +65,19 @@
 
         
         {{#each pagination.files}}
-            <img src="{{side_picture}}" alt="Side picture of {{nickname}}"></img>
-            <div style="height:500px;margin-top:50px;margin-bottom:10px;">
+            <div style="margin-top:50px;margin-bottom:10px;">
                 <h1><a href="/{{path}}">{{title}}</a></h1>
-                {{#if back_picture}}
-                  <img src="{{back_picture}}" alt="Rear picture of {{nickname}}" style="float:right;height:380px;"></img>
-                {{/if}}
+
+                <div style="float:right;width:300px;margin-right:20px;">
+                    <a href="/{{path}}"><img src="{{side_picture}}" alt="Side picture of {{nickname}}" ></img></a>
+                    <p style="text-align:center;"><a href="/{{path}}">Click here to see {{nickname}}'s page.</a></p>
+                </div>
+                
                 {{#if la_score}}
                   <h2> {{la_score}} </h2>
                 {{/if}}
-                <p> Sire: {{sire}} </p>
-                <p> Dam: {{dam}}
+
+                <p> Sire: {{sire}} 
                     <ul style="list-style-type: none;">
                         {{#if sire_sire}}
                           <li> Sire's Sire: {{sire_sire}}</li>
@@ -83,6 +85,10 @@
                         {{#if sire_dam}}
                           <li> Sire's Dam: {{sire_dam}}</li>
                         {{/if}}
+                    </ul>
+                </p>
+                <p> Dam: {{dam}}
+                    <ul style="list-style-type: none;">
                         {{#if dam_sire}}
                           <li> Dam's Sire: {{dam_sire}}</li>
                         {{/if}}
@@ -92,8 +98,8 @@
                     </ul>
                 </p>
                 
-                <br/>
-                <p><a href="/{{path}}">Click here to see {{nickname}}'s page.</a></p>
+                <div id="clear" style="clear:both;"></div>
+
             </div>
             <hr/>
         {{/each }}
@@ -109,7 +115,6 @@
 </div>
 <footer class="footer">
     <div class="container">
-        <div class="footer-logo"><a href="#"><img src="/images/footer-logo.png" alt=""></a></div>
         {{> footer}}
         <br />
         <span class="copyright">&copy; Knight Theme. All Rights Reserved</span>
