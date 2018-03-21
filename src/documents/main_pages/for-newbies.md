@@ -7,7 +7,7 @@ layout: default.html
 ---
 # **BEWARE: GOATS ARE ADDICTIVE! (bwahahaha)**
 
-## We prefer offering wethers (castrated males) when working with people having no goat experience.  Wethers make excellent pets, don't have that "bucky" smell, and are cheaper than registered does or bucks. Since you don't already have goats, i prefer to sell in groups of three, when possible. **WHY THREE?** you ask.
+## We prefer offering wethers (castrated males) when working with people having no goat experience.  Wethers make excellent pets, don't have that "bucky" smell, don't have heats (screaming to be bred) every 21-25 days year around and are cheaper than registered does or bucks. Since you don't already have goats, i prefer to sell in groups of three, when possible. **WHY THREE?** you ask.
 
 <br />
 
