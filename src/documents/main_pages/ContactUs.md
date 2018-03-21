@@ -17,6 +17,6 @@ layout: default.html
 
 <br />
 
-
-
 ![](/images/daffodils in bloom smaller.jpg)
+
+<br />
