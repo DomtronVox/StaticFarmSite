@@ -32,6 +32,22 @@ layout: default.html
 
 <br />
 
-![null](/images/kidding 2.png)
+![](/images/2018 kidding part1.png)
+
+Part 1 all confirmed
+
+<br />
+
+![](/images/2018 kidding part2.png)
+
+Part 2 all confirmed
+
+<br />
+
+![](/images/2018 kidding part 3.png)
+
+Part 3 waiting on test results
+
+<br />
 
 ## Click on these links below to see Dozy Doe Down OR you can use the drop down menu under our Logo.[ Nigerian Dwarf Goats](goats.html) | [Kidding Schedule](kidding-sched.html) | [Livestock Guardian Dogs](livestockgardiandogs) | [For Sale](for-sale2.html) | [For Newbies](for-newbies.html) | [FAQs](frequently-asked-questions.html) | [Contact Us](contactus) | [About Us ](about-us.html)
