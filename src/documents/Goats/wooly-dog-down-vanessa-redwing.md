@@ -6,8 +6,8 @@ gender: Senior Doe
 birth_date: 6/7/05
 adga_num: D1448464P
 ags_num: D-31213H
-blue_eyes: 'no'
-polled: 'yes'
+blue_eyes: false
+polled: true
 reference: 'yes'
 sire: Velvet Acres Knothead 1xGCH
 dam: Wooly Dog Down Rosy Flutterby

@@ -3,8 +3,8 @@ title: Dozy Doe Down SH Bella 1*M
 nickname: Bella
 gender: Senior Doe
 birth_date: 2017-12-23T12:08:41.170Z
-blue_eyes: 'yes'
-polled: 'no'
+blue_eyes: true
+polled: false
 reference: 'no'
 sire: 'Kaapio Acres LT Super Hero *S BLUE EYES '
 dam: Gypsy Moon Pilar

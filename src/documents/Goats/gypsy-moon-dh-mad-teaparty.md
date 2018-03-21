@@ -9,8 +9,8 @@ milk_records: |-
   DIM MILK %BF FAT %P PROT
   305 560  5.2 29 4.6 26 91 40  
 extra_info: "**Pedigree highlights**\n\nG.Sire: **GCH Algedi Farm Drops of Jupiter S ++*B LA91 EEE**\n\nG.Dam: **SGCH Rosasharn's UMT Tupelo Honey  4\\*D 4\\*M  LA91 EEEE 11x BOB      3x Best Doe  5x\_Best\_Udder    4x Sr Grand**\n\nG.G. Dam: **ARMCH SG Rosasharn's BuckWheat Honey 3\\*D 3\\*M  LA91\_EEEE** _7-00* 305 1500 Lbs of milk_\n\nG.S. Sire:**  SGCH **  Rosasharn's Under My Thumb **+\\*S ++\\*B**"
-blue_eyes: 'no'
-polled: 'no'
+blue_eyes: false
+polled: false
 reference: 'no'
 sire: 'GCH Algedi Farm DJ Drops of Honey +*B '
 dam: Gypsy Moon SD Irasbeth

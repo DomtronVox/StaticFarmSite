@@ -5,7 +5,7 @@ gender: Buck
 la_score: ' LA 89 VEV'
 birth_date: 2017-12-23T11:55:43.741Z
 blue_eyes: true
-polled: 'no'
+polled: false
 reference: 'no'
 sire: 'DesertNanny BBB Blue Haboob *S *B  '
 dam: Desert Nanny BR Blackbottom Pie  LA 86 VV++

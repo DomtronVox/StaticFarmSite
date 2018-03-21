@@ -3,9 +3,9 @@ title: Dozy Doe Down EB Hidden Tresor
 nickname: Tresor
 gender: Buck
 birth_date: 2017-12-23T11:43:47.445Z
-blue_eyes: 'yes'
-polled: 'no'
-reference: 'no'
+blue_eyes: true
+polled: false
+reference: false
 sire: Wooly Dog Down Etienne Bleu  POLLED BLUE EYES
 dam: Gypsy Moon SZ Ambergris LA 86 +V+V at THREE weeks fresh
 sire_sire: Wooly Dog Down Captain Jay   POLLED BLUE EYES

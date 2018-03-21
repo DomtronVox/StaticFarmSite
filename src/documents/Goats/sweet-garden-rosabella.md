@@ -3,8 +3,8 @@ title: Sweet Garden Rosabella 4*M
 nickname: Rosa
 gender: Senior Doe
 birth_date: Invalid date
-blue_eyes: 'no'
-polled: 'no'
+blue_eyes: false
+polled: false
 reference: 'no'
 sire: Fairlea Frederic Chopin
 dam: GCH Tiny Town Treble 3*M VEEE90

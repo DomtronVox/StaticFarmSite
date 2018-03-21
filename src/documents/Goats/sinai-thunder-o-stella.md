@@ -3,8 +3,8 @@ title: Sinai Thunder O Stella
 nickname: Stella
 gender: Senior Doe
 birth_date: 2017-12-23T12:02:57.973Z
-blue_eyes: 'no'
-polled: 'no'
+blue_eyes: false
+polled: false
 reference: 'no'
 sire: Cedar View Olivero *B (moonspots)
 dam: >-

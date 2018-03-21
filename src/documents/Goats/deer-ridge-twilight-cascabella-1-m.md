@@ -4,8 +4,8 @@ nickname: Cassie
 gender: Senior Doe
 birth_date: 3/14/12
 adga_num: D1706609
-blue_eyes: 'no'
-polled: 'no'
+blue_eyes: false
+polled: false
 reference: 'yes'
 sire: Tx Twincreeks Edge of Twilight
 dam: Tx Twincreeks G Spicy Pepper
