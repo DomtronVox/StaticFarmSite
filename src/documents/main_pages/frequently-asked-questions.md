@@ -13,7 +13,7 @@ layout: default.html
 
 <br />
 
-**Do you sell disbudded goats?** If a goat is not born POLLED (genetically hornless) we always disbud them. There is an exception to that in that a horned kid born of one or both parents or even grandparents that are polled might not have the horn go through the skin until after you have picked it up. We will be glad to disbud for free in that case.
+**Do you sell disbudded goats?** If a goat is not born POLLED (genetically hornless) we always disbud them. There is an exception to that in that a horned kid born of one or both parents or even grandparents that are polled might not have the horns go through the skin until after you have picked it up. If that happens, bring it back and we will be glad to disbud for free.
 
 <br />
 
@@ -25,7 +25,7 @@ layout: default.html
 
 <br />
 
-**Can I visit your farm and see your goats/puppies?**   Yes and no. If visitors are interested in coming to Dozy Doe Down, **WITH AN APPOINTMENT, **we can bring the goat/pup to a designated area at the front of the property. You must wear booties (that we provide) and wash your hands before petting the animal. But we are NOT a petting zoo and visitors are not allowed free access to roam Dozy Doe Down.   We feel very strongly about bio‑security. Diseases like Johnes can be tracked on shoes. We do the best we can  to keep our goats safe and one way is to restrict visitors’ access as much as possible.
+**Can I visit your farm and see your goats/puppies?**   Yes and no. We prefer to meet you off farm. But if visitors are interested in coming to Dozy Doe Down, **WITH AN APPOINTMENT, **we can bring the goat/pup to a designated area at the front of the property. You must wear booties (that we provide) and wash your hands before petting the animal. But we are NOT a petting zoo and visitors are not allowed free access to roam Dozy Doe Down.   We feel very strongly about bio‑security. We have shoes/boots that we wear JUST for the farm. Others shoes for off farm.  Diseases like Johnes can be tracked on shoes. We do the best we can  to keep our goats safe and one way is to restrict visitors’ access as much as possible. I'm sure you can appreciate this policy when it comes times to buy YOUR goat. 
 
 <br />
 
