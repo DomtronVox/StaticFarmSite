@@ -80,7 +80,7 @@ h1{
 	font-size:34px;
 	color:#222222;
 	font-weight:700;
-	text-transform:uppercase;
+	/*text-transform:uppercase;*/
         margin-top: 40px;
 }
 
@@ -136,7 +136,7 @@ p{
 .small-header{
 	text-align:left;
 	background:url(/images/knight/dark_wood.png) left top repeat;
-	height:330px;
+	height:350px;
 }
 
 .small-header .logo{
