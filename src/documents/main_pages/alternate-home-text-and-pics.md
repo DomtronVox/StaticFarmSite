@@ -1,11 +1,11 @@
 ---
-title: Alternate home text and pics
+title: A Day at Dozy Doe Down
 navTitle: Alternate home text and pics
 navPriority: '90'
 collection: MainPage
 layout: default.html
 ---
-> A Day at Dozy Doe Down
+>
 
 ## Mornin! I know it's early but glad you're here! We can watch the sunrise from the porch.
 
