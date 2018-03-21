@@ -5,7 +5,7 @@ navPriority: '90'
 collection: MainPage
 layout: default.html
 ---
-> A Day at Dozy Doe Down.
+> A Day at Dozy Doe Down
 
 ## Mornin! I know it's early but glad you're here! We can watch the sunrise from the porch.
 
@@ -15,7 +15,7 @@ layout: default.html
 
 <br />
 
-## Here's a friendly fella.
+## Here's a friendly fella!
 
 <br />
 
@@ -59,4 +59,4 @@ layout: default.html
 
 <br />
 
-# Ya'all come back now, hear?
+## Ya'all come back now, hear?
