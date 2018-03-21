@@ -59,9 +59,9 @@ collections: # A list of collections the CMS should be able to edit
       - {required: false, label: "Milk Records", name: "milk_records", widget: "text"}
 
       - {required: false, label: "Extra Info", name: "extra_info", widget: "markdown"}
-      - {required: false, label: "Blue Eyes", name: "blue_eyes", widget: "select", options: ["no", "yes"], default:"no"}
-      - {required: false, label: "Polled", name: "polled", widget: "select", options: ["no", "yes"], defualt:"no"}
-      - {required: false, label: "Moonspots", name: "moonspots", widget: "select", options: ["no", "yes"], defualt:"no"}
+      - {required: false, label: "Blue Eyes", name: "blue_eyes", widget: "boolean"}
+      - {required: false, label: "Polled", name: "polled", widget: "boolean"}
+      - {required: false, label: "Moonspots", name: "moonspots", widget: "boolean"}
       - {required: true, label: "Is it a Reference Goat", name: "reference", widget: "select", options: ["no", "yes"], default:"no"}
 
       - {required: true,  label: "Sire", name: "sire", widget: "string"}
