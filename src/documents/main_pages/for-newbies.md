@@ -1,5 +1,5 @@
 ---
-title: 'For Newbies '
+title: For Newbies (and others too!)
 navTitle: For Newbies
 navPriority: '45'
 collection: MainPage
