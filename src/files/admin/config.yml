@@ -92,8 +92,8 @@ collections: # A list of collections the CMS should be able to edit
 #      - {required: false, label: "Sire Picture 2", name: "sire_picture2", widget: "image"}
 #      - {required: false, label: "Dam Picture 1", name: "dam_picture1", widget: "image"}
 #      - {required: false, label: "Dam Picture 2", name: "dam_picture2", widget: "image"}
-      - label: "Breeding History"
-        name: "breedingHistory"
+      - label: "Kidding History"
+        name: "kiddingHistory"
         required: false
         widget: "list"
         fields:

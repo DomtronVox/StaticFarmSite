@@ -18,7 +18,7 @@ galleryImages:
   - caption: rear view as a jr. doe
     image: /images/fawn rear view 13116361_10156855249485487_615791611237006557_o.jpg
   - {}
-breedingHistory:
+kiddingHistory:
   - bredDate: '2017'
     breeder: Hailstorm
     buckCount: '1'
