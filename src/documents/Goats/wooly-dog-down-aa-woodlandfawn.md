@@ -3,6 +3,7 @@ title: Wooly Dog Down AA WoodlandFawn
 nickname: Fawn
 gender: Senior Doe
 birth_date: '2015-03-06'
+adga_num: D1778256
 blue_eyes: 'no'
 polled: 'no'
 reference: 'no'
