@@ -4,7 +4,7 @@ nickname: Graffiti
 gender: Buck
 birth_date: '2015-01-31'
 blue_eyes: 'no'
-polled: 'yes'
+polled: true
 reference: 'no'
 sire: 'Gotta B Kid N McGee POLLED  '
 dam: ' GCH Some Day Came CM Sarapiqui    1 *M'
@@ -20,8 +20,6 @@ back_picture: >-
   13178796_10156854462210487_3693704238346869352_n.jpg
 galleryImages:
   - {}
-  - {}
-breedingHistory:
   - {}
 layout: goatpage.html
 collection: Goats
