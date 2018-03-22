@@ -24,14 +24,14 @@ galleryImages:
     image: /images/flat rocks gem's legacy.jpg
   - caption: 'GRANDSIRE: Flat Rocks Gem ++B Polled'
     image: /images/gem flat rocks.jpg
-  - caption: 'G-G-Sire:  Velvet Acres Knothead'
-    image: /images/vaknothead.jpg
-  - caption: 'GRANDDAM: Wooly Dog Down Vanessa Redwing 1*M  LA84 +EE+ Polled'
-    image: /images/wwd1 vanessa redwing.jpg
-  - caption: 'DAM: Wooly Dog Down Celestrina Blue Polled Blue Eyes'
-    image: /images/celestrina pic2.jpg
   - caption: 'G-G-DAM:    MCH Flat Rocks Surprise'
     image: /images/fr surprise_small.jpg
+  - caption: 'DAM: Wooly Dog Down Celestrina Blue Polled Blue Eyes'
+    image: /images/celestrina pic2.jpg
+  - caption: 'GRANDDAM: Wooly Dog Down Vanessa Redwing 1*M  LA84 +EE+ Polled'
+    image: /images/wwd1 vanessa redwing.jpg
+  - caption: 'G-G-Sire:  Velvet Acres Knothead'
+    image: /images/vaknothead.jpg
 kiddingHistory:
   - bredDate: '2017 '
     breeder: Hailstorm
