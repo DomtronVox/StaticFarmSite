@@ -2,7 +2,7 @@
 title: Some Day Came MG FL Graffiti
 nickname: Graffiti
 gender: Buck
-birth_date: 2017-12-23T13:00:47.304Z
+birth_date: '2015-01-31'
 blue_eyes: 'no'
 polled: 'yes'
 reference: 'no'
@@ -18,6 +18,11 @@ side_picture: >-
 back_picture: >-
   /images/graffiti rear view
   13178796_10156854462210487_3693704238346869352_n.jpg
+galleryImages:
+  - {}
+  - {}
+breedingHistory:
+  - {}
 layout: goatpage.html
 collection: Goats
 ---
