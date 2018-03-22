@@ -73,7 +73,7 @@ collections: # A list of collections the CMS should be able to edit
       - {required: false,  label: "Dam's Sire", name: "dam_sire", widget: "string"}
       - {required: false,  label: "Dam's Dam", name: "dam_dam", widget: "string"}
 
-      - {required: false, label: "Pdigree Picture", name: "pedigree_picture", widget: "image"}
+      - {required: false, label: "Pedigree Picture", name: "pedigree_picture", widget: "image"}
 
       - {required: false, label: "Side Picture", name: "side_picture", widget: "image"}
       - {required: false, label: "Back/Udder Picture", name: "back_picture", widget: "image"}
