@@ -18,10 +18,7 @@
 <link href="/css/knight/animate.css" rel="stylesheet" type="text/css">
 
 <link href="/css/sidebar.css" rel="stylesheet" type="text/css">
-
-<!-- Gallery includes TODO-->
-
-
+				
 
 <!--[if IE]><style type="text/css">.pie {behavior:url(PIE.htc);}</style><![endif]-->
 
@@ -33,6 +30,25 @@
 <script type="text/javascript" src="/js/knight/wow.js"></script>
 <script type="text/javascript" src="/js/knight/classie.js"></script>
 
+
+<!-- Gallery includes TODO-->
+<link rel="stylesheet" type="text/css" href="/slick/slick.css"/>
+<link rel="stylesheet" type="text/css" href="/slick/slick-gallery-theme-changed.css"/>
+<!--<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>-->
+<script type="text/javascript" src="/slick/slick.min.js"></script>
+
+<script>
+    $(document).ready(function(){
+        $('.gallery').slick({
+            dots: true,
+            infinite: true,
+            speed: 300,
+            slidesToShow: 3,
+            adaptiveHeight: true
+        });
+    });
+</script>
 
 <!-- =======================================================
     Theme Name: Knight
@@ -114,12 +130,20 @@
 
         <div id="clear" style="clear:both;"></div>
 
+        {{#if kiddingHistory}}
         <h2><center>Kidding History</center></h2>
+        {{/if}}
 
+        {{#if pedigree_picture}}
         <h2><center>Pedigree</center></h2>
         <img src="{{pedigree_picture}}"></img>
+        {{/if}}
 
-        <!--{  {> gallery}}-->
+        {{#if galleryImages}}
+        <h2><center>Gallery for {{nickname}}</center></h2>
+        {{insertGoatGallery galleryImages}}
+        {{/if}}
+       
     </div>
 
 
