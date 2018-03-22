@@ -19,6 +19,10 @@
 
 <link href="/css/sidebar.css" rel="stylesheet" type="text/css">
 
+<!-- Gallery includes TODO-->
+
+
+
 <!--[if IE]><style type="text/css">.pie {behavior:url(PIE.htc);}</style><![endif]-->
 
 <script type="text/javascript" src="/js/knight/jquery.1.8.3.min.js"></script>
@@ -71,20 +75,51 @@
 <section class="main-section" id="content"><!--main-section-start-->
     <div class="container contents">
 
-        <ul>
-            <li>Barn Name: {{barn_name}}</li>
-            <li>Long Name: {{long_name}}</li>
-            <li>Birth Date: {{birth_date}}</li>
-            <li>Birth Farm: {{birth_farm}}</li>
-            <li>Tatts Right Ear: {{tatts_right}}</li>
-            <li>Tatts Left Ear: {{tatts_left}}</li>
-            <li>ADGA Registration Number: {{adga_num}}</li>
-            <li>Sire: <a href="/Goats/{{sire}}">{{sire}}</a></li>
-            <li>Dam: <a href="/Goats/{{dam}}">{{dam}}</a></li>
-        </ul>
+        <h1><center>{{title}}</center></h1>
 
+        <img src="{{side_picture}}" alt="Side picture of {{nickname}}" ></img>
 
-    	{{{contents}}}
+        <br />
+
+        <div>
+            {{#if back_picture}}
+            <img src="{{back_picture}}" alt="Back picture of {{nickname}}" style="float:right;width:300px;"></img>
+            {{/if}}
+
+            <p>Barn Name: {{nickname}}</p>
+
+            {{#if la_score}}
+                <p> Born {{birth_date}} </p>
+            {{/if}}
+
+            {{#if la_score}}
+                <p> Linear Appraisal Score: {{la_score}} </p>
+            {{/if}}
+ 
+            {{#if la_score}}
+                <p> Linear Appraisal Score: {{la_score}} </p>
+            {{/if}}
+
+            {{#if blue_eyes}} <p style="color:#3f3fff;">Blue Eyes  </p> {{/if}}
+            {{#if polled}} <p style="color:#00a900;">Polled  </p> {{/if}}
+            {{#if moonspots}} <p style="color:#3f3fff;">Moonspots  </p> {{/if}}        
+
+            {{#if adga_num}} <p>ADGA Registration Number: {{adga_num}}</p> {{/if}}
+        
+            <h3>Additional Notes:</h3>
+            {{{contents}}}
+
+            
+        </div>
+
+        <div id="clear" style="clear:both;"></div>
+
+        <h2><center>Kidding History</center></h2>
+
+        <h2><center>Pedigree</center></h2>
+        <img src="{{pedigree_picture}}"></img>
+
+        <!--{  {> gallery}}-->
     </div>
 
 
