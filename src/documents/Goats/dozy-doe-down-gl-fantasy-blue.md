@@ -26,7 +26,7 @@ galleryImages:
     image: /images/celestrina pic2.jpg
   - caption: 'GRANDSIRE: Flat Rocks Gem ++B Polled'
     image: /images/gem flat rocks.jpg
-  - caption: 'GRANDDAM: Wooly Dog Down Vanessa Redwing 1*M  LA84 +EE+ Polled'
+  - caption: 'GRANDDAM: Wooly Dog Down Vanessa Redwing 1*M  LA84 +EE+  Polled'
     image: /images/wwd1 vanessa redwing.jpg
   - caption: 'G-G-DAM:    MCH Flat Rocks Surprise'
     image: /images/fr surprise_small.jpg
