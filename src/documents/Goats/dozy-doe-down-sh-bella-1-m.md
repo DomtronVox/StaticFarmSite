@@ -22,6 +22,7 @@ kiddingHistory:
   - bredDate: '2016'
     breeder: Some Day Came MG FL Graffiti
     buckCount: '2'
+    comments: DDD G Handsome Is (POLLED);  DDD G HiJinks Blues (BLUE EYES)
     doeCount: '0'
   - bredDate: '2015'
     breeder: Alpenglade Farm Apache
