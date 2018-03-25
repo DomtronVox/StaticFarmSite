@@ -16,16 +16,16 @@ dam_dam: "Rosasharn's TL Sun Dance 2005 ANDDA RGCH Jr. Doe 2x\_Best Of Breed Jr.
 side_picture: /images/bella pic2.jpg
 back_picture: /images/sam_3701.jpg
 kiddingHistory:
-  - bredDate: '2015'
-    breeder: appache
-    buckCount: '0'
+  - bredDate: '2017'
+    breeder: graffiti
     doeCount: '2'
   - bredDate: '2016'
     breeder: graffiti
     buckCount: '2'
     doeCount: '0'
-  - bredDate: '2017'
-    breeder: graffiti
+  - bredDate: '2015'
+    breeder: appache
+    buckCount: '0'
     doeCount: '2'
 layout: goatpage.html
 collection: Goats
