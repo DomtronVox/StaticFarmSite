@@ -3,6 +3,7 @@ title: Dozy Doe Down SH Bella 1*M
 nickname: Bella
 gender: Senior Doe
 birth_date: 2017-12-23T12:08:41.170Z
+milk_records: 'FF '
 blue_eyes: true
 polled: false
 reference: 'no'
@@ -13,8 +14,19 @@ sire_dam: Gay-Mor's Lucky Naughty Marietta 3*D
 dam_sire: "Pride of Texas Gladiator LA\_85\_+VE"
 dam_dam: "Rosasharn's TL Sun Dance 2005 ANDDA RGCH Jr. Doe 2x\_Best Of Breed Jr. Doe"
 side_picture: /images/bella pic2.jpg
-front_picture: /images/bella pic1.jpg
 back_picture: /images/sam_3701.jpg
+kiddingHistory:
+  - bredDate: '2015'
+    breeder: appache
+    buckCount: '0'
+    doeCount: '2'
+  - bredDate: '2016'
+    breeder: graffiti
+    buckCount: '2'
+    doeCount: '0'
+  - bredDate: '2017'
+    breeder: graffiti
+    doeCount: '2'
 layout: goatpage.html
 collection: Goats
 ---
