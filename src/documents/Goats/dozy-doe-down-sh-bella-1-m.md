@@ -27,6 +27,7 @@ kiddingHistory:
   - bredDate: '2015'
     breeder: Alpenglade Farm Apache
     buckCount: '0'
+    comments: 'DDD AA Flowing River (cou clair)  DDD AA FeatherBonnet '
     doeCount: '2'
 layout: goatpage.html
 collection: Goats
