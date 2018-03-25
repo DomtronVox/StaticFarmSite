@@ -17,14 +17,14 @@ side_picture: /images/bella pic2.jpg
 back_picture: /images/sam_3701.jpg
 kiddingHistory:
   - bredDate: '2017'
-    breeder: graffiti
+    breeder: Some Day Came MG FL Graffiti
     doeCount: '2'
   - bredDate: '2016'
-    breeder: graffiti
+    breeder: Some Day Came MG FL Graffiti
     buckCount: '2'
     doeCount: '0'
   - bredDate: '2015'
-    breeder: appache
+    breeder: Alpenglade Farm Apache
     buckCount: '0'
     doeCount: '2'
 layout: goatpage.html
