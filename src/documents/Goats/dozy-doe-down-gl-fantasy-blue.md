@@ -36,6 +36,8 @@ kiddingHistory:
   - bredDate: '2017 '
     breeder: DesertNanny BH Hailstorm LA 89 VEV (Blue Eyes)
     buckCount: '1'
+    comments: single
+  - {}
 layout: goatpage.html
 collection: Goats
 ---
