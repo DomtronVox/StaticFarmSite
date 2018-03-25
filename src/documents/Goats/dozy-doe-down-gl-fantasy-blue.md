@@ -27,8 +27,8 @@ galleryImages:
   - caption: 'GRANDSIRE: Flat Rocks Gem ++B Polled'
     image: /images/gem flat rocks.jpg
   - caption: >-
-      GRANDDAM: Wooly Dog Down Vanessa Redwing 1*M  LA84 +EE+ (at 10 yrs old)
-      Polled
+      GRANDDAM: Wooly Dog Down Vanessa Redwing 1*M  Polled  LA84 +EE+ (at 10 yrs
+      old) 
     image: /images/wwd1 vanessa redwing.jpg
   - caption: 'G-G-DAM:    MCH Flat Rocks Surprise'
     image: /images/fr surprise_small.jpg
