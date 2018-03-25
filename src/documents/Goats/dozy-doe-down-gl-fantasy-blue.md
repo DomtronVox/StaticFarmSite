@@ -8,13 +8,13 @@ adga_num: D1765217P
 milk_records: 290 240 6.7 16 4.6 11
 blue_eyes: true
 polled: true
-moonspots: true
+moonspots: false
 reference: 'no'
-sire: AGS Flat Rocks Gem's Legacy +B LA88 VEE Polled
-dam: Wooly Dog Down Celestrina LA 79 +VVA  Polled; Blue Eyes
-sire_sire: Flat Rocks Gem ++B Polled
+sire: AGS Flat Rocks Gem's Legacy +B LA88 VEE    (Polled)
+dam: Wooly Dog Down Celestrina   (Polled; Blue Eyes)
+sire_sire: Flat Rocks Gem ++B (Polled)
 sire_dam: Fire Alarm Grace
-dam_sire: 'Hay There Barley Polled, Blue Eyes'
+dam_sire: 'Hay There Barley (Polled, Blue Eyes)'
 dam_dam: Wooly Dog Down Vanessa Redwing  1*M  LA84 +EE+ at 10 yrs old
 pedigree_picture: ''
 side_picture: /images/fantasy side view 13233078_10156855248720487_6271938474121403546_n.jpg
@@ -34,7 +34,7 @@ galleryImages:
     image: /images/vaknothead.jpg
 kiddingHistory:
   - bredDate: '2017 '
-    breeder: Hailstorm
+    breeder: DesertNanny BH Hailstorm LA 89 VEV (Blue Eyes)
     buckCount: '1'
 layout: goatpage.html
 collection: Goats
