@@ -51,6 +51,15 @@ img{ max-width:100%; }
     position: relative;
 }
 
+table {
+    width:100%; 
+    min-width:500px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align:center;
+}
 
 .news-box-home {
     color: gold;
