@@ -22,20 +22,24 @@ back_picture: /images/fantasy rear view 13226674_10156855248745487_7081601491904
 galleryImages:
   - caption: 'SIRE:  AGS Flat Rocks Gem''s Legacy +B LA88 VEE Polled'
     image: /images/flat rocks gem's legacy.jpg
-  - caption: 'GRANDSIRE: Flat Rocks Gem ++B Polled'
-    image: /images/gem flat rocks.jpg
-  - caption: 'G-G-DAM:    MCH Flat Rocks Surprise'
-    image: /images/fr surprise_small.jpg
   - caption: 'DAM: Wooly Dog Down Celestrina Blue Polled Blue Eyes'
     image: /images/celestrina pic2.jpg
-  - caption: 'GRANDDAM: Wooly Dog Down Vanessa Redwing 1*M  LA84 +EE+ Polled'
+  - caption: 'GRANDSIRE: Flat Rocks Gem ++B Polled'
+    image: /images/gem flat rocks.jpg
+  - caption: >-
+      GRANDDAM: Wooly Dog Down Vanessa Redwing 1*M  Polled  LA84 +EE+ (at 10 yrs
+      old) 
     image: /images/wwd1 vanessa redwing.jpg
+  - caption: 'G-G-DAM:    MCH Flat Rocks Surprise'
+    image: /images/fr surprise_small.jpg
   - caption: 'G-G-Sire:  Velvet Acres Knothead'
     image: /images/vaknothead.jpg
 kiddingHistory:
   - bredDate: '2017 '
     breeder: DesertNanny BH Hailstorm LA 89 VEV (Blue Eyes)
     buckCount: '1'
+    comments: single
+  - {}
 layout: goatpage.html
 collection: Goats
 ---
