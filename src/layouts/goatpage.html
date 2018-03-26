@@ -97,33 +97,46 @@
 
         <br />
 
+       <h2><center>General Information</center></h2>
+
         <div>
             {{#if back_picture}}
             <img src="{{back_picture}}" alt="Back picture of {{nickname}}" style="float:right;width:300px;"></img>
             {{/if}}
 
-            <p>Barn Name: {{nickname}}</p>
-
-            {{#if la_score}}
-                <p> Born {{birth_date}} </p>
-            {{/if}}
-
-            {{#if la_score}}
-                <p> Linear Appraisal Score: {{la_score}} </p>
+            {{#if adga_num}}
+                <p> ADGA #: {{adga_num}} </p>
             {{/if}}
  
             {{#if la_score}}
-                <p> Linear Appraisal Score: {{la_score}} </p>
+                <p> AGS #: {{ags_num}} </p>
+            {{/if}}
+            
+            {{#if birth_date}}
+                <p> DOB: {{birth_date}} </p>
             {{/if}}
 
-            {{#if blue_eyes}} <p style="color:#3f3fff;">Blue Eyes  </p> {{/if}}
-            {{#if polled}} <p style="color:#00a900;">Polled  </p> {{/if}}
-            {{#if moonspots}} <p style="color:#b79c3c;">Moonspots  </p> {{/if}}        
+            <h2>
+                {{#if blue_eyes}} <span style="color:#3f3fff;">Blue Eyes  </span> {{/if}}
+                {{#if polled}} <span style="color:#00a900;">Polled  </span> {{/if}}
+                {{#if moonspots}} <span style="color:#b79c3c;">Moonspots  </span> {{/if}}        
+            </h2>
 
-            {{#if adga_num}} <p>ADGA Registration Number: {{adga_num}}</p> {{/if}}
-        
+            {{#if milkRecords }}
+            <h3>305 Day ADGA Milk Star Test</h3>
+            {{insertMilkRecords milkRecords}}
+            <p>{{milkRecordComments}}</p>
+            {{/if}}
+
+            {{#if extra_info}}
             <h3>Additional Notes:</h3>
+            {{extra_info}}
+            {{/if}}
+     
+            {{#if contents}}
+            <h3>Description:</h3>
             {{{contents}}}
+            {{/if}}
 
             
         </div>
@@ -136,7 +149,7 @@
         {{/if}}
 
         {{#if pedigree_picture}}
-        <h2><center>Pedigree</center></h2>
+        <h2><center>{{nickname}}'s Pedigree</center></h2>
         <img src="{{pedigree_picture}}"></img>
         {{/if}}
 

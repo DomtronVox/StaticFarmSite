@@ -56,7 +56,6 @@ collections: # A list of collections the CMS should be able to edit
 
       - {required: false, label: "ADGA Registration Number", name: "adga_num", widget: "string"}
       - {required: false, label: "AGS Registration Number", name: "ags_num", widget: "string"}
-      - {required: false, label: "Milk Records", name: "milk_records", widget: "text"}
 
       - {required: false, label: "Extra Info", name: "extra_info", widget: "markdown"}
       - {required: false, label: "Blue Eyes", name: "blue_eyes", widget: "boolean"}
@@ -80,6 +79,20 @@ collections: # A list of collections the CMS should be able to edit
 #      - {required: false, label: "2nd Side Picture", name: "side2_picture", widget: "image"}
 #      - {required: false, label: "Front Picture", name: "front_picture", widget: "image"}
 #      - {required: false, label: "Highlight Picture", name: "highlight_picture", widget: "image"}
+
+      - label: "Milk Records"
+        name: "milk_records"
+        required: false,
+        widget: "list"
+        fields:
+            - {required: false, label: "Year", name: "milkRecordYear", widget: "string"}
+            - {required: false, label: "DIM", name: "milkRecordDIM", widget: "string"}
+            - {required: false, label: "DIM Volume (LBS)", name: "milkRecordVolume", widget: "string"}
+            - {required: false, label: "Fat (%)", name: "milkRecordFat", widget: "number"}
+            - {required: false, label: "Protein (%)", name: "milkRecordProtein", widget: "number"}
+      - {required: false, label: "Milk Record Comments", name: "milkRecordComments", widget: "Markdown"}
+            
+
       - label: "Gallery"
         name: "galleryImages"
         required: false
