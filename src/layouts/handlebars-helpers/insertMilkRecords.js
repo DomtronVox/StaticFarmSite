@@ -15,7 +15,7 @@ module.exports = function(data_rows) {
     var return_html = "";
 
     return_html += '<table>\n'
-    return_html += '<tr><th>YR</th><th>DIM</th><th>VOL (LBS)</th><th>FAT (%)</th><th>PROTEIN (%)</th></tr>\n'
+    return_html += '<tr><th>YR</th><th>DIM</th><th>VOL (LBS)</th><th>FAT (%)</th><th>FAT (LBS)</th><th>PROTEIN (%)</th><th>PROTEIN (LBS)</th></tr>\n'
 
     //loop through collection and create the nav bar
     for (var index=0; index < data_rows.length; index++) {
@@ -27,7 +27,9 @@ module.exports = function(data_rows) {
         return_html += addCell(row.milkRecordDIM)
         return_html += addCell(row.milkRecordVolume)
         return_html += addCell(row.milkRecordFat)
+        return_html += addCell(row.milkRecordFatLBS)
         return_html += addCell(row.milkRecordProtein) 
+        return_html += addCell(row.milkRecordProteinLBS) 
         return_html += '</tr>'
         
     }
