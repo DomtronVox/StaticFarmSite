@@ -17,7 +17,7 @@ dam_dam: "Rosasharn's TL Sun Dance 2005 ANDDA RGCH Jr. Doe 2x\_Best Of Breed Jr.
 side_picture: /images/bella pic2.jpg
 back_picture: /images/sam_3701.jpg
 milk_records:
-  - milkRecordDIM: '332'
+  - milkRecordDIM: '   332   '
     milkRecordFat: '7.9'
     milkRecordFatLBS: '30'
     milkRecordProtein: '4.7'
