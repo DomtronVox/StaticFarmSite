@@ -5,7 +5,6 @@ gender: Senior Doe
 la_score: LA +AA  YS
 birth_date: '2015-04-10'
 adga_num: D1765217P
-milk_records: 290 240 6.7 16 4.6 11
 blue_eyes: true
 polled: true
 moonspots: false
