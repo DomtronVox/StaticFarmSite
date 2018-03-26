@@ -2,7 +2,9 @@
 title: Dozy Doe Down SH Bella 1*M
 nickname: Bella
 gender: Senior Doe
-birth_date: 2017-12-23T12:08:41.170Z
+la_score: 84 V (FF)
+birth_date: '2011-06-27'
+adga_num: D1664594
 blue_eyes: true
 polled: false
 reference: 'no'
@@ -14,6 +16,14 @@ dam_sire: "Pride of Texas Gladiator LA\_85\_+VE"
 dam_dam: "Rosasharn's TL Sun Dance 2005 ANDDA RGCH Jr. Doe 2x\_Best Of Breed Jr. Doe"
 side_picture: /images/bella pic2.jpg
 back_picture: /images/sam_3701.jpg
+milk_records:
+  - milkRecordDIM: "\_\_332 \_\_"
+    milkRecordFat: '7.9'
+    milkRecordFatLBS: '30'
+    milkRecordProtein: '4.7'
+    milkRecordProteinLBS: '18'
+    milkRecordVolume: 380-
+    milkRecordYear: 3-08
 kiddingHistory:
   - bredDate: '2017'
     breeder: Some Day Came MG FL Graffiti
