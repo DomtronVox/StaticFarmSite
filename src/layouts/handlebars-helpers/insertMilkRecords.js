@@ -23,11 +23,11 @@ module.exports = function(data_rows) {
         var row = data_rows[index]; 
         
         return_html += '    <tr>'
-        return_html += addCell(row.bredDate)
-        return_html += addCell(row.breeder)
-        return_html += addCell(row.doeCount)
-        return_html += addCell(row.buckCount)
-        return_html += addCell(row.comments) 
+        return_html += addCell(row.milkRecordYear)
+        return_html += addCell(row.milkRecordDIM)
+        return_html += addCell(row.milkRecordVolume)
+        return_html += addCell(row.milkRecordFat)
+        return_html += addCell(row.milkRecordProtein) 
         return_html += '</tr>'
         
     }

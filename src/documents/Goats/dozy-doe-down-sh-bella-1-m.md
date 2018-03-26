@@ -3,7 +3,6 @@ title: Dozy Doe Down SH Bella 1*M
 nickname: Bella
 gender: Senior Doe
 birth_date: 2017-12-23T12:08:41.170Z
-milk_records: 'FF '
 blue_eyes: true
 polled: false
 reference: 'no'
