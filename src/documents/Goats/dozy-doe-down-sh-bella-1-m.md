@@ -14,6 +14,12 @@ dam_sire: "Pride of Texas Gladiator LA\_85\_+VE"
 dam_dam: "Rosasharn's TL Sun Dance 2005 ANDDA RGCH Jr. Doe 2x\_Best Of Breed Jr. Doe"
 side_picture: /images/bella pic2.jpg
 back_picture: /images/sam_3701.jpg
+milk_records:
+  - milkRecordDIM: '332'
+    milkRecordFat: '7.9'
+    milkRecordProtein: '4.7'
+    milkRecordVolume: '380'
+    milkRecordYear: '2017'
 kiddingHistory:
   - bredDate: '2017'
     breeder: Some Day Came MG FL Graffiti
