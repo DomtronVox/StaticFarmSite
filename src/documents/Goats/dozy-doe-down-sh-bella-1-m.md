@@ -2,7 +2,9 @@
 title: Dozy Doe Down SH Bella 1*M
 nickname: Bella
 gender: Senior Doe
-birth_date: 2017-12-23T12:08:41.170Z
+la_score: 84 V (FF)
+birth_date: '2011-06-27'
+adga_num: D1664594
 blue_eyes: true
 polled: false
 reference: 'no'
