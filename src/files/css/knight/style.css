@@ -51,7 +51,7 @@ img{ max-width:100%; }
     position: relative;
 }
 
-table {
+.fullwidth_table {
     width:100%; 
     min-width:500px;
 }
