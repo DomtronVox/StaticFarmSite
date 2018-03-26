@@ -60,6 +60,8 @@
 </head>
 <body>
 
+{{> popup_modal}}
+
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -123,7 +125,7 @@
             </h2>
 
             {{#if milk_records }}
-            <h3>305 Day ADGA Milk Star Test</h3>
+            <h2>305 Day ADGA Milk Star Test</h2>
             {{insertMilkRecords milk_records}}
             <p>{{milkRecordComments}}</p>
             {{/if}}
@@ -150,7 +152,7 @@
 
         {{#if pedigree_picture}}
         <h2><center>{{nickname}}'s Pedigree</center></h2>
-        <img src="{{pedigree_picture}}"></img>
+        <img src="{{pedigree_picture}}" class="modalTarget"></img>
         {{/if}}
 
         {{#if galleryImages}}

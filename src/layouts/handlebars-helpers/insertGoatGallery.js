@@ -12,7 +12,7 @@ module.exports = function(images) {
     for (var index=0; index < images.length; index++) {
 
         var datum = images[index]; 
-        return_html += '    <div><img src="'+datum.image+'" /> <p>'+datum.caption+'</p></div>\n'
+        return_html += '    <div class="modalTarget"><img src="'+datum.image+'" /> <p>'+datum.caption+'</p></div>\n'
         
     }
     
