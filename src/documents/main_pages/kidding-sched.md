@@ -5,7 +5,7 @@ navPriority: '20'
 collection: MainPage
 layout: default.html
 ---
-* <br />
+<br />
 
 ![](/images/bella-apache doelings pic2.jpg)
 
