@@ -5,7 +5,7 @@ navPriority: '40'
 collection: MainPage
 layout: default.html
 ---
-**For our Sales Policy go to  "FAQs" page**
+**For our Sales Policy go to  **[**"FAQs" page**](frequently-asked-questions.html)
 
 <br />
 
