@@ -17,7 +17,7 @@ layout: default.html
 
 <br />
 
- **What care do you give your goat babies?  **Actually our baby care begins **before** birth. We give a CD/T  and Bo-Se shot to pregnant does within 1 month of kidding. This is passed to the babies in utero and gives them some protection at birth until they are able to get their own CD/T. After they are born we start them on Di-Methox (coccidiosis prevention) at three weeks old. We suggest to the new owner that all babies should be given one CD/T shot around 6 weeks old and another “booster” CD/T shot 21-28 days later.  Also we suggest to the new owner that the Di-Methox or some other coccidiosis prevention be continued for several months.
+ **What care do you give your goat babies?  **Actually our baby care begins **before** birth. We give a CD/T  and Bo-Se shot to pregnant does within 1 month of kidding. This is passed to the babies in utero and gives them some protection at birth until they are able to get their own CD/T. After they are born we start them on Di-Methox (coccidiosis prevention) at three weeks old. We suggest to the new owner that all babies should be given one CD/T shot around 6 weeks old and another “booster” CD/T shot 21-28 days later.  Also we suggest to the new owner that the Di-Methox or some other coccidiosis prevention be continued for several months. We also will be glad to worm them as needed before you pick them up.
 
 <br />
 
