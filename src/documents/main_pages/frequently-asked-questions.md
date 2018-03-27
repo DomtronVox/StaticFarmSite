@@ -5,7 +5,7 @@ navPriority: '60'
 collection: MainPage
 layout: default.html
 ---
-**Do you accept credit cards or personal check?** We accept cash (USA) and PayPal. Personal checks must clear the bank before the animal can leave Dozy Doe Down.  We are not set up for credit cards. 
+**Do you test your goats?** Yes. That is very important to us. We test our whole herd yearly for CAE, Johnes, and Brucellosis. We have never had a case of CL in all the years we’ve been raising goats. Every year we randomly test a few goats for CL. DOZY DOE DOWN has always been NEGATIVE on all tests.
 
 <br />
 
@@ -25,15 +25,15 @@ Our policy used to be to start you with a minimum of two goats.  But over the ye
 
 <br />
 
+**Do you accept credit cards or personal check?** We accept cash (USA) and PayPal. Personal checks must clear the bank before the animal can leave Dozy Doe Down.  We are not set up for credit cards. 
+
+<br />
+
 **Do you sell disbudded goats?** If a goat is not born POLLED (genetically hornless) we always disbud them. There is an exception to that in that a horned kid born of one or both parents or even grandparents that are polled might not have the horns go through the skin until after you have picked it up. If that happens, bring it back and we will be glad to disbud for free.
 
 <br />
 
 **What does POLLED mean?**  It means that the goat is genetically unable to produce horns.
-
-<br />
-
-**Do you test your goats?** Yes. That is very important to us. We test our whole herd yearly for CAE, Johnes, and Brucellosis. We have never had a case of CL in all the years we’ve been raising goats. Every year we randomly test a few goats for CL. DOZY DOE DOWN has always been NEGATIVE on all tests.
 
 <br />
 
