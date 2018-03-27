@@ -13,6 +13,8 @@ Click here to see what Goats we have for sale [ND Goats](sub_pages/nd-goats-for-
 
 Click here to see what LGDs we have for sale [LGDs](sub_pages/lgds-for-sale.html)
 
-![](/images/all three together.jpg)
+![](/images/doe- blue eyed pic2.jpg)
+
+<br />
 
 ![](/images/pups with glamour 500.jpg)
