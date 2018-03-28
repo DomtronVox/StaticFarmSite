@@ -27,14 +27,12 @@ milk_records:
 galleryImages:
   - caption: Bella as a jr. doe
     image: /images/bella pic1.jpg
-  - caption: Bella- dry
-    image: /images/sam_3701.jpg
-  - caption: FeatherBonnet and Flowing River
-    image: /images/bella-apache doelings pic2.jpg
   - caption: 'Sire: Kaapio Acres LT Super Hero +*S (blue eyes)'
     image: >-
       /images/kaapio acres lt super hero +*s
       (www.clovencroft.com.-oldies--reference-.html).jpg
+  - caption: FeatherBonnet and Flowing River
+    image: /images/bella-apache doelings pic2.jpg
 kiddingHistory:
   - bredDate: '2017'
     breeder: Some Day Came MG FL Graffiti
