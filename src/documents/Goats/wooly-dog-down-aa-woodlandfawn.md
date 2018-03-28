@@ -16,10 +16,15 @@ dam_dam: Wooly Dog Down Xaquelena
 pedigree_picture: /images/fawn.png
 side_picture: /images/fawn side view 13240723_10156855249125487_371690373535664023_n.jpg
 back_picture: /images/fawn rear view 13116361_10156855249485487_615791611237006557_o.jpg
+milk_records:
+  - {}
 galleryImages:
   - caption: rear view as a jr. doe
     image: /images/fawn rear view 13116361_10156855249485487_615791611237006557_o.jpg
-  - {}
+  - caption: Fawn's 2017 doe kid
+    image: /images/fawn's buckskin doe.jpg
+  - caption: Fawn's 2017 doe kid
+    image: /images/fawn's gold doe.jpg
 kiddingHistory:
   - bredDate: '2017'
     breeder: Hailstorm
