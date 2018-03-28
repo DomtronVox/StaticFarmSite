@@ -31,6 +31,9 @@ galleryImages:
     image: /images/sam_3701.jpg
   - caption: FeatherBonnet and Flowing River
     image: /images/bella-apache doelings pic2.jpg
+  - image: >-
+      /images/kaapio acres lt super hero +*s
+      (www.clovencroft.com.-oldies--reference-.html).jpg
 kiddingHistory:
   - bredDate: '2017'
     breeder: Some Day Came MG FL Graffiti
@@ -48,4 +51,4 @@ kiddingHistory:
 layout: goatpage.html
 collection: Goats
 ---
-With her sweet, calm temperament, **Bella** is a favorite for everyone at Dozy Doe Down. She is very dairy but small in statue being only 18" tall. While on DHIR milk test she tested over **9% in butterfat in FIVE out of TEN tests. **This earned her a** 7.9% in butterfat overall**. Her milk tastes like cream. While her teats are small her udder is very soft earning her an 'E' in udder texture. Her color description is buckskin with extensive white overlay. She was one of quads.
+With her sweet, calm temperament, **Bella** is a favorite of everyone at Dozy Doe Down. She is very dairy but small in statue being only 18" tall. While on DHIR milk test she tested over **9% in butterfat in FIVE out of TEN tests. **This earned her a** 7.9% in butterfat overall**. Her milk tastes like cream. While her teats are small her udder is very soft earning her an 'E' in udder texture. Her color description is buckskin with extensive white overlay. She was one of quads.
