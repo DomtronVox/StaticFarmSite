@@ -23,13 +23,13 @@ Within a few hours of being born ND kids are very active. Running, playing, snug
 
 <br />
 
-![](/images/2018 kidding part1.png)
+![](/images/2018 kidding list 3.29 part 1.png)
 
 Part 1 all confirmed
 
 <br />
 
-![](/images/2018 kidding part2.png)
+![](/images/2018 kidding list 3.29 part 2.png)
 
 Part 2 all confirmed
 
