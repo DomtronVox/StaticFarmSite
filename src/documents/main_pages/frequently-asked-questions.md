@@ -9,11 +9,11 @@ layout: default.html
 
 <br />
 
-**Do you give discounts on goats?** Yes. 1) If you buy more than one goat at the same time. 2) If you are a "repeat buyer" 3) If you are already established in DHIR, 4-H.
+**Do you give discounts on goats?** Yes. $50 discount. 1) If you buy more than one goat at the same time. 2) If you are a "repeat buyer" 3) If you are already established in DHIR, 4-H. 3) If you buy 3 wethers.
 
 <br />
 
-**Do you bottle feed your babies? ** All babies are taught to accept a bottle with a Prichard's teat. We will supply a free bottle and screw on teat per total purchase. if you want to buy extra there is a small surcharge. I do recommend for the best growth that does are kept on milk for 3 months especially if you want to show them.
+**Do you bottle feed your babies? ** All babies are taught to accept a bottle with a Prichard's teat. We will supply a free bottle and screw on teat per total purchase. if you want to buy extra there is a small surcharge. We start them on goat’s milk. If you don’t have goat's milk available, we are happy to convert them to WHOLE cow's milk from the store--like what you drink. it takes about a week to convert them. I do recommend for the best growth that does are kept on milk for 3 months especially if you want to show them.
 
 <br />
 
