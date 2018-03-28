@@ -11,3 +11,5 @@ layout: default.html
 <br />
 
 **<br />**
+
+![](/images/2018 kidding list pract.png)
