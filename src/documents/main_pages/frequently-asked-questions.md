@@ -13,7 +13,7 @@ layout: default.html
 
 <br />
 
-**Do you bottle feed your babies? ** All babies are taught to accept a bottle with a Prichard's teat. We will supply a free bottle and screw on teat per total purchase. if you want to buy extra there is a small surcharge. We start them on goat’s milk. If you don’t have goat's milk available, we are happy to convert them to WHOLE cow's milk from the store--like what you drink. it takes about a week to convert them. I do recommend for the best growth that does are kept on milk for 3 months especially if you want to show them.
+**Do you bottle feed your babies? ** All babies are taught to accept a bottle with a Prichard's teat. We will supply a free bottle and screw on teat per total purchase. if you want to buy extra there is a small surcharge. We start them on goat’s milk. If you don’t have goat's milk available, we are happy to convert them to WHOLE cow's milk from the store--like what you drink. it takes about a week to convert them. I do recommend for the best growth that does are kept on milk for 3 months especially if you want to LA, or show them or have them LAed.
 
 <br />
 
