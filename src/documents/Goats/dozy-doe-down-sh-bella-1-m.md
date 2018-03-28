@@ -31,7 +31,8 @@ galleryImages:
     image: /images/sam_3701.jpg
   - caption: FeatherBonnet and Flowing River
     image: /images/bella-apache doelings pic2.jpg
-  - image: >-
+  - caption: 'Sire: Kaapio Acres LT Super Hero +*S (blue eyes)'
+    image: >-
       /images/kaapio acres lt super hero +*s
       (www.clovencroft.com.-oldies--reference-.html).jpg
 kiddingHistory:
