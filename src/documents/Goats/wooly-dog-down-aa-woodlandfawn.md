@@ -18,12 +18,16 @@ side_picture: /images/fawn side view 13240723_10156855249125487_3716903735356640
 back_picture: /images/fawn rear view 13116361_10156855249485487_615791611237006557_o.jpg
 milk_records: []
 galleryImages:
-  - caption: rear view as a jr. doe
-    image: /images/fawn rear view 13116361_10156855249485487_615791611237006557_o.jpg
   - caption: Fawn's 2017 doe kid
     image: /images/fawn's buckskin doe.jpg
   - caption: Fawn's 2017 doe kid
     image: /images/fawn's gold doe.jpg
+  - caption: 'Sire: Alpenglade Farm Apache (courtesy of Wooly Dog Down)'
+    image: /images/apache 1yr old.jpg
+  - caption: "Dam: Wooly Dog Down Ava LA \_88 VEE+ (courtesy of Wooly Dog Down)"
+    image: /images/avaside.jpg
+  - caption: 'Sire''s Dam: Copper Ridge Victoria (courtesy of Copper Ridge)'
+    image: /images/copper ridge victoria pic2.jpg
 kiddingHistory:
   - bredDate: '2017'
     breeder: Hailstorm
