@@ -14,7 +14,7 @@ module.exports = function(data_rows) {
 
     var return_html = "";
 
-    return_html += '<table class="fullwidth_table">\n'
+    return_html += '<table>\n'
     return_html += '<tr><th>Date</th><th>Bred To</th><th>D</th><th>B</th><th>Comments</th></tr>\n'
 
     //loop through collection and create the nav bar

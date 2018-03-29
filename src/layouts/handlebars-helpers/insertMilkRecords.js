@@ -15,7 +15,7 @@ module.exports = function(data_rows) {
     var return_html = "";
 
     return_html += '<table>\n'
-    return_html += '<tr><th>YR</th><th>DIM</th><th>VOL (LBS)</th><th>FAT (%)</th><th>FAT (LBS)</th><th>PROTEIN (%)</th><th>PROTEIN (LBS)</th></tr>\n'
+    return_html += '<tr><th>Year</th><th>DIM</th><th>VOL (LBS)</th><th>Butterfat (%)</th><th>Butterfat (LBS)</th><th>Protein (%)</th><th>Protein (LBS)</th></tr>\n'
 
     //loop through collection and create the nav bar
     for (var index=0; index < data_rows.length; index++) {

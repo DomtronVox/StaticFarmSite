@@ -51,7 +51,7 @@ img{ max-width:100%; }
     position: relative;
 }
 
-.fullwidth_table {
+table {
     width:100%; 
     min-width:500px;
 }
@@ -59,6 +59,7 @@ img{ max-width:100%; }
 table, th, td {
     border: 1px solid black;
     text-align:center;
+    padding:2px;
 }
 
 .news-box-home {

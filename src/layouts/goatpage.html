@@ -124,12 +124,6 @@
                 {{#if moonspots}} <span style="color:#b79c3c;">Moonspots  </span> {{/if}}        
             </h2>
 
-            {{#if milk_records }}
-            <h2>305 Day ADGA Milk Star Test</h2>
-            {{insertMilkRecords milk_records}}
-            <p>{{milkRecordComments}}</p>
-            {{/if}}
-
             {{#if extra_info}}
             <h3>Additional Notes:</h3>
             {{extra_info}}
@@ -144,6 +138,12 @@
         </div>
 
         <div id="clear" style="clear:both;"></div>
+
+        {{#if milk_records }}
+        <h2><center>ADGA Milk Star Test to DHIR Milk Star Record</center></h2>
+        {{insertMilkRecords milk_records}}
+        <p>{{milkRecordComments}}</p>
+        {{/if}}
 
         {{#if kiddingHistory}}
         <h2><center>Kidding History</center></h2>
