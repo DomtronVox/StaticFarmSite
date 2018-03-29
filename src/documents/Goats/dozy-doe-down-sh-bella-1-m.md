@@ -5,7 +5,7 @@ gender: Senior Doe
 la_score: 84 V (FF)
 birth_date: 7-27-11
 adga_num: D1664594
-extra_info: "* Gr. Dam:  Rosasharn's TL Sun Dance 2005 ANDDA RGCH Jr. Doe 2x\_Best Of Breed \_Jr. Doe\n* G. Gr Dam:_ Piddlin Acres Alley Oops _D 'E' 1999\_& 2000 TOP Ten Milker 1.09-305-1153-77(6.7%)-51(4.4%)    1xGCH/BU 1XRGH\n* G. Gr. Sire: ARMCH Rosasharn's Tiger L  ++*S   ++B LA82 E\n* G. Gr. Sire: PGCH/MCH Piddlin Acres Blue Thunder +*S AGS\_89.9 VG  7x GCH   5x RGCH"
+extra_info: ''
 blue_eyes: true
 polled: false
 reference: 'no'
