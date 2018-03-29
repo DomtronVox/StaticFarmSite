@@ -5,7 +5,7 @@ gender: Senior Doe
 la_score: 84 V (FF)
 birth_date: 7-27-11
 adga_num: D1664594
-extra_info: "Gr. Dam:  Rosasharn's TL Sun Dance 2005 ANDDA RGCH Jr. Doe 2x\_Best Of Breed \_Jr. Doe\n\n\n\nG. Gr Dam:_ Piddlin Acres Alley Oops _D 'E' 1999\_& 2000 TOP Ten Milker 1.09-305-1153-77(6.7%)-51(4.4%)    1xGCH/BU 1XRGH\n\n\n\nG. Gr. Sire: ARMCH Rosasharn's Tiger L  ++*S   ++B LA82 E\n\n\n\nG. Gr. Sire: PGCH/MCH Piddlin Acres Blue Thunder +*S AGS\_89.9 VG  7x GCH   5x RGCH"
+extra_info: "* Gr. Dam:  Rosasharn's TL Sun Dance 2005 ANDDA RGCH Jr. Doe 2x\_Best Of Breed \_Jr. Doe\n* G. Gr Dam:_ Piddlin Acres Alley Oops _D 'E' 1999\_& 2000 TOP Ten Milker 1.09-305-1153-77(6.7%)-51(4.4%)    1xGCH/BU 1XRGH\n* G. Gr. Sire: ARMCH Rosasharn's Tiger L  ++*S   ++B LA82 E\n* G. Gr. Sire: PGCH/MCH Piddlin Acres Blue Thunder +*S AGS\_89.9 VG  7x GCH   5x RGCH"
 blue_eyes: true
 polled: false
 reference: 'no'
@@ -54,4 +54,14 @@ kiddingHistory:
 layout: goatpage.html
 collection: Goats
 ---
-With her sweet, calm temperament, **Bella** is a favorite of everyone at Dozy Doe Down. She is very dairy but small in statue being only 18" tall. While on DHIR milk test she tested over **9% in butterfat in FIVE out of TEN tests. **This earned her a** 7.9% in butterfat overall**. Her milk tastes like cream. While her teats are small her udder is very soft earning her an 'E' in udder texture. Her color description is buckskin with extensive white overlay. She was one of quads.
+With her sweet, calm temperament, **Bella** is a favorite of everyone at Dozy Doe Down. She is very dairy but small in statue being only 18" tall. While on DHIR milk test she tested over **9% in butterfat in FIVE out of TEN tests. **This earned her a** 7.9% in butterfat overall**. Her milk tastes like cream. While her teats are small her udder is very soft earning her an 'E' in udder texture. Her color description is buckskin with extensive white overlay. She was one of quads. 
+
+
+
+**Pedigree Highlights**
+
+Gr. Dam:  **Rosasharn's TL Sun Dance **2005 ANDDA RGCH Jr. Doe 2x Best Of Breed  Jr. Doe
+
+* G. Gr Dam:_ Piddlin Acres Alley Oops _D 'E' 1999 & 2000 TOP Ten Milker 1.09-305-1153-77(6.7%)-51(4.4%)    1xGCH/BU 1XRGH
+* G. Gr. Sire: ARMCH Rosasharn's Tiger L  ++*S   ++B LA82 E
+* G. Gr. Sire: PGCH/MCH Piddlin Acres Blue Thunder +*S AGS 89.9 VG  7x GCH   5x RGCH
