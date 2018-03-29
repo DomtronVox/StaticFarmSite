@@ -5,11 +5,19 @@ navPriority: '60'
 collection: MainPage
 layout: default.html
 ---
-**Do you accept credit cards or personal check?** We accept cash (USA) and PayPal. Personal checks must clear the bank before the animal can leave Dozy Doe Down.  We are not set up for credit cards. 
+**Do you test your goats?** Yes. That is very important to us. We test our whole herd yearly for CAE, Johnes, and Brucellosis. We have never had a case of CL in all the years we’ve been raising goats. Every year we randomly test a few goats for CL. DOZY DOE DOWN has always been NEGATIVE on all tests.
 
 <br />
 
-**Do you give discounts on goats?** Yes. 1) If you buy more than one goat at the same time. 2) If you are a "repeat buyer" 3) If you are already established in DHIR, 4-H.
+**Do you give discounts on goats?** Yes. $50 discount. 1) If you buy more than one goat at the same time. 2) If you are a "repeat buyer" 3) If you are already established in DHIR, 4-H. 3) If you buy 3 wethers.
+
+<br />
+
+**Do you bottle feed your babies? ** All babies are taught to accept a bottle with a Prichard's teat. We will supply a free bottle and screw on teat per total purchase. if you want to buy extra there is a small surcharge. We start them on goat’s milk. If you don’t have goat's milk available, we are happy to convert them to WHOLE cow's milk from the store--like what you drink. it takes about a week to convert them. I do recommend for the best growth that does are kept on milk for 3 months especially if you want to LA, or show them or have them LAed.
+
+<br />
+
+ **What care do you give your goat babies?  **Actually our baby care begins **before** birth. We give a CD/T  and Bo-Se shot to pregnant does within 1 month of kidding. This is passed to the babies in utero and gives them some protection at birth until they are able to get their own CD/T. After they are born we start them on Di-Methox (coccidiosis prevention) at three weeks old. We suggest to the new owner that all babies should be given one CD/T shot around 6 weeks old and another “booster” CD/T shot 21-28 days later.  Also we suggest to the new owner that the Di-Methox or some other coccidiosis prevention be continued for several months. We also will be glad to worm them as needed before you pick them up.
 
 <br />
 
@@ -25,15 +33,15 @@ Our policy used to be to start you with a minimum of two goats.  But over the ye
 
 <br />
 
+**Do you accept credit cards or personal check?** We accept cash (USA) and PayPal. Personal checks must clear the bank before the animal can leave Dozy Doe Down.  We are not set up for credit cards. 
+
+<br />
+
 **Do you sell disbudded goats?** If a goat is not born POLLED (genetically hornless) we always disbud them. There is an exception to that in that a horned kid born of one or both parents or even grandparents that are polled might not have the horns go through the skin until after you have picked it up. If that happens, bring it back and we will be glad to disbud for free.
 
 <br />
 
 **What does POLLED mean?**  It means that the goat is genetically unable to produce horns.
-
-<br />
-
-**Do you test your goats?** Yes. That is very important to us. We test our whole herd yearly for CAE, Johnes, and Brucellosis. We have never had a case of CL in all the years we’ve been raising goats. Every year we randomly test a few goats for CL. DOZY DOE DOWN has always been NEGATIVE on all tests.
 
 <br />
 

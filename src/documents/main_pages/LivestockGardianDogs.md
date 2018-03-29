@@ -5,7 +5,11 @@ navPriority: '30'
 collection: MainPage
 layout: default.html
 ---
-## Livestock Guardian Dogs
+<br />
+
+**Click here to see our **[**Karakachans**](sub_pages/karakachan-lgd.html)**.**
+
+**Click here to go directly to our other **[**LGDs**](sub_pages/other-lgds.html)**.**
 
 <br />
 

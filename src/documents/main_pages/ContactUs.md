@@ -5,6 +5,8 @@ navPriority: '90'
 collection: MainPage
 layout: default.html
 ---
+**We really love feedback. Please feel free to contact us**
+
 <br />
 
 ## Email us at   [ DozyDoeDown@gmail.com](DozyDoeDown@gmail.com)

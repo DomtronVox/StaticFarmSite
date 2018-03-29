@@ -3,7 +3,7 @@ title: Dozy Doe Down SH Bella 1*M
 nickname: Bella
 gender: Senior Doe
 la_score: 84 V (FF)
-birth_date: '2011-06-27'
+birth_date: 7-27-11
 adga_num: D1664594
 blue_eyes: true
 polled: false
@@ -17,13 +17,24 @@ dam_dam: "Rosasharn's TL Sun Dance 2005 ANDDA RGCH Jr. Doe 2x\_Best Of Breed Jr.
 side_picture: /images/bella pic2.jpg
 back_picture: /images/sam_3701.jpg
 milk_records:
-  - milkRecordDIM: "\_\_332 \_\_"
+  - milkRecordDIM: '332'
     milkRecordFat: '7.9'
     milkRecordFatLBS: '30'
     milkRecordProtein: '4.7'
     milkRecordProteinLBS: '18'
-    milkRecordVolume: 380-
-    milkRecordYear: 3-08
+    milkRecordVolume: '380'
+    milkRecordYear: 3-08FF
+galleryImages:
+  - caption: Bella as a jr. doe
+    image: /images/bella pic1.jpg
+  - caption: >-
+      Sire: Kaapio Acres LT Super Hero +*S   Blue Eyes (pic courtesy of 
+      Clovencroft)
+    image: >-
+      /images/kaapio acres lt super hero +*s
+      (www.clovencroft.com.-oldies--reference-.html).jpg
+  - caption: FeatherBonnet and Flowing River
+    image: /images/bella-apache doelings pic2.jpg
 kiddingHistory:
   - bredDate: '2017'
     breeder: Some Day Came MG FL Graffiti
@@ -41,4 +52,4 @@ kiddingHistory:
 layout: goatpage.html
 collection: Goats
 ---
-
+With her sweet, calm temperament, **Bella** is a favorite of everyone at Dozy Doe Down. She is very dairy but small in statue being only 18" tall. While on DHIR milk test she tested over **9% in butterfat in FIVE out of TEN tests. **This earned her a** 7.9% in butterfat overall**. Her milk tastes like cream. While her teats are small her udder is very soft earning her an 'E' in udder texture. Her color description is buckskin with extensive white overlay. She was one of quads.
