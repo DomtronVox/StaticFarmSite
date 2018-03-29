@@ -24,7 +24,8 @@ milk_records:
     milkRecordProtein: '4.7'
     milkRecordProteinLBS: '18'
     milkRecordVolume: '380'
-    milkRecordYear: 3-08FF
+    milkRecordYear: 3-08 FF
+  - {}
 galleryImages:
   - caption: Bella as a jr. doe
     image: /images/bella pic1.jpg
