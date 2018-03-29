@@ -58,11 +58,9 @@ With her sweet, calm temperament, **Bella** is a favorite of everyone at Dozy Do
 
 
 
-
-
-## **Pedigree Highlights**
+**Pedigree Highlights**
 
 * Gr. Dam:  **Rosasharn's TL Sun Dance **2005 ANDDA RGCH Jr. Doe 2x Best Of Breed  Jr. Doe
-* G. Gr Dam:_ Piddlin Acres Alley Oops _D 'E' 1999 & 2000 TOP Ten Milker 1.09-305-1153-77(6.7%)-51(4.4%)    1xGCH/BU 1XRGH
-* G. Gr. Sire: ARMCH Rosasharn's Tiger L  ++*S   ++B LA82 E
-* G. Gr. Sire: PGCH/MCH Piddlin Acres Blue Thunder +*S AGS 89.9 VG  7x GCH   5x RGCH
+* G. Gr Dam:  **Piddlin Acres Alley Oops *D 'E' **_1999 & 2000 TOP Ten Milker 1.09-305-1153-77(6.7%)-51(4.4%)  _  1xGCH/BU 1XRGH
+* G. Gr. Sire: **ARMCH Rosasharn's Tiger L  ++*S   ++B LA82 E**
+* G. Gr. Sire: **PGCH/MCH Piddlin Acres Blue Thunder +*S AGS 89.9 VG**  7x GCH   5x RGCH
