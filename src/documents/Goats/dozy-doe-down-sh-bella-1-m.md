@@ -58,6 +58,8 @@ With her sweet, calm temperament, **Bella** is a favorite of everyone at Dozy Do
 
 
 
+
+
 ## **Pedigree Highlights**
 
 * Gr. Dam:  **Rosasharn's TL Sun Dance **2005 ANDDA RGCH Jr. Doe 2x Best Of Breed  Jr. Doe
