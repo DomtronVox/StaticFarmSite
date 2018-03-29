@@ -99,7 +99,7 @@
 
         <br />
 
-       <h2><center>General Information</center></h2>
+       <h2><center>{{nickname}}'s Information</center></h2>
 
         <div>
             {{#if back_picture}}
@@ -124,14 +124,13 @@
                 {{#if moonspots}} <span style="color:#b79c3c;">Moonspots  </span> {{/if}}        
             </h2>
 
+            {{#if contents}}
+            {{{contents}}}
+            {{/if}}
+
             {{#if extra_info}}
             <h3>Additional Notes:</h3>
             {{extra_info}}
-            {{/if}}
-     
-            {{#if contents}}
-            <h3>Description:</h3>
-            {{{contents}}}
             {{/if}}
 
             
