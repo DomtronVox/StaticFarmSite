@@ -4,7 +4,13 @@ navTitle: Kidding Schedule
 navPriority: '20'
 tableTitle: 2018 Kidding Schedule
 kidding_table:
-  - dam: ''
+  - dam: Deer Ridge Twilight Cascabella 1*M
+    dueDate: 04-12
+    notes_list:
+      - e
+      - l
+      - k
+    sire: Dozy Doe Down EB Hidden Tresor
 collection: MainPage
 layout: kidding_schedule.html
 ---
