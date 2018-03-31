@@ -113,7 +113,7 @@ collections: # A list of collections the CMS should be able to edit
         required: false
         fields:
             - {required: false,  label: "Earned Titles", name: "titles", widget: "string"}
-            - {required: false,  label: "Name", name: "Name", widget: "string"}
+            - {required: false,  label: "Name", name: "name", widget: "string"}
             - {required: false,  label: "Name Postfix", name: "postfix", widget: "string"}
 
 
