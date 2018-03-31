@@ -7,7 +7,7 @@ gender: Senior Doe
 la_score: LA 85 VEV+  (New to farm at time of LA)
 birth_date: 2-12-11
 adga_num: ' D1585254'
-extra_info: "## Pedigree highlights\n\n* G.Sire: **ROSASHARN TL CAULDRON  ++B    LA90 VEE**\n* G.Dam: **SG NC PROMISEDLAND SIA ZENA 3*M LA89 VEEE  ELITE** _1-06 218 1000 lbs of milk_\n* G.G.Dam: **SG NC PROMISEDLAND BW ZIPPY  2*M LA90 VEEE** _3-08 305 1600 lbs of milk _\n* G.G.G.Dam: **SGCH AGS PROMISEDLAND CP LIL BOPEEP  1*M  LA92\_EEEE**   _4‑01*\_286 1240 lbs in milk_\n* G.G.G.Dam: **SG AGS PROMISEDLAND HS ZINNIA 1*M LA 84 V+E+** _2‑00\_283\_900\_lbs in milk_"
+extra_info: '##'
 blue_eyes: false
 polled: false
 reference: 'no'
@@ -45,7 +45,7 @@ milk_records:
 milkRecordComments: >-
   \* You never know what will come when planning milk tests… this was the year
   we had a death in the family and family sickness.. With all the irregularities
-  in her schedule,  she still got her milk \* in Butterfat and Protein but
+  in her schedule,  she still got her milk \*  in Butterfat and Protein but
   missed her milk * in vol by only a few pounds.  I am proud of her that she did
   this well.
 kiddingHistory:
@@ -62,12 +62,15 @@ kiddingHistory:
 layout: goatpage.html
 collection: Goats
 ---
-dark gold and black buckskin random white spots
+Glamour is definitely the QUEEN of our goat herd. We were so glad to get the opportunity to buy her and introduce her to the next level with LA scores and DHIR milk tests. She is a dark gold and black buckskin random white spots
 
 ## Pedigree highlights
 
+* Dam: **SG Doublegate SCG Fashionmodel 2*M LA90 EEEV    ELITE DOE! **_5-10 305 790 lbs of milk_
 * G.Sire: **ROSASHARN TL CAULDRON  ++B    LA90 VEE**
 * G.Dam: **SG NC PROMISEDLAND SIA ZENA 3*M LA89 VEEE  ELITE** _1-06 218 1000 lbs of milk_
 * G.G.Dam: **SG NC PROMISEDLAND BW ZIPPY  2*M LA90 VEEE** _3-08 305 1600 lbs of milk _
+* G.G.Sire: **MCH SG Caesar's Villa CBS Cowpoke ++B   ++*S   E**
+* G.G.Sire:** ARMCH Rosasharn's Tiger L  ++*S  ++B  LA82 +AE**
 * G.G.G.Dam: **SGCH AGS PROMISEDLAND CP LIL BOPEEP  1*M  LA92 EEEE**   _4‑01* 286 1240 lbs in milk_
 * G.G.G.Dam: **SG AGS PROMISEDLAND HS ZINNIA 1*M LA 84 V+E+** _2‑00 283 900 lbs in milk_
