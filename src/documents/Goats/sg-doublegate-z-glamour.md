@@ -12,13 +12,27 @@ blue_eyes: false
 polled: false
 reference: 'no'
 sireNameData:
-  name: PROMISEDLAND RC ZORRO
+  name: NC PROMISEDLAND RC ZORRO
   postfix: '*B'
-  titles: NC
+  titles: ''
 damNameData:
   name: Doublegate SCG Fashionmodel
   postfix: "2*M LA90\_EEEV 5-10 305 790 lbs of milk"
   titles: SG
+sire_sireNameData:
+  name: 'ROSASHARN TL CAULDRON   '
+  postfix: '*S  ++B  LA90 VEE'
+sire_damNameData:
+  name: ' NC PROMISEDLAND SIA ZENA '
+  postfix: 6*D 3*M LA89 VEEE  ELITE DOE 1-06 218 1000 lbs of milk
+  titles: SG
+dam_sireNameData:
+  name: 'Split-Creek SCM Grizzly '
+  postfix: "LA86\_+EV"
+dam_damNameData:
+  Name: 'New Horizons Mariah 1*M  '
+  postfix: 1*M  LA87 VEE+
+  titles: 'SGCH '
 side_picture: /images/glamour side view 13227305_10156854398235487_3410824979030834887_o.jpg
 milk_records: []
 layout: goatpage.html
