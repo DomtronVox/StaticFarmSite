@@ -85,23 +85,40 @@
 
                 <br />
 
-                <p> Sire: {{sire}} 
+                <p> Sire: <span class="pedigreeTitle">{{sireNameData.titles}}</span> 
+                          {{sireNameData.name}} 
+                          <span class="pedigreeTitle">{{sireNameData.postfix}}</span>
                     <ul style="list-style-type: none;">
-                        {{#if sire_sire}}
-                          <li> Sire's Sire: {{sire_sire}}</li>
+                        {{#if sire_sireNameData}}
+                          <li> Sire's Sire: 
+                            <span class="pedigreeTitle">{{sire_sireNameData.titles}}</span> 
+                            {{sire_sireNameData.name}} 
+                            <span class="pedigreeTitle">{{sire_sireNameData.postfix}}</span>
+                          </li>
                         {{/if}}
-                        {{#if sire_dam}}
-                          <li> Sire's Dam: {{sire_dam}}</li>
+                        {{#if sire_damNameData}}
+                          <li> Sire's Dam: <span class="pedigreeTitle">{{sire_damNameData.titles}}</span> 
+                                           {{sire_damNameData.name}} 
+                                           <span class="pedigreeTitle">{{sire_damNameData.postfix}}</span>
+                          </li>
                         {{/if}}
                     </ul>
                 </p>
-                <p> Dam: {{dam}}
+                <p> Dam: <span class="pedigreeTitle">{{damNameData.titles}}</span> 
+                         {{damNameData.name}} 
+                         <span class="pedigreeTitle">{{damNameData.postfix}}</span>
                     <ul style="list-style-type: none;">
-                        {{#if dam_sire}}
-                          <li> Dam's Sire: {{dam_sire}}</li>
+                        {{#if dam_sireNameData}}
+                          <li> Dam's Sire: <span class="pedigreeTitle">{{dam_sireNameData.titles}}</span> 
+                                           {{dam_sireNameData.name}} 
+                                           <span class="pedigreeTitle">{{dam_sireNameData.postfix}}</span>
+                          </li>
                         {{/if}}
-                        {{#if dam_dam}}
-                          <li> Dam's Dam: {{dam_dam}}</li>
+                        {{#if dam_damNameData}}
+                          <li> Dam's Dam: <span class="pedigreeTitle">{{dam_damNameData.titles}}</span> 
+                                          {{dam_damNameData.name}} 
+                                          <span class="pedigreeTitle">{{dam_damNameData.postfix}}</span>
+                          </li>
                         {{/if}}
                     </ul>
                 </p>

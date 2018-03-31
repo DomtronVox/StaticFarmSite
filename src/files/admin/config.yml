@@ -47,7 +47,9 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}"
     fields: # The fields each document in this collection have
+      - {required: true,  label: "Earned Titles", name: "titlesEarned", widget: "string"}
       - {required: true,  label: "Full Goat Name", name: "title", widget: "string"}
+      - {required: true,  label: "Milk Star", name: "milkStar", widget: "string"}
       - {required: true,  label: "Nickname", name: "nickname", widget: "string"}
       - {required: true,  label: "Gender", name: "gender", widget: "select", options: ["Buck", "Senior Doe", "Junior Doe"]}
       - {required: false, label: "LA Score", name: "la_score", widget: "string"}
@@ -63,14 +65,58 @@ collections: # A list of collections the CMS should be able to edit
       - {required: false, label: "Moonspots", name: "moonspots", widget: "boolean"}
       - {required: true, label: "Is it a Reference Goat", name: "reference", widget: "select", options: ["no", "yes"], default:"no"}
 
-      - {required: true,  label: "Sire", name: "sire", widget: "string"}
-      - {required: true,  label: "Dam", name: "dam", widget: "string"}
+      - label: "Sire"
+        name: "sireNameData"
+        widget: "object"
+        fields:
+            - {required: true,  label: "Earned Titles", name: "titles", widget: "string"}
+            - {required: true,  label: "Name", name: "name", widget: "string"}
+            - {required: true,  label: "Name Postfix", name: "postfix", widget: "string"}
 
-      - {required: false,  label: "Sire's Sire", name: "sire_sire", widget: "string"}
-      - {required: false,  label: "Sire's Dam", name: "sire_dam", widget: "string"}
+      - label: "Dam"
+        name: "damNameData"
+        widget: "object"
+        fields:
+            - {required: true,  label: "Earned Titles", name: "titles", widget: "string"}
+            - {required: true,  label: "Name", name: "name", widget: "string"}
+            - {required: true,  label: "Name Postfix", name: "postfix", widget: "string"}
 
-      - {required: false,  label: "Dam's Sire", name: "dam_sire", widget: "string"}
-      - {required: false,  label: "Dam's Dam", name: "dam_dam", widget: "string"}
+      - label: "Sire's Sire"
+        name: "sire_sireNameData"
+        widget: "object"
+        required: false
+        fields:
+            - {required: false,  label: "Earned Titles", name: "titles", widget: "string"}
+            - {required: false,  label: "Name", name: "name", widget: "string"}
+            - {required: false,  label: "Name Postfix", name: "postfix", widget: "string"}
+
+      - label: "Sire's Dam"
+        name: "sire_damNameData"
+        widget: "object"
+        required: false
+        fields:
+            - {required: false,  label: "Earned Titles", name: "titles", widget: "string"}
+            - {required: false,  label: "Name", name: "name", widget: "string"}
+            - {required: false,  label: "Name Postfix", name: "postfix", widget: "string"}
+
+      - label: "Dam's Sire"
+        name: "dam_sireNameData"
+        widget: "object"
+        required: false
+        fields:
+            - {required: false,  label: "Earned Titles", name: "titles", widget: "string"}
+            - {required: false,  label: "Name", name: "name", widget: "string"}
+            - {required: false,  label: "Name Postfix", name: "postfix", widget: "string"}
+
+      - label: "Dam's Dam"
+        name: "dam_damNameData"
+        widget: "object"
+        required: false
+        fields:
+            - {required: false,  label: "Earned Titles", name: "titles", widget: "string"}
+            - {required: false,  label: "Name", name: "Name", widget: "string"}
+            - {required: false,  label: "Name Postfix", name: "postfix", widget: "string"}
+
 
       - {required: false, label: "Pedigree Picture", name: "pedigree_picture", widget: "image"}
 
