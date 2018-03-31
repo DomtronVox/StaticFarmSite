@@ -41,7 +41,13 @@ milk_records:
     milkRecordProtein: '4.2'
     milkRecordProteinLBS: '32'
     milkRecordVolume: '756'
-    milkRecordYear: '2017'
+    milkRecordYear: 2017*
+milkRecordComments: >-
+  \* You never know what will come when planning milk tests… this was the year
+  we had a death in the family and family sickness.. With all the irregularities
+  in her schedule,  she still got her milk \* in Butterfat and Protein but
+  missed her milk * in vol by only a few pounds.  I am proud of her that she did
+  this well.
 kiddingHistory:
   - bredDate: '2017'
     breeder: "DesertNanny BH HAILSTORM *B\_*S  LA 89 VEV"
