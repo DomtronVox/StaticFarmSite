@@ -137,7 +137,7 @@ collections: # A list of collections the CMS should be able to edit
             - {required: false, label: "Fat (LBS)", name: "milkRecordFatLBS", widget: "string"}
             - {required: false, label: "Protein (%)", name: "milkRecordProtein", widget: "string"}
             - {required: false, label: "Protein (LBS)", name: "milkRecordProteinLBS", widget: "string"}
-      - {required: false, label: "Milk Record Comments", name: "milkRecordComments", widget: "markdown"}
+      - {required: false, label: "Milk Record Comments", name: "milkRecordComments", widget: "string"}
             
 
       - label: "Gallery"
