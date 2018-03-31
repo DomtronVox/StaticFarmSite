@@ -7,7 +7,6 @@ gender: Senior Doe
 la_score: LA 85 VEV+  (New to farm at time of LA)
 birth_date: 2-12-11
 adga_num: ' D1585254'
-extra_info: '##'
 blue_eyes: false
 polled: false
 reference: 'no'
@@ -30,7 +29,7 @@ dam_sireNameData:
   name: 'Split-Creek SCM Grizzly '
   postfix: "LA86\_+EV"
 dam_damNameData:
-  Name: 'New Horizons Mariah '
+  name: 'New Horizons Mariah '
   postfix: 1*M  LA87 VEE+
   titles: 'SGCH '
 side_picture: /images/glamour side view 13227305_10156854398235487_3410824979030834887_o.jpg
