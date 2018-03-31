@@ -2,6 +2,7 @@
 title: Kidding Schedule
 navTitle: Kidding Schedule
 navPriority: '20'
+tableTitle: 2018 Kidding Schedule
 kidding_table:
   - dam: ''
 collection: MainPage
