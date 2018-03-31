@@ -30,11 +30,29 @@ dam_sireNameData:
   name: 'Split-Creek SCM Grizzly '
   postfix: "LA86\_+EV"
 dam_damNameData:
-  Name: 'New Horizons Mariah 1*M  '
+  Name: 'New Horizons Mariah '
   postfix: 1*M  LA87 VEE+
   titles: 'SGCH '
 side_picture: /images/glamour side view 13227305_10156854398235487_3410824979030834887_o.jpg
-milk_records: []
+milk_records:
+  - milkRecordDIM: '346'
+    milkRecordFat: '5'
+    milkRecordFatLBS: '38'
+    milkRecordProtein: '4.2'
+    milkRecordProteinLBS: '32'
+    milkRecordVolume: '756'
+    milkRecordYear: '2017'
+kiddingHistory:
+  - bredDate: '2017'
+    breeder: hailstorm
+    buckCount: '1'
+    comments: DDD  HS Southern Lady; DDD HS Justice Blues
+    doeCount: '2'
+  - bredDate: '2016'
+    breeder: 'unknown '
+    buckCount: '1'
+    comments: before we bought her
+    doeCount: '2'
 layout: goatpage.html
 collection: Goats
 ---
