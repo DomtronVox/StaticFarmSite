@@ -57,3 +57,11 @@ layout: goatpage.html
 collection: Goats
 ---
 dark gold and black buckskin random white spots
+
+## Pedigree highlights
+
+* G.Sire: **ROSASHARN TL CAULDRON  ++B    LA90 VEE**
+* G.Dam: **SG NC PROMISEDLAND SIA ZENA 3*M LA89 VEEE  ELITE** _1-06 218 1000 lbs of milk_
+* G.G.Dam: **SG NC PROMISEDLAND BW ZIPPY  2*M LA90 VEEE** _3-08 305 1600 lbs of milk _
+* G.G.G.Dam: **SGCH AGS PROMISEDLAND CP LIL BOPEEP  1*M  LA92 EEEE**   _4‑01* 286 1240 lbs in milk_
+* G.G.G.Dam: **SG AGS PROMISEDLAND HS ZINNIA 1*M LA 84 V+E+** _2‑00 283 900 lbs in milk_
