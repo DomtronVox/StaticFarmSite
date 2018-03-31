@@ -11,9 +11,10 @@ extra_info: "## Pedigree highlights\n\n* G.Sire: **ROSASHARN TL CAULDRON  ++B   
 blue_eyes: false
 polled: false
 reference: 'no'
-sireTitlesEarned: NC
-sire: NC PROMISEDLAND RC ZORRO *B
-sirePostfix: '*B'
+sireNameData:
+  name: PROMISEDLAND RC ZORRO
+  postfix: '*B'
+  titles: NC
 damTitlesEarned: SG
 dam: "SG Doublegate SCG Fashionmodel 2*M LA90\_EEEV 5-10 305 790 lbs of milk"
 damPostfix: "2*M LA90\_EEEV 5-10 305 790 lbs of milk"
