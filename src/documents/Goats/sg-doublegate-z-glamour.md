@@ -1,5 +1,7 @@
 ---
-title: SG Doublegate Z Glamour 3*M
+titlesEarned: SG
+title: Doublegate Z Glamour
+milkStar: 3*M
 nickname: Glamour
 gender: Senior Doe
 la_score: LA 85 VEV+  (New to farm at time of LA)
@@ -9,8 +11,12 @@ extra_info: "## Pedigree highlights\n\n* G.Sire: **ROSASHARN TL CAULDRON  ++B   
 blue_eyes: false
 polled: false
 reference: 'no'
+sireTitlesEarned: NC
 sire: NC PROMISEDLAND RC ZORRO *B
+sirePostfix: '*B'
+damTitlesEarned: SG
 dam: "SG Doublegate SCG Fashionmodel 2*M LA90\_EEEV 5-10 305 790 lbs of milk"
+damPostfix: "2*M LA90\_EEEV 5-10 305 790 lbs of milk"
 side_picture: /images/glamour side view 13227305_10156854398235487_3410824979030834887_o.jpg
 milk_records: []
 layout: goatpage.html
