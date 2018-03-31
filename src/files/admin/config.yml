@@ -59,7 +59,6 @@ collections: # A list of collections the CMS should be able to edit
       - {required: false, label: "ADGA Registration Number", name: "adga_num", widget: "string"}
       - {required: false, label: "AGS Registration Number", name: "ags_num", widget: "string"}
 
-      - {required: false, label: "Extra Info", name: "extra_info", widget: "markdown"}
       - {required: false, label: "Blue Eyes", name: "blue_eyes", widget: "boolean"}
       - {required: false, label: "Polled", name: "polled", widget: "boolean"}
       - {required: false, label: "Moonspots", name: "moonspots", widget: "boolean"}
@@ -134,10 +133,10 @@ collections: # A list of collections the CMS should be able to edit
             - {required: false, label: "Year", name: "milkRecordYear", widget: "string"}
             - {required: false, label: "DIM", name: "milkRecordDIM", widget: "string"}
             - {required: false, label: "DIM Volume (LBS)", name: "milkRecordVolume", widget: "string"}
-            - {required: false, label: "Fat (%)", name: "milkRecordFat", widget: "number"}
-            - {required: false, label: "Fat (LBS)", name: "milkRecordFatLBS", widget: "number"}
-            - {required: false, label: "Protein (%)", name: "milkRecordProtein", widget: "number"}
-            - {required: false, label: "Protein (LBS)", name: "milkRecordProteinLBS", widget: "number"}
+            - {required: false, label: "Fat (%)", name: "milkRecordFat", widget: "string"}
+            - {required: false, label: "Fat (LBS)", name: "milkRecordFatLBS", widget: "string"}
+            - {required: false, label: "Protein (%)", name: "milkRecordProtein", widget: "string"}
+            - {required: false, label: "Protein (LBS)", name: "milkRecordProteinLBS", widget: "string"}
       - {required: false, label: "Milk Record Comments", name: "milkRecordComments", widget: "markdown"}
             
 
