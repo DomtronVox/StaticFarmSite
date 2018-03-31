@@ -62,7 +62,7 @@ kiddingHistory:
 layout: goatpage.html
 collection: Goats
 ---
-dark gold and black buckskin random white spots
+Glamour is definitely the QUEEN of our goat herd. We were so glad to get the opportunity to buy her and introduce her to the next level with LA scores and DHIR milk tests. She is a dark gold and black buckskin random white spots
 
 ## Pedigree highlights
 
