@@ -44,7 +44,7 @@ milk_records:
     milkRecordYear: '2017'
 kiddingHistory:
   - bredDate: '2017'
-    breeder: hailstorm
+    breeder: "DesertNanny BH HAILSTORM *B\_*S  LA 89 VEV"
     buckCount: '1'
     comments: DDD  HS Southern Lady; DDD HS Justice Blues
     doeCount: '2'
