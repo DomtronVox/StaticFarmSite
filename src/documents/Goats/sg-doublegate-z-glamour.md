@@ -35,8 +35,8 @@ dam_damNameData:
 side_picture: /images/glamour side view 13227305_10156854398235487_3410824979030834887_o.jpg
 milk_records:
   - milkRecordDIM: '346'
-    milkRecordFat: '5'
-    milkRecordFatLBS: '38'
+    milkRecordFat: '5.3'
+    milkRecordFatLBS: '40'
     milkRecordProtein: '4.2'
     milkRecordProteinLBS: '32'
     milkRecordVolume: '756'
