@@ -4,7 +4,7 @@ navTitle: Kidding Schedule
 navPriority: '20'
 tableTitle: 2018 Kidding Schedule
 kidding_table:
-  - dam: Wooly Dog Down Vanessa Redwing 1*M
+  - dam: Dozy Doe Down GL Fantasy Blue
     dueDate: 04-12
     notes_list:
       - e
