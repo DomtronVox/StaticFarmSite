@@ -6,6 +6,10 @@ tableTitle: 2018 Kidding Schedule
 kidding_table:
   - dam: Dozy Doe Down GL Fantasy Blue
     dueDate: 04-12
+    geneticNotes: hello
+    notes_list:
+      - note: test
+      - note: yay
     sire: Dozy Doe Down EB Hidden Tresor
 collection: MainPage
 layout: kidding_schedule.html
