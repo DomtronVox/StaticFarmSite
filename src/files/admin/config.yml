@@ -40,6 +40,43 @@ collections: # A list of collections the CMS should be able to edit
     meta: #no clue what meta does. Didn't work as I was expecting.
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
 
+  - name: "kidding_schedule"
+    label: "Kidding Schedule"
+    folder: "src/documents/kidding_schedule"
+    create: "true"
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string", tagname: "h1", default:"Kidding Schedule"}
+      - {label: "Navigation Bar Text", name: "navTitle", widget: "string"}
+      - {label: "Navigation bar priority (lower=farther up)", name: "navPriority", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Kidding Table Title", name: "tableTitle", widget: "string"}
+
+      - label: "Kidding Table"
+        name: "kidding_table"
+        required: false,
+        widget: "list"
+        fields:
+            - {required: false, label: "Dam", name: "dam", widget: "relation", collection: "goats", searchFields: ["title", "nickname"], valueField: "title"}
+            - {required: false, label: "Selling Dam?", name: "sellingDam", widget: "boolean"}
+            - {required: false, label: "Sire", name: "sire", widget: "relation", collection: "goats", searchFields: ["title", "nickname"], valueField: "title"}
+            - {required: false, label: "Pregnancy Confirmed?", name: "confirmation", widget: "boolean"}
+            - {required: false, label: "Due Date", name: "dueDate", widget: "string"}
+            - {required: false, label: "Genetic Notes", name: "geneticNotes", widget: "string"}
+            - label: "Notes List"
+              name: "notes_list"
+              required: false,
+              widget: "list"
+              field: {required: false, label: "Note", name: "note", widget: "string"} 
+
+      #hidden fields are not editable by the user but still show up in the file's front matter
+      - {label: "Collection", name: "collection", widget: "hidden", default: "MainPage"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "kidding_schedule.html"}
+    meta: #no clue what meta does. Didn't work as I was expecting.
+      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
+
+
+
   - name: "goats" 
     label: "Goat Pages"
     folder: "src/documents/Goats" # The path to the folder where the documents are stored

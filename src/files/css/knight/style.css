@@ -45,6 +45,12 @@ img{ max-width:100%; }
 /*.gallery { border: 8px solid #c6337a; }*/
 .gallery img { border: none !important; }
 
+.smallImg {
+    border: none !important;
+    max-width:200px;
+    max-height: 200px;
+}
+
 .main-section img {
     border: 8px solid #c6337a;
     padding: 8px;

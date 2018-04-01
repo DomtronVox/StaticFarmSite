@@ -161,16 +161,15 @@ function customProcessing(files, metalsmith, done) {
 
     //manually add the pagination index's to their subpage collection
     //TODO Not a nice way to do it but since we call collections before
-    var subpage_collection = metalsmith._metadata.collections.SubPage;
     goat_pagination_files = [ files["Goats/senior-does.html"], files["Goats/junior-does.html"], 
                               files["Goats/bucks.html"], files["Goats/reference-goats.html"] ];
 
-    Array.prototype.push.apply(subpage_collection, goat_pagination_files)
+    Array.prototype.push.apply(metalsmith._metadata.collections.SubPage, goat_pagination_files)
 
     //Further sort the sub pages collection so it is easier to build the nav bar
     var subpage_collection = metalsmith._metadata.collections.SubPage;
     var sorted_collection = {}
-    for (index in subpage_collection) {
+    for (var index in subpage_collection) {
         var page = subpage_collection[index];
 
         //if nav nest is defined sort the page
@@ -184,7 +183,17 @@ function customProcessing(files, metalsmith, done) {
     //#finish by adding the sorted list to the collection object
     subpage_collection["sortedByMainPage"] = sorted_collection
 
-    //console.log(metalsmith._metadata.collections.SubPage)
+    //Add a key-value object for goat pages so we can find a particular goat quickly
+    var goatsByName = {}
+    for (var index in metalsmith._metadata.collections.Goats) {
+        var goat = metalsmith._metadata.collections.Goats[index];
+        if (goat && Number(index) != NaN) {
+            goatsByName[goat.title] = goat;
+        }
+    }
+    metalsmith._metadata.collections.Goats["goatsByName"] = goatsByName;
+
+    //console.log(Object.keys(metalsmith._metadata.collections.Goats.goatsByName))
 }
 
 
