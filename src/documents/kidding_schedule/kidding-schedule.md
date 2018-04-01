@@ -11,6 +11,15 @@ kidding_table:
       - note: test
       - note: yay
     sire: Dozy Doe Down EB Hidden Tresor
+  - confirmation: true
+    dam: Doublegate Z Glamour
+    dueDate: 6/1
+    geneticNotes: ''
+    notes_list:
+      - note: does retained
+      - note: 1 buck mb retained
+      - note: bucks $500
+    sire: 'DesertNanny BH Hailstorm '
 collection: MainPage
 layout: kidding_schedule.html
 ---
