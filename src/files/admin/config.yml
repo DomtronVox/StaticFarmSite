@@ -43,7 +43,7 @@ collections: # A list of collections the CMS should be able to edit
   - name: "kidding_schedule"
     label: "Kidding Schedule"
     folder: "src/documents/kidding_schedule"
-    create: "true"
+    create: "false"
     slug: "{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string", tagname: "h1", default:"Kidding Schedule"}
@@ -67,7 +67,8 @@ collections: # A list of collections the CMS should be able to edit
               name: "notes_list"
               required: false,
               widget: "list"
-              field: {required: false, label: "Note", name: "note", widget: "string"} 
+              fields: 
+                  - {required: false, label: "Note", name: "note", widget: "string"} 
 
       #hidden fields are not editable by the user but still show up in the file's front matter
       - {label: "Collection", name: "collection", widget: "hidden", default: "MainPage"}
@@ -89,6 +90,7 @@ collections: # A list of collections the CMS should be able to edit
       - {required: true,  label: "Milk Star", name: "milkStar", widget: "string"}
       - {required: true,  label: "Nickname", name: "nickname", widget: "string"}
       - {required: true,  label: "Gender", name: "gender", widget: "select", options: ["Buck", "Senior Doe", "Junior Doe"]}
+      - {required: false, label: "For Sale?", name: "forSale", widget: "boolean"}
       - {required: false, label: "LA Score", name: "la_score", widget: "string"}
       - {required: false, label: "Birth Date", name: "birth_date", widget: "string", default: "" }
       - {required: false, label: "Description", name: "body", widget: "markdown"}
