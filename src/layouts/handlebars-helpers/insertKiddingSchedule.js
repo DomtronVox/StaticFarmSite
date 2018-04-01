@@ -47,7 +47,10 @@ module.exports = function(data_rows, tableTitle, Goats) {
 
         //do the date/notes column
         return_html += '    <td><span style="color:red;font-size:20px;"> Due Date '+row.dueDate+'</span> <br />'
-        return_html += '<span>'+(row.confirmation ? 'Confirmed' : 'Unconfirmed')+'</span></td>'
+        return_html += '<span>'+(row.confirmation ? 'Confirmed' : 'Unconfirmed')+'</span><br /> '
+        for (var i in row.notes_list) { return_html += '<p>'+row.notes_list[i].note+'</p>' }
+
+        return_html += '</td>'
 
         //do the genetic traits column
         
