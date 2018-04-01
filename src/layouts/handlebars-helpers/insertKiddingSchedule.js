@@ -29,7 +29,7 @@ module.exports = function(data_rows, tableTitle, Goats) {
             
     return_html += '<table>\n'
     return_html += '    <tr><th colspan="100"><h2>'+tableTitle+'</h2></th></tr>\n'
-    return_html += '    <tr><th>Dam</th><th>Sire</th><th>Date Due and confermation</th><th>Breeding Notes</th></tr>\n'
+    return_html += '    <tr><th>Dam</th><th>Sire</th><th>Date Due and Confirmation</th><th>Breeding Notes</th></tr>\n'
     return_html += '    <tr><th colspan="100">Kiddings Listed by Due Date</th></tr>\n'
 
     //loop through collection and create the nav bar
