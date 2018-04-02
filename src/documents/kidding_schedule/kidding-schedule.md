@@ -10,6 +10,7 @@ kidding_table:
     notes_list:
       - note: test
       - note: yay
+    showLAScore: true
     sire: Dozy Doe Down EB Hidden Tresor
   - confirmation: true
     dam: Doublegate Z Glamour
