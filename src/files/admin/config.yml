@@ -59,6 +59,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
             - {required: false, label: "Dam", name: "dam", widget: "relation", collection: "goats", searchFields: ["title", "nickname"], valueField: "title"}
             - {required: false, label: "Selling Dam?", name: "sellingDam", widget: "boolean"}
+            - {required: false, label: "Show LA Score?", name: "showLAScore", widget: "boolean"}
             - {required: false, label: "Sire", name: "sire", widget: "relation", collection: "goats", searchFields: ["title", "nickname"], valueField: "title"}
             - {required: false, label: "Pregnancy Confirmed?", name: "confirmation", widget: "boolean"}
             - {required: false, label: "Due Date", name: "dueDate", widget: "string"}

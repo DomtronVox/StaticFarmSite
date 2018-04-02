@@ -10,7 +10,7 @@ function addCell(variable) {
     }
 }
 
-function formatName(goat_data) {
+function formatName(goat_data, row) {
     var name_html = ""
     if (goat_data.titlesEarned) { name_html+= ' <span class="pedigreeTitle">'+goat_data.titlesEarned+'</span> ' }
     name_html += goat_data.title
@@ -42,7 +42,12 @@ module.exports = function(data_rows, tableTitle, Goats) {
         return_html += '    <tr>'
 
         //put in parent's names 
-        return_html += '    <td><span '+(row.sellingDam ? 'style="color:orange;"' : "")+'>'+formatName(dam_data)+'</span><br /><img class="smallImg" src="'+dam_data.side_picture+'"></img><br /><a href="/'+dam_data.path+'"> Doe\'s Page.</a></td>'
+        return_html += '    <td>'
+        return_html += '    <span '+(row.sellingDam ? 'style="color:orange;"' : '')+'>'
+             +formatName(dam_data)
+             +( (row.showLAScore && dam_data.la_score) ? ' <span class="pedigreeTitle">'+goat_data.la_score+'</span>' : '')
+             +'</span><br /><img class="smallImg" src="'+dam_data.side_picture+'">'
+             +'</img><br /><a href="/'+dam_data.path+'"> Doe\'s Page.</a></td>'
         return_html += '    <td><span>'+formatName(sire_data)+'</span><br /><img class="smallImg" src="'+sire_data.side_picture+'"></img><br /><a href="/'+sire_data.path+'">Buck\'s Page.</a></td>'
 
         //do the date/notes column

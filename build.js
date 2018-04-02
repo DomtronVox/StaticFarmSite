@@ -64,7 +64,7 @@ settings["csv_parser"] = {
 }
 
 
-settings["pagination1"] = {
+settings["pagination_senior_does"] = {
   'collections.Goats': {
     perPage: 1000,
     layout: 'goatindex.html',
@@ -83,7 +83,7 @@ settings["pagination1"] = {
   }
 }
 
-settings["pagination2"] = {
+settings["pagination_junior_does"] = {
   'collections.Goats': {
     perPage: 1000,
     layout: 'goatindex.html',
@@ -103,7 +103,7 @@ settings["pagination2"] = {
   }
 }
 
-settings["pagination3"] = {
+settings["pagination_bucks"] = {
   'collections.Goats': {
     perPage: 1000,
     layout: 'goatindex.html',
@@ -122,7 +122,7 @@ settings["pagination3"] = {
   }
 }
 
-settings["pagination4"] = {
+settings["pagination_reference_goats"] = {
   'collections.Goats': {
     perPage: 1000,
     layout: 'goatindex.html',
@@ -146,6 +146,11 @@ settings["pagination4"] = {
 //   netlify-cms does not like content collections with sub-folders
 settings["move_up"] = {
   pattern: 'main_pages/*',
+  by: 1
+}
+
+settings["move_up2"] = {
+  pattern: 'kidding_schedule/*',
   by: 1
 }
 
@@ -270,14 +275,15 @@ Metalsmith(__dirname)
     .use( reg_handlebar_helpers(settings["handlebar helpers"]) )
     //.use( permalinks(settings["permalinks"]) ) //TODO: add proper options once we add blog posts
     .use( moveUp(settings["move_up"]) )
+    .use( moveUp(settings["move_up2"]) )
     .use( markdown(settings["markdown"]) )
     //due to the way metalsmith-pagination works I need to do seperate configs for
     //    each operation on the same collection.
     .use( collections(settings["collections"]) )
-    .use( pagination(settings["pagination1"]) )
-    .use( pagination(settings["pagination2"]) )
-    .use( pagination(settings["pagination3"]) )
-    .use( pagination(settings["pagination4"]) )
+    .use( pagination(settings["pagination_senior_does"]) )
+    .use( pagination(settings["pagination_junior_does"]) )
+    .use( pagination(settings["pagination_bucks"]) )
+    .use( pagination(settings["pagination_reference_goats"]) )
     //.use(printTest)
     .use( customProcessing )
     .use( layouts(settings["layouts"]) )
