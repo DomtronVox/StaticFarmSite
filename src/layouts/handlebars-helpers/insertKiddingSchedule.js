@@ -38,6 +38,12 @@ module.exports = function(data_rows, tableTitle, Goats) {
         var row = data_rows[index]
           , dam_data = Goats[row.dam]
           , sire_data = Goats[row.sire];
+
+        //skip if either 
+        if (!sire_data || !dam_data) { 
+            console.log("Error: Kidding schedule row data invalid for row "+index+". "+(sire_data ? "Dam" : "Sire")+" does not exist!" ); 
+            continue; 
+        }
         
         return_html += '    <tr>'
 
