@@ -44,7 +44,11 @@ settings["collections"] = {
     },
     Goats: {
         pattern: "src/documents/Goats/*"
-      , sortBy: 'full_title'
+      , sortBy: function(a,b) {
+                    a = a.birth_date.split('/').reverse().join('');
+                    b = b.birth_date.split('/').reverse().join('');
+                    return a > b ? 1 : a < b ? -1 : 0;
+        }
       , refer: false
       , reverse: false
     }
@@ -141,6 +145,25 @@ settings["pagination_reference_goats"] = {
   }
 }
 
+settings["pagination_for_sale"] = {
+  'collections.Goats': {
+    perPage: 1000,
+    layout: 'goatindex.html',
+    pageContents: new Buffer(""),
+    path: 'Goats/for_sale.html',
+    filter: function (page) {
+      return page.forSale
+    },
+    pageMetadata: {
+      title: 'Listing of Goats for Sale'
+    , navTitle: "For Sale"
+    , navNest: "Nigerian Dwarf Goats" //Note/TODO: dangerous to hard code this, if someone changes the page title it will break these pages
+    , collection: "SubPage"
+    , navPriority: '5'
+    }
+  }
+}
+
 
 //>>TODO temporary fix for having to put mainpages under it's own directory because 
 //   netlify-cms does not like content collections with sub-folders
@@ -167,7 +190,8 @@ function customProcessing(files, metalsmith, done) {
     //manually add the pagination index's to their subpage collection
     //TODO Not a nice way to do it but since we call collections before
     goat_pagination_files = [ files["Goats/senior-does.html"], files["Goats/junior-does.html"], 
-                              files["Goats/bucks.html"], files["Goats/reference-goats.html"] ];
+                              files["Goats/bucks.html"], files["Goats/reference-goats.html"], 
+                              files["Goats/for_sale.html"] ];
 
     Array.prototype.push.apply(metalsmith._metadata.collections.SubPage, goat_pagination_files)
 
@@ -284,6 +308,7 @@ Metalsmith(__dirname)
     .use( pagination(settings["pagination_junior_does"]) )
     .use( pagination(settings["pagination_bucks"]) )
     .use( pagination(settings["pagination_reference_goats"]) )
+    .use( pagination(settings["pagination_for_sale"]) )    
     //.use(printTest)
     .use( customProcessing )
     .use( layouts(settings["layouts"]) )
