@@ -15,6 +15,7 @@ sireNameData:
   titles: ''
 damNameData:
   name: 'Desert Nanny BR Blackbottom Pie  '
+  postfix: LA 86
 sire_sireNameData:
   name: 'DesertNanny BR BlueBerryBuckle  '
   postfix: '*S *B  '
