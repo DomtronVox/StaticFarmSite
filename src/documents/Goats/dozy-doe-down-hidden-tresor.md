@@ -28,4 +28,8 @@ milk_records: []
 layout: goatpage.html
 collection: Goats
 ---
+Pedigree Highlights
 
+G-Sire: **SGCH Rosasharn's SP Shazaam +* B   LA 87 VVV**
+
+G-G-Sire:** ARMCH Rosasharn's SW Sapporro *S ++B  LA91 EEE**
