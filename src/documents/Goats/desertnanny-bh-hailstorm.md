@@ -6,7 +6,7 @@ nickname: Hailstorm
 gender: Buck
 la_score: LA 89 VEV
 birth_date: 4/22/14
-adga_num: d1696392
+adga_num: D1696392
 blue_eyes: true
 reference: 'no'
 sireNameData:
@@ -32,4 +32,14 @@ milk_records: []
 layout: goatpage.html
 collection: Goats
 ---
+Line bred on Barney Rubble and Icy Blue TailFly
 
+Pedigree Highlights:
+
+* Sire: **DesertNanny BBB Blue Haboob \*S \*B**
+* Sire's Sire:** DesertNanny BR BlueBerryBuckle \*S \*B**
+* Sire's Dam: **DesertNanny UMA AmberRose 4\*M 4\*D**
+* Dam's Sire: **DF Farms HD Barney Rubble +*S +B LA 87 VVV**
+* G-G Sire: **DF Farms HD Barney Rubble +*S +B LA 87 VVV**
+* Dam's Dam: **DesertNanny Icy BlueTailFly 3\*M 3\*D LA 88 VEEV 3 x Reserve CH Jr. Doe**
+* G-G-Dam: ** DesertNanny Icy BlueTailFly 3\*M 3\*D LA 88 VEEV 3 x Reserve CH Jr. Doe**
