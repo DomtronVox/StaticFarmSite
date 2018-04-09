@@ -33,9 +33,8 @@ Pedigree Highlights
 * G-Sire: **SGCH Rosasharn's SP Shazaam +* B   LA 87 VVV**
 * G-G-Sire:** ARMCH Rosasharn's SW Sapporro *S ++B   LA91 EEE**
 * G-G-Dam:** Rosasharn's TL Bewitched 6\*D 6\*M    LA92 EEEE  **_6-00* 305 1200 Lbs in milk_
-* G-G-Sire:_ _**CH Algedi Farms DJ Drops of Honey *B**
-* G-G-Dam: ** ARMCH/ SGCH Rosasharn's Unagi 4\*D 3\*M  HES 91.5 E     **_ 4‑10* 305 1430 Lbs of milk_
-* ## G-G-SIRE:_ _**GCH Algedi Farms Drops of Jupiter  *S LA EEE      2015 ADGA Nationals: Senior Get-of-Sire **
-* G-G-Dam: **CH Rosasharn's UMT Tupelo Honey  4*D   LA91 EEEE  11x BOB      3x Best Doe    5x Best Udder    4x Sr Grand**
-* GGDam:** SG/ ARMCH  Rosasharn's Uni 3\*D 2\*M 'E'    2002/03 Breed Leader in Milk, BF, Protein**
-*
+* G-G-Sire:  **CH Algedi Farms DJ Drops of Honey *B**
+* G-G-G-Dam: ** ARMCH/ SGCH Rosasharn's Unagi 4\*D 3\*M  HES 91.5 E     **_ 4‑10* 305 1430 Lbs of milk_
+* **G-G-G-SIRE:  GCH Algedi Farms Drops of Jupiter  *S LA EEE  2015 ADGA Nationals: Senior Get-of-Sire **
+* G-G-G-Dam: **CH Rosasharn's UMT Tupelo Honey  4*D   LA91 EEEE  11x BOB      3x Best Doe    5x Best Udder    4x Sr Grand**
+* G-G-G-Dam:**  ARM SGCH  Rosasharn's Uni 3\*D 2\*M 'E'    2002/03 Breed Leader in Milk, BF, Protein**
