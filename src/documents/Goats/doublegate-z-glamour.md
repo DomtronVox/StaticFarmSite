@@ -29,7 +29,18 @@ dam_damNameData:
   postfix: 1*M   LA87 VEE+
   titles: 'SGCH '
 side_picture: /images/glamour side view 13227305_10156854398235487_3410824979030834887_o.jpg
-milk_records: []
+milk_records:
+  - milkRecordDIM: '368 '
+    milkRecordFat: '5.3'
+    milkRecordFatLBS: '42'
+    milkRecordProtein: '4.4 '
+    milkRecordProteinLBS: '35'
+    milkRecordVolume: '800 '
+    milkRecordYear: '2017'
+milkRecordComments: >-
+  You never know what will come when planning milk tests… this was the year we
+  had a death in the family and family sickness.. With all the irregularities in
+  her schedule,  I am proud that she did this well.
 layout: goatpage.html
 collection: Goats
 ---
