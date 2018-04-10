@@ -4,7 +4,7 @@ title: Dozy Doe Down AA FeatherBonnet
 milkStar: ' '
 nickname: Feather
 gender: Senior Doe
-forSale: true
+forSale: false
 birth_date: 3/6/15
 adga_num: D176778
 reference: 'no'
