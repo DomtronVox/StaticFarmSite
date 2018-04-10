@@ -25,7 +25,7 @@ dam_sireNameData:
   postfix: POLLED; BLUE EYES
 dam_damNameData:
   name: 'Wooly Dog Down Vanessa Redwing  1*M  '
-  postfix: 1*M   LA 84 +EE+  (at 10 yrs old) POLLED
+  postfix: 1*M   LA 84 +EE+  (at 10 yrs old) polled
 side_picture: /images/fantasy side view 13233078_10156855248720487_6271938474121403546_n.jpg
 milk_records: []
 kiddingHistory:
