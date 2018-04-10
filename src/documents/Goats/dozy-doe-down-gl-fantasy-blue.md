@@ -36,4 +36,10 @@ kiddingHistory:
 layout: goatpage.html
 collection: Goats
 ---
+Pedigree History
 
+* G-G.Sire: **TX Twincreeks WDF Texas 2 Step S +*B LA88 VEE** 1xGCH & Best Buck in ADGA Show 1xRGCH
+* G-G-G.Sire:** MCH Pecan Hollow Willy’s Dance Fever +S +B LA91 EEE** 6xGCH    POLLED  
+* G-G-G.Dam: **MCH HBF LS Darlin’  Clementine  \*D 1\*M LA 90 VEEE **5x GCH; 6x Best Udder
+* G-G-G.Dam: **Gay-Mor Kingpin’s Lacewing 4*D 'E' AR1564** 3xGCH & BU **2000 AGS Top Ten Milk No. 2    _1.10‑21 6/8”-305-1316-75(5.7)52(4.0)_**
+* G-G-G.Dam (2x):** Willows Bonehead **POLLED** _FOUNDATION DOE_**
