@@ -14,7 +14,7 @@ sireNameData:
   titles: ' '
 damNameData:
   name: 'Dozy Doe Down SH Bella '
-  postfix: 1*M
+  postfix: 1*M (blue eyes)
   titles: ' '
 sire_sireNameData:
   name: Enchanted Hill Toby
