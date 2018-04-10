@@ -9,16 +9,17 @@ adga_num: D1905201
 blue_eyes: true
 reference: 'no'
 sireNameData:
-  name: Wooly Dog Down Etienne Bleu   (Blue eyes Polled)
-  postfix: ''
+  name: 'Wooly Dog Down Etienne Bleu   '
+  postfix: (blue eyes; polled)
 damNameData:
   name: Gypsy Moon SZ Ambergris
 sire_sireNameData:
-  name: Wooly Dog Down Captain Jay   (Polled Blue eyes)
+  name: 'Wooly Dog Down Captain Jay '
+  postfix: (blue eyes; polled)
 sire_damNameData:
   name: SGM Duchess Camilla
 dam_sireNameData:
-  name: Rosasharn's SP Shazaam +* B   LA 87 VVV
+  name: 'Rosasharn''s SP Shazaam '
   postfix: +* B   LA 87 VVV
   titles: 'SGCH '
 dam_damNameData:
