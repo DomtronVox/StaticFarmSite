@@ -17,12 +17,12 @@ damNameData:
   postfix: POLLED; BLUE EYES
 sire_sireNameData:
   name: 'Flat Rocks Gem '
-  postfix: +S ++B POLLED
+  postfix: +S ++B polled
 sire_damNameData:
   name: Five Alarm Grace
 dam_sireNameData:
   name: Hay There Barley
-  postfix: POLLED; BLUE EYES
+  postfix: polled; blue eyes
 dam_damNameData:
   name: 'Wooly Dog Down Vanessa Redwing  1*M  '
   postfix: 1*M   LA 84 +EE+  (at 10 yrs old) polled
