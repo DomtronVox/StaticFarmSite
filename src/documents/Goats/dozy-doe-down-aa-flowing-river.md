@@ -11,7 +11,7 @@ sireNameData:
   name: Alpenglade Apache
 damNameData:
   name: 'Dozy Doe Down SH Bella '
-  postfix: 1*M (polled)
+  postfix: 1*M (blue eyes)
 sire_sireNameData:
   name: Enchanted Hill Toby
 sire_damNameData:
