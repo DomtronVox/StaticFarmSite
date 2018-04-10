@@ -11,7 +11,7 @@ polled: true
 reference: 'no'
 sireNameData:
   name: 'Flat Rocks Gem''s Legacy '
-  postfix: ' +B LA 88 VEE   POLLED'
+  postfix: ' +B    LA 88 VEE   POLLED'
 damNameData:
   name: Wooly Dog Down Celestrina Blue
   postfix: POLLED; BLUE EYES
@@ -25,7 +25,8 @@ dam_sireNameData:
   postfix: POLLED; BLUE EYES
 dam_damNameData:
   name: 'Wooly Dog Down Vanessa Redwing  1*M  '
-  postfix: 1*M   LA84 +EE+  POLLED
+  postfix: 1*M   LA 84 +EE+  (at 10 yrs old) POLLED
+side_picture: /images/fantasy side view 13233078_10156855248720487_6271938474121403546_n.jpg
 milk_records: []
 kiddingHistory:
   - bredDate: '2017'
