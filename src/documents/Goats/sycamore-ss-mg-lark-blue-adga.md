@@ -43,5 +43,5 @@ Pedigree Highlights
 * G-G.Dam:** MCH Steele Ballew Carmen *D 1x RGCH Jr 1x GCH Jr _2005 AGS Top 10 Protein_**
 * G-G.Sire:**_ _Gay-Mor's RA Kingwood ++ *S ++B 2x RGCH, 2x GCH**
 * G-G.Dam:** Hill Country's Shatarr 2\*D 1\*M **Dam of** _ARMCH Lost Valley LA Toriaza  2011 AGS NATIONAL GCH DOE_**
-* G-G.Dam:**_ _ARMCH Rosasharn Tom's Bit-A-Lilly 4\*D 2\*M EEE+_ 2007 AGS Nation Reserve Champion Doe_**
+* G-G.Dam:** _ARMCH Rosasharn Tom's Bit-A-Lilly 4\*D 2\*M EEE+_ 2007 AGS Nation Reserve Champion Doe**
 * G-G.Dam: **GCH/MCH Lost Valley KW Cassiopeia  4\*D 4\*M LA89 VEEV**
