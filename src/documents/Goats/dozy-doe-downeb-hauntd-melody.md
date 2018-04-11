@@ -19,8 +19,9 @@ sire_sireNameData:
 sire_damNameData:
   name: SGM Duchess Camilla
 dam_sireNameData:
-  name: SGCH Rosasharn's SP Shazaam
+  name: Rosasharn's SP Shazaam
   postfix: +* B   LA 87 VVV
+  titles: SGCH
 dam_damNameData:
   name: Gypsy Moon DH Bronwyn
 milk_records: []
