@@ -12,7 +12,7 @@ sireNameData:
   postfix: '*B'
 damNameData:
   name: Doublegate SCG Fashionmodel
-  postfix: "2*M  LA90\_EEEV    ELITE DOE  5-10 305 790 7.0 55 4.2 33 "
+  postfix: "2*M  LA90\_EEEV    ELITE DOE  ...milk record 5-10 305 790 7.0 55 4.2 33 "
   titles: SG
 sire_sireNameData:
   name: ROSASHARN TL CAULDRON
