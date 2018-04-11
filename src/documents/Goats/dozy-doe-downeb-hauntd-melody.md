@@ -39,6 +39,6 @@ Pedigree Highlights
 * G-G. Dam:** Rosasharn's SS Unique 4*D**
 * G-G-G. Dam:** GCH Wooly Dog Down Y Yew Blue 3X GCH 1XRGCH  LA 90 EEEV  (**BLUE EYES)
 * G-G-G.Dam:  **ARMCH SG Rosasharn's Unagi 4\*D 3\*M  HES 91.5 E  **   ...milk record 4-10* 305 1430 7.5 107 4.0 57 
-* G-G-G.Sire: **GCH Algedi Farms Drops of Jupiter  *S LA EEE _2015 ADGA Nationals: Senior Get-of-Sire _**
+* G-G-G.Sire: **GCH Algedi Farms Drops of Jupiter  *S LA EEE _2015 ADGA Nationals: Senior Get-of-Sire_**
 * G-G-G.Dam: **CH Rosasharn's UMT Tupelo Honey  4*D  LA91 EEEE ** **_11x BOB 3x Best Doe 5x Best Udder  4x Sr Grand_**
 * G-G-G.Dam: **ARMCH SG Rosasharn's Uni 3\*D 2\*M 'E' AR1669 _2002/03 Breed Leader in Milk, BF, Protein_**
