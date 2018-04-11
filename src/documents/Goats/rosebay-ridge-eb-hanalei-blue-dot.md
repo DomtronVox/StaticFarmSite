@@ -27,6 +27,7 @@ dam_sireNameData:
   postfix: '*B'
 dam_damNameData:
   name: 'SUSURRARE SALIX L EVADNE '
+  postfix: (polled)
 milk_records: []
 layout: goatpage.html
 collection: Goats
