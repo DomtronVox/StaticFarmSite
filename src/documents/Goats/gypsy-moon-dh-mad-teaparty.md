@@ -34,8 +34,12 @@ milk_records:
     milkRecordFatLBS: '29'
     milkRecordProtein: '4.6 '
     milkRecordProteinLBS: '26 '
-    milkRecordVolume: '560'
+    milkRecordVolume: 560*
     milkRecordYear: '2017'
+milkRecordComments: >-
+  *You never know what will come when planning milk tests… this was the year we
+  had a death in the family and family sickness.. With all the irregularities in
+  her schedule,  I am proud that she did this well.
 layout: goatpage.html
 collection: Goats
 ---
