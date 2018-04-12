@@ -13,7 +13,16 @@ sireNameData:
 damNameData:
   name: 'Tiny Town Treble '
   postfix: 3*M LA 90  VEEE
-  titles: SGCH
+  titles: GCH
+sire_sireNameData:
+  name: 'Flat Rocks Night Raven '
+  postfix: +B
+sire_damNameData:
+  name: 'Fairlea Marguerite '
+  postfix: >-
+    4*D  4*M LA 91 EEEE  AR2281 EX91.1 ...milk record 7-00 305 880 4.7 41 4.0
+    35 
+  titles: GCH
 milk_records:
   - milkRecordDIM: '305'
     milkRecordFat: '5.7'
