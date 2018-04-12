@@ -86,11 +86,11 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}"
     fields: # The fields each document in this collection have
-      - {required: true,  label: "Earned Titles", name: "titlesEarned", widget: "string"}
+      - {required: false,  label: "Earned Titles", name: "titlesEarned", widget: "string"}
       - {required: true,  label: "Full Goat Name", name: "title", widget: "string"}
-      - {required: true,  label: "Milk Star", name: "milkStar", widget: "string"}
+      - {required: false,  label: "Milk Star", name: "milkStar", widget: "string"}
       - {required: true,  label: "Nickname", name: "nickname", widget: "string"}
-      - {required: true,  label: "Gender", name: "gender", widget: "select", options: ["Buck", "Senior Doe", "Junior Doe"]}
+      - {required: false,  label: "Gender", name: "gender", widget: "select", options: ["Buck", "Senior Doe", "Junior Doe"]}
       - {required: false, label: "For Sale?", name: "forSale", widget: "boolean"}
       - {required: false, label: "LA Score", name: "la_score", widget: "string"}
       - {required: false, label: "Birth Date", name: "birth_date", widget: "string", default: "" }
@@ -102,23 +102,23 @@ collections: # A list of collections the CMS should be able to edit
       - {required: false, label: "Blue Eyes", name: "blue_eyes", widget: "boolean"}
       - {required: false, label: "Polled", name: "polled", widget: "boolean"}
       - {required: false, label: "Moonspots", name: "moonspots", widget: "boolean"}
-      - {required: true, label: "Is it a Reference Goat", name: "reference", widget: "select", options: ["no", "yes"], default:"no"}
+      - {required: false, label: "Is it a Reference Goat", name: "reference", widget: "select", options: ["no", "yes"], default:"no"}
 
       - label: "Sire"
         name: "sireNameData"
         widget: "object"
         fields:
-            - {required: true,  label: "Earned Titles", name: "titles", widget: "string"}
-            - {required: true,  label: "Name", name: "name", widget: "string"}
-            - {required: true,  label: "Name Postfix", name: "postfix", widget: "string"}
+            - {required: false,  label: "Earned Titles", name: "titles", widget: "string"}
+            - {required: false,  label: "Name", name: "name", widget: "string"}
+            - {required: false,  label: "Name Postfix", name: "postfix", widget: "string"}
 
       - label: "Dam"
         name: "damNameData"
         widget: "object"
         fields:
-            - {required: true,  label: "Earned Titles", name: "titles", widget: "string"}
-            - {required: true,  label: "Name", name: "name", widget: "string"}
-            - {required: true,  label: "Name Postfix", name: "postfix", widget: "string"}
+            - {required: false,  label: "Earned Titles", name: "titles", widget: "string"}
+            - {required: false,  label: "Name", name: "name", widget: "string"}
+            - {required: false,  label: "Name Postfix", name: "postfix", widget: "string"}
 
       - label: "Sire's Sire"
         name: "sire_sireNameData"
