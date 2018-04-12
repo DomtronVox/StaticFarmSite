@@ -55,4 +55,6 @@ Buckskin with random white spots, frosted ears and nose
 
 Pedigree Highlights
 
-*
+* Dam: **GCH Tiny Town Treble 3*M  LA 90  VEEE:  8x BOB: 2xRGCH: 5x GCH **
+* G.Dam:** SG Tiny Town Blue Suede Shoes 2*M **
+* G-G.Dam: **ARMCH Fairlea Fleur 3\*D E92.2 AR1950 3\*M_ 2005 Best Udder ANDDA National Specialty_**
