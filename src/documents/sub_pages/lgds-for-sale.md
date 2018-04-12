@@ -1,8 +1,8 @@
 ---
-title: LGDs For Sale
+title: For Sale
 navTitle: 'LGDs '
-navNest: For Sale
-navPriority: '2'
+navNest: LGDs
+navPriority: '5'
 collection: SubPage
 layout: default.html
 ---
