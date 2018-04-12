@@ -5,9 +5,7 @@ navPriority: '40'
 collection: MainPage
 layout: default.html
 ---
-**Look on here  **[**"FAQs" page**](frequently-asked-questions.html)** to find our Sales Policy.**
-
-<br />
+**Look on **[**here**](frequently-asked-questions.html)** to find our Sales Policy.**
 
 **Click **[**here **](goats/for_sale)** to see what ND goats we have for sale.**
 
