@@ -57,5 +57,5 @@ Pedigree Highlights
 
 * Dam: **GCH Tiny Town Treble 3*M  LA 90  VEEE:  8x BOB: 2xRGCH: 5x GCH **
 * G.Dam:** SG Tiny Town Blue Suede Shoes 2*M **
-* G-G.Dam: **ARMCH Fairlea Fleur 3\*D E92.2 AR1950 3\*M  _2005 Best Udder ANDDA National Specialty_**
+* G-G.Dam: **ARMCH Fairlea Fleur 3\*D E92.2 AR1950 3\*M _2005 Best Udder ANDDA National Specialty_**
 * G-G.Dam: **SG Ground Rush Rhapsodie En Bleu 1*M LA 88 EEE+**
