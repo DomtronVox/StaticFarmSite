@@ -35,7 +35,7 @@ Black doe with random white spots
 
 Pedigree Highlights
 
-* Dam: **SGCH Fairlea Elise 2*M LA 90  VEEE   ELITE DOE: _2016 ADGA Nationals Reserve Best Udder: 2016 Total Performer: 2017 ADGA Nationals Total Performer: _**_  ...milk record 3-09 305 1050 6.4 67 4.6 48 90 40_
+* Dam: **SGCH Fairlea Elise 2*M LA 90  VEEE   ELITE DOE: _2016 ADGA Nationals Reserve Best Udder: 2016 Total Performer: 2017 ADGA Nationals Total Performer:_**  ...milk record 3-09 305 1050 6.4 67 4.6 48 90 40_
 * G-G.Dam:** SG ROSASHARN P HAIKU 4*M LA 91 VEEE **_...milk record 5-02* 305 1540 6.2 95 3.9 60_
 * G-G.Dam: **SGCH J-NELS HM KOOKIE DOE 3*M LA 89 VVEE**
 * ** **G-G.Sire: **GCH Dawnland Tabby's Halifax +B LA VEE 88**
