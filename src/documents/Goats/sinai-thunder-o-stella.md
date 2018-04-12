@@ -24,6 +24,11 @@ sire_damNameData:
     4*M   LA91 EEEE     ELITE DOE ...milk record 4-10 305 1400 7.0 98 4.5 63 101
     20
   titles: 'SGCH '
+dam_sireNameData:
+  name: 'ROSASHARN HB CHEWBACCA '
+  postfix: ' *B '
+dam_damNameData:
+  name: ' LITTLE TOTS ESTATE FOENICULUM'
 milk_records: []
 layout: goatpage.html
 collection: Goats
