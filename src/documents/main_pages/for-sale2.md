@@ -9,7 +9,7 @@ layout: default.html
 
 <br />
 
-**Click here **[**ND Goats**](sub_pages/nd-goats-for-sale.html)**  to see what Goats we have for sale.**
+**Click **[**here **](goats/for_sale)** to see what ND goats we have for sale.**
 
 **Click here **[**LGDs**](sub_pages/lgds-for-sale.html)** to see what LGDs we have for sale.**
 
