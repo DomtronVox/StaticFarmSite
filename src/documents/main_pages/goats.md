@@ -5,8 +5,6 @@ navPriority: '15'
 collection: MainPage
 layout: default.html
 ---
-
-
 **This small West African goat arrived in the U.S. and took American hearts by storm. They have spread through the U.S. like wildfire. What is so special about Nigerian Dwarf goats?**
 
 **<br />**
@@ -29,4 +27,4 @@ Gypsy Moon SZ Ambergris. One of our foundation does
 
 <br />
 
-## Click on these links below to see our goats OR you can use the drop down menu under Nigerian Dwarf goats. [Sr. Does](/Goats/senior-does.html) | Jr. Does | [Bucks ](/goats/bucks)| [Reference Goats](/goats/reference-goats)
+## Click on these links below to see our goats OR you can use the drop down menu under Nigerian Dwarf goats. [Sr. Does](/Goats/senior-does.html) |[ Jr. Does ](goats/junior-does)| [Bucks ](/goats/bucks)| [Reference Goats](/goats/reference-goats)
