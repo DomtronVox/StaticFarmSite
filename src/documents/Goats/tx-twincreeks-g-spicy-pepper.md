@@ -6,7 +6,7 @@ nickname: Spicy
 gender: Senior Doe
 forSale: true
 la_score: >-
-  Spicy is for Sale. She should be bred. Excellent chance of kids being
+  Spicy is for sale and is probably bred. Excellent chance of kids being
   polled.  
 birth_date: 12/20/10
 adga_num: D1549910
