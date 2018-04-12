@@ -24,6 +24,13 @@ sire_damNameData:
     4*D  4*M LA 91 EEEE  AR2281 EX91.1 ...milk record 7-00 305 880 4.7 41 4.0
     35 
   titles: GCH
+dam_sireNameData:
+  name: BRB Tiny Town Fu Manchu
+  postfix: ' LA87 V+E'
+dam_damNameData:
+  name: Tiny Town Blue Suede Shoes
+  postfix: 2*M  LA 86 V+E+
+  titles: SG
 milk_records:
   - milkRecordDIM: '305'
     milkRecordFat: '5.7'
