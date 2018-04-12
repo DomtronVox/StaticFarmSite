@@ -33,6 +33,12 @@ Our policy used to be to start you with a minimum of two goats.  But over the ye
 
 <br />
 
+**Are your Livestock Guardian Dogs raised with livestock?** Yes. Our LGDs bred on our farm are born and raised with our goats and exposed to our chickens. They get deworming medicine at 2, 4, 6, and 8 wks of age. They are started on vaccinations at 6 weeks and every three weeks after. They get a puppy check at 4 weeks old. All puppies are kept with their parents until 8 weeks of age.
+
+If you desire or need (in the case of transport service) another vet check with a health certificate before they leave, we are happy to help you but that is an additional fee paid before the appointment.
+
+<br />
+
 **Do you accept credit cards or personal check?** We accept cash (USA) and PayPal. Personal checks must clear the bank before the animal can leave Dozy Doe Down.  We are not set up for credit cards. 
 
 <br />
