@@ -5,7 +5,9 @@ milkStar: ' '
 nickname: Spicy
 gender: Senior Doe
 forSale: true
-la_score: Spicy is for Sale. Should be bred.
+la_score: >-
+  Spicy is for Sale. Spicy has been with Some Day Came MG FL Graffiti (polled)
+  for over 2 months so should be bred. 
 birth_date: 12/20/10
 adga_num: D1549910
 reference: 'no'
