@@ -33,8 +33,18 @@ milk_records: []
 layout: goatpage.html
 collection: Goats
 ---
-**Spicy has been with Graffiti for over 2 months so should be bred. Excellent chance of kids being polled.**  She kidded 2017 all by herself with absolutely no kidding problems.
+**Spicy has been with Graffiti for over 2 months so should be bred. Excellent chance of kids being polled.**  She kidded 2017 all by herself with absolutely no kidding problems. Her daughter, ** Deer Ridge Twilight Cascabella 1*M**, out of ** Tx Twincreeks Edge of Twilight **already has her milk star.  Black doe with random white spots
 
-Her daughter, ** Deer Ridge Twilight Cascabella 1*M**, out of ** Tx Twincreeks Edge of Twilight **already has her milk star.  
+Pedigree Highlights
 
-Black doe with random white spots
+* Sire:  **Piddlin' Acres BD Ginseng +B  LA88 VVE**
+* Dam:  **MCH/GCH TX Twin Creeks MS Maid of Honor 2\*D 2\*M LA90 VEEE**
+* G.Sire:  **Dills XM Bo Didley**
+* G.Dam:  **MCH/CH SG Piddlin' Acres WB Paprika  LA91 EEEE**
+* G.Sire:  **MCH/CH TX Twin Creeks Meteor Shower LA84 +VV**
+* G.Dam:  **Dill Pickle TM Maid Marian 1\*D 1\*M LA86 VVVV**
+* G-G.Sire:  **ARMCH Goodwood Weisbaden ++*S E  AGS 90.0 Exc ** 
+* G-G.Dam:  **SG Promiseland CP Shaboom LA90 VEEE**
+* G-G.Sire:  **Dill's Oh Catamaran *S LA88 VVE**
+* G-G.Dam:  **MCH/SGCHGoodwood Good Day Sunshine LA90 EEEV @ 10yr**
+* G-G.Sire:
