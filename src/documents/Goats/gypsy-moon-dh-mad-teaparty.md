@@ -43,4 +43,4 @@ milkRecordComments: >-
 layout: goatpage.html
 collection: Goats
 ---
-
+Pale gold and white with small dark moonspots; V in udder texture
