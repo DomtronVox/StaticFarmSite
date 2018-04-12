@@ -1,9 +1,10 @@
 ---
 titlesEarned: ' '
 title: Sweet Garden FC Rosabella
-milkStar: 4*M  2014 Junior Grand Champion
+milkStar: 4*M
 nickname: Rosa
 gender: Senior Doe
+la_score: 2014 Junior Grand Champion
 birth_date: 2/22/14
 adga_num: D1675813
 reference: 'no'
