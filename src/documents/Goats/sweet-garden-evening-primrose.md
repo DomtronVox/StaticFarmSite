@@ -43,3 +43,5 @@ Pedigree Highlights
 * G-G-G.Sire: **DOE-SY-DOE'S PATTE'N  _2010 AGS NATIONAL  SHOW: Reserve Champion_**
 * G-G-G.Dam: **ARMCH/ CH SG Rosasharn's Unagi 4\*D 3\*M  HES 91.5 E_\    _**_... milk record 4‑10* 305 1430 7.5 107 4.0 57_
 *  G-G-G.Dam:_ _**GCH CHENANGO-HILLS BOUNCY TRIXIE 5*M  LA 89 V+EE_ _**_ ...milk record 3-11* 291 1220 4.9 60 4.4 54 10_
+* G-G-G.Dam: **ARMCH Fairlea Fleur 3\*D E92.2 AR1950 3\*M**_ **2005 Best Udder ANDDA National Specialty**_
+* _G-G-G.Dam:** **_**SG Rosasharn's Hazel Nut  4\*D 1\*M  AR1736 LA88 'VEEV' **_...milk record 4‑10 302 860 5.9 51 4.0 34_
