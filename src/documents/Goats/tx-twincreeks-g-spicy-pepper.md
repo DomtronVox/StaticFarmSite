@@ -5,6 +5,7 @@ milkStar: ' '
 nickname: Spicy
 gender: Senior Doe
 forSale: true
+la_score: Spicy is for Sale. Should be bred.
 birth_date: 12/20/10
 adga_num: D1549910
 reference: 'no'
@@ -33,7 +34,7 @@ milk_records: []
 layout: goatpage.html
 collection: Goats
 ---
-**Spicy has been with Graffiti for over 2 months so should be bred. Excellent chance of kids being polled.**  She kidded 2017 all by herself with absolutely no kidding problems. Her daughter, ** Deer Ridge Twilight Cascabella 1*M**, out of ** Tx Twincreeks Edge of Twilight **already has her milk star.  Black doe with random white spots
+**Spicy has been with Some Day Came MG FL Graffiti (polled) for over 2 months so should be bred. Excellent chance of kids being polled.**  She kidded 2017 all by herself with absolutely no kidding problems. Her daughter, ** Deer Ridge Twilight Cascabella 1*M**, out of ** Tx Twincreeks Edge of Twilight **already has her milk star.  Black doe with random white spots
 
 Pedigree Highlights
 
