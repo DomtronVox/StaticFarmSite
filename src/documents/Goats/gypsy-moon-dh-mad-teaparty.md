@@ -22,6 +22,12 @@ sire_damNameData:
   name: Rosasharn's UMT Tupelo Honey
   postfix: "4*D 4*M  LA91 EEEE 11x BOB      3x Best Doe  5x\_Best\_Udder    4x Sr Grand"
   titles: 'SGCH '
+dam_sireNameData:
+  name: 'Gypsy Moon Sudoku '
+  postfix: '*S +B'
+  titles: 'GCH '
+dam_damNameData:
+  name: Golden Brook Farm Dot to Dot
 milk_records: []
 layout: goatpage.html
 collection: Goats
