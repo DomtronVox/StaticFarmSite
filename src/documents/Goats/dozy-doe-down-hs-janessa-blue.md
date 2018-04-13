@@ -5,6 +5,7 @@ milkStar: ' '
 nickname: Janessa
 gender: Junior Doe
 birth_date: 3/21/17
+adga_num: D1930354
 blue_eyes: true
 reference: 'no'
 sireNameData:
