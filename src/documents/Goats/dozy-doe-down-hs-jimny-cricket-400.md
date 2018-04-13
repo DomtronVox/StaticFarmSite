@@ -1,6 +1,6 @@
 ---
 titlesEarned: ' '
-title: Dozy Doe Down HS Jimny Cricket -$400
+title: Dozy Doe Down HS Jimny Cricket -$400 (Proven)
 milkStar: ' '
 nickname: Cricket
 gender: Buck
