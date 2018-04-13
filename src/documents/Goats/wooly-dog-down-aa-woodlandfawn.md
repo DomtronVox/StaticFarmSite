@@ -25,4 +25,4 @@ milk_records: []
 layout: goatpage.html
 collection: Goats
 ---
-
+Chocolate doe with dark dorsal stripe
