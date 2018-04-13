@@ -31,6 +31,8 @@ dam_damNameData:
   name: Tiny Town Blue Suede Shoes
   postfix: 2*M  LA 86 V+E+
   titles: SG
+side_picture: /images/rosabella. 2014 adga nationals.jpg
+back_picture: /images/rosa at 2014 adga nationals_orig.png
 milk_records:
   - milkRecordDIM: '305'
     milkRecordFat: '5.7'
