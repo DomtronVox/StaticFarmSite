@@ -13,7 +13,7 @@ sireNameData:
   postfix: LA 89 VEV (blue eyes)
 damNameData:
   name: Doublegate Z Glamour
-  postfix: 3*M LA 85 VEV+ ...milk record 6-01 346 760 5.3 40 4.2 32
+  postfix: 3*M LA 85 VEV+ ...milk record 6-01 368 800 5.3 42 4.4 35
   titles: SG
 sire_sireNameData:
   name: DesertNanny BBB Blue Haboob
