@@ -1,6 +1,6 @@
 ---
 titlesEarned: ' '
-title: Tx Twincreeks G Spicy Pepper
+title: Tx Twincreeks G Spicy Pepper $400
 milkStar: ' '
 nickname: Spicy
 gender: Senior Doe
