@@ -40,7 +40,9 @@ Pedigree Highlights
 * G.Dam:** SG Doublegate SCG Fashionmodel 2*M LA90 EEEV  ELITE DOE **_...milk record 5-10 305 790 7.0 55 4.2 33_
 * G-G.Sire:  **ROSASHARN TL CAULDRON *S  ++B  LA90 VEE**
 * G-G.Dam:  **SG NC PROMISEDLAND SIA ZENA 6\*D 3\*M  LA89 VEEE  ELITE DOE  **_...milk record 5-05 305 1220 5.7 69 4.1 50_
+* G-G.Dam:** DesertNanny Icy BlueTailFly 3\*M 3\*D LA 88 VEEV**
+* G-G.Sire:  **DF Farms HD Barney Rubble +*S +B LA 87 VVV**
 * G-G.Dam:  **SGCH New Horizons Mariah 1*M LA87 VEE+**
-* G-G.Dam: 
-* G-G.Sire:
-* G-G.Dam:
+* G-G-G.Dam: **SG NC PROMISEDLAND BW ZIPPY  2*M LA90 VEEE **  _...milk record 3-08 305 1600 5.4 87 3.4 55_
+* G-G-G.Sire: **NC PROMISEDLAND SS SAM I AM ++ *B LA86 +EE**
+* G-G-G.Sire: **MCH SG Caesar's Villa CBS Cowpoke ++B   ++*S   E**
