@@ -25,7 +25,7 @@ dam_sireNameData:
   postfix: ' *B'
 dam_damNameData:
   name: Doublegate SCG Fashionmodel
-  postfix: 2*M LA90 EEEV ELITE DOE 5-10 305 790 7.0 55 4.2 33
+  postfix: 2*M LA90 EEEV ELITE DOE ...milk record 5-10 305 790 7.0 55 4.2 33
   titles: SG
 milk_records: []
 layout: goatpage.html
