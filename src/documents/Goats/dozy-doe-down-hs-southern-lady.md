@@ -39,7 +39,7 @@ Pedigree Highlights
 * G.Sire: ** DesertNanny BBB Blue Haboob \*S \*B**  (blue eyes)
 * G.Dam:** SG Doublegate SCG Fashionmodel 2*M LA90 EEEV  ELITE DOE **_...milk record 5-10 305 790 7.0 55 4.2 33_
 * G-G.Sire:  **ROSASHARN TL CAULDRON *S  ++B  LA90 VEE**
-* G-G.Dam:  **SG NC PROMISEDLAND SIA ZENA 6\*D 3\*M  LA89 VEEE  ELITE DOE ** _...milk record 5-05 305 1220 5.7 69 4.1 50 _
+* G-G.Dam:  **SG NC PROMISEDLAND SIA ZENA 6\*D 3\*M  LA89 VEEE  ELITE DOE  **_...milk record 5-05 305 1220 5.7 69 4.1 50_
 * G-G.Dam:  **SGCH New Horizons Mariah 1*M LA87 VEE+**
 * G-G.Dam: 
 * G-G.Sire:
