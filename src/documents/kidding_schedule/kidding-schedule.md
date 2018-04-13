@@ -15,6 +15,11 @@ kidding_table:
     geneticNotes: ' POLLED & BLUE EYES possible'
     notes_list: []
     sire: DesertNanny BH Hailstorm   LA 89 VEV   B
+  - confirmation: true
+    dam: 'Sweet Garden Rosabella  4*M '
+    dueDate: DUE 6/2-­6/17
+    geneticNotes: ' BLUE EYES possible'
+    sire: DesertNanny BH Hailstorm     LA 89 VEV   B
 collection: MainPage
 layout: kidding_schedule.html
 ---
