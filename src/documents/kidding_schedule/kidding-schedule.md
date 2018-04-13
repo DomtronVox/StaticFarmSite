@@ -18,12 +18,20 @@ kidding_table:
     dam: Rosebay Ridge EB Hanalei Blue "Dot"
     dueDate: DUE 5/22 - ­6/4
     geneticNotes: ''
-    notes_list: []
+    notes_list:
+      - note: "1\_doe\_retained "
+      - note: "does\_$400"
+      - note: "   bucks\_$400"
+      - note: "wethers\_$100"
     sire: DesertNanny BH Hailstorm
   - confirmation: true
     dam: Sweet Garden FC Rosabella
     dueDate: 6/2-­6/17
     geneticNotes: ''
+    notes_list:
+      - note: "does\_retained"
+      - note: " 1\_buck\_mb\_retained"
+      - note: "  bucks\_$500"
     sire: DesertNanny BH Hailstorm
 collection: MainPage
 layout: kidding_schedule.html
