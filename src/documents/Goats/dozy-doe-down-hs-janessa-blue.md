@@ -23,7 +23,8 @@ dam_sireNameData:
   postfix: ' +*B'
   titles: GCH
 dam_damNameData:
-  name: Gypsy Moon SD Irasbeth
+  name: 'Gypsy Moon SD Irasbeth '
+  postfix: (sister to CH GYPSY MOON SD ABSOLEM LA88 VEV )
 milk_records: []
 layout: goatpage.html
 collection: Goats
