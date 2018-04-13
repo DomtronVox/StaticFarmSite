@@ -7,6 +7,11 @@ kidding_table:
   - confirmation: true
     dam: Dozy Doe Down AA Flowing River
     dueDate: 5/2 - 6/4
+    geneticNotes: ' Dam’s line carries cou clair patterning'
+    notes_list:
+      - note: "does\_$400  "
+      - note: "bucks\_$350*"
+      - note: "wethers\_$100"
     sellingDam: true
     sire: Dozy Doe Down HS Jimny Cricket -$400 (Proven)
   - confirmation: true
