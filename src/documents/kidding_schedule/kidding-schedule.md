@@ -16,7 +16,7 @@ kidding_table:
     sire: Dozy Doe Down HS Jimny Cricket -$400 (Proven)
   - confirmation: true
     dam: Rosebay Ridge EB Hanalei Blue "Dot"
-    dueDate: DUE 5/22 - ­6/4
+    dueDate: 5/22 - ­6/4
     geneticNotes: ''
     notes_list:
       - note: "1\_doe\_retained "
@@ -41,6 +41,23 @@ kidding_table:
       - note: " 1\_buck\_mb\_retained"
       - note: "    bucks\_$500 "
     sire: DesertNanny BH Hailstorm
+  - confirmation: true
+    dam: 'Dozy Doe Down GL Fantasy Blue  '
+    dueDate: 6/2 - 6/5
+    notes_list:
+      - note: "1\_doe\_retained"
+      - note: " does\_$400"
+      - note: "   bucks\_$350"
+      - note: " wethers\_$100"
+    sire: DesertNanny BH Hailstorm
+  - dam: Dozy Doe Down AA FeatherBonnet
+    dueDate: 6/2 - 6/17
+    notes_list:
+      - note: "does\_$400"
+      - note: "bucks\_$350"
+      - note: " wethers\_$100"
+    sire: DesertNanny BH Hailstorm
+  - {}
 collection: MainPage
 layout: kidding_schedule.html
 ---
