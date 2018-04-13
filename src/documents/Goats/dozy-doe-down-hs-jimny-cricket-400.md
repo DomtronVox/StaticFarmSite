@@ -27,7 +27,7 @@ milk_records: []
 layout: goatpage.html
 collection: Goats
 ---
-Gold and white buck
+Gold and white PROVEN buck
 
 Pedigree Highlights
 
