@@ -9,6 +9,12 @@ kidding_table:
     dueDate: 5/2 - 6/4
     sellingDam: true
     sire: 'Dozy Doe Down HS Jimny  Cricket '
+  - confirmation: true
+    dam: Rosebay Ridge EB  Hanalei Blue    *  P  B  (FF)
+    dueDate: DUE 5/22 - ­6/4
+    geneticNotes: ' POLLED & BLUE EYES possible'
+    notes_list: []
+    sire: DesertNanny BH Hailstorm   LA 89 VEV   B
 collection: MainPage
 layout: kidding_schedule.html
 ---
