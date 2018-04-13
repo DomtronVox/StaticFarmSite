@@ -5,21 +5,21 @@ navPriority: '20'
 tableTitle: 2018 Kidding Schedule
 kidding_table:
   - confirmation: true
-    dam: Dozy Doe Down AA  Flowing River     *
+    dam: Dozy Doe Down AA Flowing River
     dueDate: 5/2 - 6/4
     sellingDam: true
-    sire: 'Dozy Doe Down HS Jimny  Cricket '
+    sire: Dozy Doe Down HS Jimny Cricket -$400 (Proven)
   - confirmation: true
-    dam: Rosebay Ridge EB  Hanalei Blue    *  P  B  (FF)
+    dam: Rosebay Ridge EB Hanalei Blue "Dot"
     dueDate: DUE 5/22 - ­6/4
-    geneticNotes: ' POLLED & BLUE EYES possible'
+    geneticNotes: ''
     notes_list: []
-    sire: DesertNanny BH Hailstorm   LA 89 VEV   B
+    sire: DesertNanny BH Hailstorm
   - confirmation: true
-    dam: 'Sweet Garden Rosabella  4*M '
-    dueDate: DUE 6/2-­6/17
-    geneticNotes: ' BLUE EYES possible'
-    sire: DesertNanny BH Hailstorm     LA 89 VEV   B
+    dam: Sweet Garden FC Rosabella
+    dueDate: 6/2-­6/17
+    geneticNotes: ''
+    sire: DesertNanny BH Hailstorm
 collection: MainPage
 layout: kidding_schedule.html
 ---
