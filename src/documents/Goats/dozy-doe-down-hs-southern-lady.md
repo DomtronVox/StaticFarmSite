@@ -20,11 +20,11 @@ sire_sireNameData:
 sire_damNameData:
   name: 'Desert Nanny BR Blackbottom Pie '
 dam_sireNameData:
-  name: NC PROMISEDLAND RC ZORRO *B
+  name: NC PROMISEDLAND RC ZORRO
   postfix: ' *B'
 dam_damNameData:
   name: Doublegate SCG Fashionmodel
-  postfix: " 2*M    LA90\_EEEV   ELITE DOE"
+  postfix: " 2*M    LA90\_EEEV   ELITE DOE ...milk record 5-10 305 790 7.0 55 4.2 33"
   titles: SG
 milk_records: []
 layout: goatpage.html
