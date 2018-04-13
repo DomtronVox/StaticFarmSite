@@ -20,6 +20,7 @@ sire_sireNameData:
   postfix: '*S *B (blue eyes)'
 sire_damNameData:
   name: Desert Nanny BR Blackbottom Pie
+  postfix: LA 86
 dam_sireNameData:
   name: NC PROMISEDLAND RC ZORRO
   postfix: ' *B'
