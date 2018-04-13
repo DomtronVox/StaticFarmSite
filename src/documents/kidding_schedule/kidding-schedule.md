@@ -33,6 +33,14 @@ kidding_table:
       - note: " 1\_buck\_mb\_retained"
       - note: "  bucks\_$500"
     sire: DesertNanny BH Hailstorm
+  - confirmation: true
+    dam: 'Doublegate Z Glamour '
+    dueDate: 6/2 -/6/17
+    notes_list:
+      - note: "does\_retained"
+      - note: " 1\_buck\_mb\_retained"
+      - note: "    bucks\_$500 "
+    sire: DesertNanny BH Hailstorm
 collection: MainPage
 layout: kidding_schedule.html
 ---
