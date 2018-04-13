@@ -4,23 +4,11 @@ navTitle: Kidding Schedule
 navPriority: '20'
 tableTitle: 2018 Kidding Schedule
 kidding_table:
-  - dam: Dozy Doe Down GL Fantasy Blue
-    dueDate: 04-12
-    geneticNotes: hello
-    notes_list:
-      - note: test
-      - note: yay
-    showLAScore: true
-    sire: Dozy Doe Down EB Hidden Tresor
   - confirmation: true
-    dam: Doublegate Z Glamour
-    dueDate: 6/1
-    geneticNotes: ''
-    notes_list:
-      - note: does retained
-      - note: 1 buck mb retained
-      - note: bucks $500
-    sire: 'DesertNanny BH Hailstorm '
+    dam: Dozy Doe Down AA  Flowing River     *
+    dueDate: 5/2 - 6/4
+    sellingDam: true
+    sire: 'Dozy Doe Down HS Jimny  Cricket '
 collection: MainPage
 layout: kidding_schedule.html
 ---
