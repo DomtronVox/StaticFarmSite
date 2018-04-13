@@ -14,6 +14,13 @@ damNameData:
   postfix: "LA \_88 VEE+"
 sire_sireNameData:
   name: Enchanted Hill Toby
+sire_damNameData:
+  name: Copper Ridge Victoria
+dam_sireNameData:
+  name: Wooly Dog Down Yorkie
+dam_damNameData:
+  name: Wooly Dog Down Xaquelena
+side_picture: /images/fawn side view 13240723_10156855249125487_371690373535664023_n.jpg
 milk_records: []
 layout: goatpage.html
 collection: Goats
