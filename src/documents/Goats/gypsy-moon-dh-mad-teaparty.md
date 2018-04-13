@@ -14,8 +14,8 @@ sireNameData:
   postfix: +*B
   titles: GCH
 damNameData:
-  name: Gypsy Moon SD Irasbeth
-  postfix: (sister to CH GYPSY MOON SD ABSOLEM LA88 VEV )
+  name: 'Gypsy Moon SD Irasbeth (sister to '
+  postfix: CH GYPSY MOON SD ABSOLEM LA88 VEV )
 sire_sireNameData:
   name: Algedi Farm Drops of Jupiter
   postfix: 'S ++*B LA91 EEE  2015 ADGA Nationals: Premier Sire & Senior Get-of-Sire '
