@@ -5,6 +5,7 @@ milkStar: ' '
 nickname: Lady
 gender: Junior Doe
 birth_date: 3/15/17
+adga_num: 'D1930353 '
 blue_eyes: true
 reference: 'no'
 sireNameData:
