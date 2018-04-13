@@ -5,6 +5,7 @@ milkStar: ' '
 nickname: Jackie
 gender: Junior Doe
 birth_date: 3/15/17
+adga_num: (waiting on ADGA)
 reference: 'no'
 sireNameData:
   name: 'DesertNanny BH Hailstorm '
