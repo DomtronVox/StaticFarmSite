@@ -68,4 +68,3 @@ Pedigree Highlights
 * G-G.Dam:  **SGCH Rosasharn's TL Zenith  3\*D 3\*M  LA90 EEVE**
 * G-G.Dam: **ARMCH SG Rosasharn's BuckWheat Honey 3\*D 3\*M   LA91 EEEE 7-00* 305 1500 6.7 101 3.8 57 **
 * G-G.Sire:  **SGCH   Rosasharn's Under My Thumb +\*S ++\*B**
-* **G-G.**
