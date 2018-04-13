@@ -57,7 +57,12 @@ kidding_table:
       - note: "bucks\_$350"
       - note: " wethers\_$100"
     sire: DesertNanny BH Hailstorm
-  - {}
+  - dam: Sycamore SS MG Lark Blue   (ADGA)
+    dueDate: 6/2 - 6/5
+    notes_list:
+      - note: "does\_$400"
+      - note: "   bucks\_$400"
+    sire: DesertNanny BH Hailstorm
 collection: MainPage
 layout: kidding_schedule.html
 ---
