@@ -62,7 +62,7 @@ Pale gold and white with small dark moonspots
 Pedigree Highlights
 
 * Sire:  **GCH Algedi Farm DJ Drops of Honey +*B**
-* G.Sire:  **GCH Algedi Farm Drops of Jupiter S ++*B LA91 EEE   _2015 ADGA Nationals: Premier Sire & Senior Get-of-Sire _**
+* G.Sire:  **GCH Algedi Farm Drops of Jupiter S ++*B LA91 EEE  _2015 ADGA Nationals: Premier Sire & Senior Get-of-Sire_**
 * G.Dam: **SGCH Rosasharn's UMT Tupelo Honey  4\*D 4\*M  LA91 EEEE  11x BOB      3x Best Doe  5x Best Udder    4x Sr Grand**
 * G.Sire:  **GCH Gypsy Moon Sudoku *S +B**
 * G-G.Dam:  **SGCH Rosasharn's TL Zenith  3\*D 3\*M  LA90 EEVE**
