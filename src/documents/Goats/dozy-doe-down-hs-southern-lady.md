@@ -36,7 +36,7 @@ Pedigree Highlights
 * Sire:  **DesertNanny BH Hailstorm LA 89 VEV**
 * Dam:  **SG Doublegate Z Glamour 3*M  LA 85 VEV+ **_ ...milk record 6-01 368 800 5.3 42 4.4 35_  
 * G.Sire: ** DesertNanny BBB Blue Haboob \*S \*B**  (blue eyes)
-* G.Dam:** SG Doublegate SCG Fashionmodel    2*M    LA90 EEEV   ELITE DOE **_...milk record 5-10 305 790 7.0 55 4.2 33 _
+* G.Dam:** SG Doublegate SCG Fashionmodel 2*M LA90 EEEV  ELITE DOE **_...milk record 5-10 305 790 7.0 55 4.2 33 _
 * G-G.Sire:
 * G-G.Dam:
 *
