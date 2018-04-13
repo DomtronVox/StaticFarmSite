@@ -56,6 +56,7 @@ kidding_table:
       - note: "does\_$400"
       - note: "bucks\_$350"
       - note: " wethers\_$100"
+    sellingDam: true
     sire: DesertNanny BH Hailstorm
   - dam: Sycamore SS MG Lark Blue   (ADGA)
     dueDate: 6/2 - 6/5
@@ -63,6 +64,34 @@ kidding_table:
       - note: "does\_$400"
       - note: "   bucks\_$400"
     sire: DesertNanny BH Hailstorm
+  - confirmation: true
+    dam: Dozy Doe Down HS Southern Lady
+    dueDate: 6/18 - 7/1
+    notes_list:
+      - note: "does\_$400"
+      - note: "   wethers\_$100"
+    sire: Dozy Doe Down  Hidden Tresor
+  - confirmation: true
+    dam: Dozy Doe Down HS Janessa Blue
+    dueDate: 6/18 - 7/1
+    notes_list:
+      - note: "does\_$400"
+      - note: "  1\_buck\_mb\_retained"
+      - note: " wethers\_$100"
+    sire: Dozy Doe Down  Hidden Tresor
+  - confirmation: true
+    dam: Dozy Doe Down HS Jackie Girl
+    dueDate: 6/18 - 7/1
+    notes_list:
+      - note: "does\_$400"
+      - note: "wethers\_$100"
+    sire: Dozy Doe Down  Hidden Tresor
+  - dam: Dozy Doe Down HS Blue Jasmine
+    dueDate: 6/18 - 7/1
+    notes_list:
+      - note: "does\_$400"
+      - note: "wethers\_$100"
+    sire: Dozy Doe Down  Hidden Tresor
 collection: MainPage
 layout: kidding_schedule.html
 ---
