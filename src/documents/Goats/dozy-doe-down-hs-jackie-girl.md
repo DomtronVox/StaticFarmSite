@@ -18,6 +18,11 @@ sire_sireNameData:
 sire_damNameData:
   name: Desert Nanny BR Blackbottom Pie
   postfix: LA 86
+dam_sireNameData:
+  name: Alpenglade Apache
+dam_damNameData:
+  name: Wooly Dog Down Ava
+  postfix: "LA \_88 VEE+"
 milk_records: []
 layout: goatpage.html
 collection: Goats
@@ -32,6 +37,4 @@ Pedigree Highlights
 * G-G.Dam: **DesertNanny Icy BlueTailFly 3\*M 3\*D LA 88 VEEV**
 * G-G.Sire: **DF Farms HD Barney Rubble +*S +B LA 87 VVV**
 * G-G.Sire: **Wooly Dog Down Yorkie (**brother to** CH WDD Zambra)**
-* G-G-G.Dam: 
 * G-G-G.Sire:** TX Twincreeks WDF Texas 2 Step +\*B \*S LA 88VEE 1xGCH & Best Buck ADGA Show 1xRGCH** (polled)
-* G-G-G.Sire: MCH SG Caesar's Villa CBS Cowpoke ++B ++*S E
