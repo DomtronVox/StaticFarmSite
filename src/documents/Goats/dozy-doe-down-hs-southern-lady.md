@@ -30,3 +30,13 @@ layout: goatpage.html
 collection: Goats
 ---
 Silver gray and white with black legs and blue eyes
+
+Pedigree Highlights
+
+* Sire:  **DesertNanny BH Hailstorm LA 89 VEV**
+* Dam:  **SG Doublegate Z Glamour 3*M  LA 85 VEV+ **_ ...milk record 6-01 368 800 5.3 42 4.4 35_  
+* G.Sire: ** DesertNanny BBB Blue Haboob \*S \*B**  (blue eyes)
+* G.Dam: SG Doublegate SCG Fashionmodel    2*M    LA90 EEEV   ELITE DOE
+* G-G.Sire:
+* G-G.Dam:
+*
