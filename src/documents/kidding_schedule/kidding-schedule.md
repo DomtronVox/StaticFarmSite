@@ -154,7 +154,7 @@ kidding_table:
     sire: Dozy Doe Down  Hidden Tresor
   - dam: Tx Twincreeks G Spicy Pepper
     dueDate: after 7/19
-    geneticNotes: ' Spicy is for sale now for $400. however if she doesnt sell by end of may I will be keeping her until she kids. '
+    geneticNotes: ' Spicy is for sale now for $400. '
     sellingDam: true
     sire: Some Day Came MG FL Graffiti
 collection: MainPage
