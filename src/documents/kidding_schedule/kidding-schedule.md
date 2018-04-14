@@ -90,12 +90,45 @@ kidding_table:
       - note: "does\_$400"
       - note: "wethers\_$100"
     sire: Dozy Doe Down  Hidden Tresor
-  - dam: Dozy Doe Down HS Blue Jasmine
+  - confirmation: true
+    dam: Dozy Doe Down HS Blue Jasmine
     dueDate: 6/18 - 7/1
     notes_list:
       - note: "does\_$400"
       - note: "wethers\_$100"
     sire: Dozy Doe Down  Hidden Tresor
+  - confirmation: true
+    dam: Wooly Dog Down AA WoodlandFawn
+    dueDate: 6/18 - 7/1
+    notes_list:
+      - note: "1\_doe\_retained"
+      - note: "does\_$400"
+      - note: "bucks\_$400 "
+    sire: Some Day Came MG FL Graffiti
+  - confirmation: true
+    dam: Sinai Thunder O Stella
+    dueDate: 6/18 - 7/1
+    notes_list:
+      - note: "does\_retained"
+      - note: "1\_buck\_mb\_retained"
+      - note: "bucks\_$400"
+    sire: Some Day Came MG FL Graffiti
+  - confirmation: true
+    dam: Dozy Doe Down EB Hauntd Melody
+    dueDate: 6/20- 7/8
+    notes_list:
+      - note: "does\_retained"
+      - note: "bucks\_$400"
+    sire: Some Day Came MG FL Graffiti
+  - confirmation: true
+    dam: Sweet Garden Evening Primrose
+    dueDate: 6/18 - 7/1
+    geneticNotes: ''
+    notes_list:
+      - note: "does\_retained"
+      - note: " 1\_buck\_mb\_retained"
+      - note: "bucks\_$500"
+    sire: Some Day Came MG FL Graffiti
 collection: MainPage
 layout: kidding_schedule.html
 ---
