@@ -23,6 +23,8 @@ kidding_table:
       - note: "does\_$400"
       - note: "   bucks\_$400"
       - note: "wethers\_$100"
+    showDamLAScore: false
+    showSireLAScore: true
     sire: DesertNanny BH Hailstorm
   - confirmation: true
     dam: Sweet Garden FC Rosabella
@@ -40,7 +42,7 @@ kidding_table:
       - note: "does\_retained"
       - note: " 1\_buck\_mb\_retained"
       - note: "    bucks\_$500 "
-    showLAScore: true
+    showDamLAScore: true
     sire: DesertNanny BH Hailstorm
   - confirmation: true
     dam: 'Dozy Doe Down GL Fantasy Blue  '
@@ -66,7 +68,6 @@ kidding_table:
     notes_list:
       - note: "does\_$400"
       - note: "   bucks\_$400"
-    showLAScore: true
     sire: DesertNanny BH Hailstorm
   - confirmation: true
     dam: Dozy Doe Down HS Southern Lady
@@ -136,7 +137,6 @@ kidding_table:
       - note: "does\_retained"
       - note: "1\_buck\_mb\_retained"
       - note: "bucks\_$500"
-    showLAScore: true
     sire: Dozy Doe Down  Hidden Tresor
   - dam: 'Dozy Doe Down SH Bella '
     dueDate: 'after 7/19 '
