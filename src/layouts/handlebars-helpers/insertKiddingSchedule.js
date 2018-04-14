@@ -51,10 +51,13 @@ module.exports = function(data_rows, tableTitle, Goats) {
         return_html += '    <td>'
         return_html += '    <span '+(row.sellingDam ? 'style="color:orange;"' : '')+'>'
              +formatName(dam_data)
-             +( (row.showLAScore && dam_data.la_score) ? ' <span class="pedigreeTitle">'+dam_data.la_score+'</span>' : '')
+             +( (row.showDamLAScore && dam_data.la_score) ? ' <span class="pedigreeTitle">'+dam_data.la_score+'</span>' : '')
              +'</span><br /><img class="smallImg" src="'+dam_data.side_picture+'">'
              +'</img><br /><a href="/'+dam_data.path+'"> Doe\'s Page.</a></td>'
-        return_html += '    <td><span>'+formatName(sire_data)+'</span><br /><img class="smallImg" src="'+sire_data.side_picture+'"></img><br /><a href="/'+sire_data.path+'">Buck\'s Page.</a></td>'
+        return_html += '    <td><span>'+formatName(sire_data)
+                    +  ( (row.showSireLAScore && sire_data.la_score) ? ' <span class="pedigreeTitle">'+sire_data.la_score+'</span>' : '')
+                    +  '</span><br /><img class="smallImg" src="'+sire_data.side_picture+'"></img>'
+                    +  '<br /><a href="/'+sire_data.path+'">Buck\'s Page.</a></td>'
 
         //do the date/notes column
         return_html += '    <td><span style="color:red;font-size:20px;"> Due Date '+row.dueDate+'</span> <br />'
