@@ -29,6 +29,7 @@ dam_sireNameData:
   postfix: ' *B '
 dam_damNameData:
   name: ' LITTLE TOTS ESTATE FOENICULUM'
+side_picture: /images/stella.jpg
 milk_records: []
 layout: goatpage.html
 collection: Goats
