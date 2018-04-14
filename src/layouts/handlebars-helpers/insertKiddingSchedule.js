@@ -10,11 +10,19 @@ function addCell(variable) {
     }
 }
 
-function formatName(goat_data) {
+function formatName(goat_data, row) {
     var name_html = ""
     if (goat_data.titlesEarned) { name_html+= ' <span class="pedigreeTitle">'+goat_data.titlesEarned+'</span> ' }
     name_html += goat_data.title
     if (goat_data.milkStar) { name_html += ' <span class="pedigreeTitle">'+goat_data.milkStar+'</span> '}
+    
+    //show LA score if enabled
+    if (goat_data.la_score) {
+        if ( (goat_data.gender == "Buck" && row.showSireLAScore) ||
+             (goat_data.gender != "Buck" && row.showDamLAScore) ) {
+            name_html += ' <span class="pedigreeTitle">'+goat_data.la_score+'</span>'
+        }
+    }
 
     if (goat_data.blue_eyes) { name_html += ' <span style="color:#3f3fff;">B</span> '}
     if (goat_data.polled) { name_html += ' <span style="color:#00a900;">P</span> '}
@@ -50,12 +58,10 @@ module.exports = function(data_rows, tableTitle, Goats) {
         //put in parent's names 
         return_html += '    <td>'
         return_html += '    <span '+(row.sellingDam ? 'style="color:orange;"' : '')+'>'
-             +formatName(dam_data)
-             +( (row.showDamLAScore && dam_data.la_score) ? ' <span class="pedigreeTitle">'+dam_data.la_score+'</span>' : '')
+             +formatName(dam_data, row)
              +'</span><br /><img class="smallImg" src="'+dam_data.side_picture+'">'
              +'</img><br /><a href="/'+dam_data.path+'"> Doe\'s Page.</a></td>'
-        return_html += '    <td><span>'+formatName(sire_data)
-                    +  ( (row.showSireLAScore && sire_data.la_score) ? ' <span class="pedigreeTitle">'+sire_data.la_score+'</span>' : '')
+        return_html += '    <td><span>'+formatName(sire_data, row)
                     +  '</span><br /><img class="smallImg" src="'+sire_data.side_picture+'"></img>'
                     +  '<br /><a href="/'+sire_data.path+'">Buck\'s Page.</a></td>'
 
