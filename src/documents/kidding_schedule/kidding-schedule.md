@@ -23,8 +23,6 @@ kidding_table:
       - note: "does\_$400"
       - note: "   bucks\_$400"
       - note: "wethers\_$100"
-    showDamLAScore: false
-    showSireLAScore: true
     sire: DesertNanny BH Hailstorm
   - confirmation: true
     dam: Sweet Garden FC Rosabella
@@ -42,7 +40,6 @@ kidding_table:
       - note: "does\_retained"
       - note: " 1\_buck\_mb\_retained"
       - note: "    bucks\_$500 "
-    showDamLAScore: true
     sire: DesertNanny BH Hailstorm
   - confirmation: true
     dam: 'Dozy Doe Down GL Fantasy Blue  '
@@ -124,11 +121,14 @@ kidding_table:
   - confirmation: true
     dam: Sweet Garden Evening Primrose
     dueDate: 6/18 - 7/1
-    geneticNotes: ''
+    geneticNotes: >-
+      Grandkids of SGCH Fairlea Elise 2*M LA 90 VEEE ELITE DOE: 2016 ADGA
+      Nationals Reserve Best Udder: 2016 Total Performer: 2017 ADGA Nationals
+      Total Performer; ...milk record 3-09 305 1050 6.4 67 4.6 48 90 40
     notes_list:
       - note: "does\_retained"
       - note: " 1\_buck\_mb\_retained"
-      - note: "bucks\_$500"
+      - note: "bucks\_$700"
     sire: Some Day Came MG FL Graffiti
   - dam: Gypsy Moon DH Mad TeaParty
     dueDate: after 7/19

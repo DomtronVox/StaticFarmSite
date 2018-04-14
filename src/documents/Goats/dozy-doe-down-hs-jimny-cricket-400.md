@@ -23,6 +23,8 @@ dam_sireNameData:
 dam_damNameData:
   name: Wooly Dog Down Ava
   postfix: LA  88 VEE+
+side_picture: /images/jc-side-view-1.jpg
+back_picture: /images/jc-facial-view.jpg
 milk_records: []
 layout: goatpage.html
 collection: Goats
