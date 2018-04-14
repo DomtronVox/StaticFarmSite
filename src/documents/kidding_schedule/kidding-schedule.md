@@ -23,7 +23,7 @@ kidding_table:
       - note: "does\_$400"
       - note: "   bucks\_$400"
       - note: "wethers\_$100"
-    sire: DesertNanny BH Hailstorm
+    sire: DesertNanny  BH   Hailstorm
   - confirmation: true
     dam: Sweet Garden FC Rosabella
     dueDate: 6/2-­6/17
@@ -32,7 +32,7 @@ kidding_table:
       - note: "does\_retained"
       - note: " 1\_buck\_mb\_retained"
       - note: "  bucks\_$500"
-    sire: DesertNanny BH Hailstorm
+    sire: DesertNanny  BH   Hailstorm
   - confirmation: true
     dam: 'Doublegate Z Glamour '
     dueDate: 6/2 -/6/17
@@ -42,7 +42,7 @@ kidding_table:
       - note: "    bucks\_$500 "
     showDamLAScore: true
     showSireLAScore: true
-    sire: DesertNanny BH Hailstorm
+    sire: DesertNanny  BH   Hailstorm
   - confirmation: true
     dam: 'Dozy Doe Down GL Fantasy Blue  '
     dueDate: 6/2 - 6/5
@@ -51,7 +51,7 @@ kidding_table:
       - note: " does\_$400"
       - note: "   bucks\_$350"
       - note: " wethers\_$100"
-    sire: DesertNanny BH Hailstorm
+    sire: DesertNanny  BH   Hailstorm
   - confirmation: true
     dam: Dozy Doe Down AA FeatherBonnet
     dueDate: 6/2 - 6/17
@@ -60,7 +60,7 @@ kidding_table:
       - note: "bucks\_$350"
       - note: " wethers\_$100"
     sellingDam: true
-    sire: DesertNanny BH Hailstorm
+    sire: DesertNanny  BH   Hailstorm
   - confirmation: true
     dam: Sycamore SS MG Lark Blue   (ADGA)
     dueDate: 6/2 - 6/5
@@ -68,7 +68,7 @@ kidding_table:
     notes_list:
       - note: "does\_$400"
       - note: "   bucks\_$400"
-    sire: DesertNanny BH Hailstorm
+    sire: DesertNanny  BH   Hailstorm
   - confirmation: true
     dam: Dozy Doe Down HS Southern Lady
     dueDate: 6/18 - 7/1
