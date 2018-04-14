@@ -144,7 +144,14 @@ kidding_table:
       - note: "does\_retained"
       - note: "bucks\_$400"
     sire: Some Day Came MG FL Graffiti
-  - {}
+  - dam: Sycamore SS Mel's SweetHeart (ADGA)
+    dueDate: after 7/19
+    notes_list:
+      - note: "1\_doe\_retained"
+      - note: "does\_$400"
+      - note: "bucks\_$400"
+      - note: "wethers\_$100"
+    sire: Dozy Doe Down  Hidden Tresor
 collection: MainPage
 layout: kidding_schedule.html
 ---
