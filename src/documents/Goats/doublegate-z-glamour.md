@@ -4,6 +4,7 @@ title: 'Doublegate Z Glamour '
 milkStar: 3*M
 nickname: Glamour
 gender: Senior Doe
+la_score: 85 VEV
 birth_date: 2/12/11
 adga_num: D1585254
 reference: 'no'
