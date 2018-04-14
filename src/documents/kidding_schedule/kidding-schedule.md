@@ -64,7 +64,7 @@ kidding_table:
   - confirmation: true
     dam: Sycamore SS MG Lark Blue   (ADGA)
     dueDate: 6/2 - 6/5
-    geneticNotes: both parents black and white. kids should produce black/white kids
+    geneticNotes: both parents black and white; should produce black/white kids
     notes_list:
       - note: "does\_$400"
       - note: "   bucks\_$400"
