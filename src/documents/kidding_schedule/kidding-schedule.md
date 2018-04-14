@@ -129,6 +129,22 @@ kidding_table:
       - note: " 1\_buck\_mb\_retained"
       - note: "bucks\_$500"
     sire: Some Day Came MG FL Graffiti
+  - dam: Gypsy Moon DH Mad TeaParty
+    dueDate: after 7/19
+    geneticNotes: " line\_bred on Drops of Honey"
+    notes_list:
+      - note: "does\_retained"
+      - note: "1\_buck\_mb\_retained"
+      - note: "bucks\_$500"
+    showLAScore: true
+    sire: Dozy Doe Down  Hidden Tresor
+  - dam: 'Dozy Doe Down SH Bella '
+    dueDate: 'after 7/19 '
+    notes_list:
+      - note: "does\_retained"
+      - note: "bucks\_$400"
+    sire: Some Day Came MG FL Graffiti
+  - {}
 collection: MainPage
 layout: kidding_schedule.html
 ---
