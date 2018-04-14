@@ -40,6 +40,7 @@ kidding_table:
       - note: "does\_retained"
       - note: " 1\_buck\_mb\_retained"
       - note: "    bucks\_$500 "
+    showLAScore: true
     sire: DesertNanny BH Hailstorm
   - confirmation: true
     dam: 'Dozy Doe Down GL Fantasy Blue  '
@@ -50,7 +51,8 @@ kidding_table:
       - note: "   bucks\_$350"
       - note: " wethers\_$100"
     sire: DesertNanny BH Hailstorm
-  - dam: Dozy Doe Down AA FeatherBonnet
+  - confirmation: true
+    dam: Dozy Doe Down AA FeatherBonnet
     dueDate: 6/2 - 6/17
     notes_list:
       - note: "does\_$400"
@@ -58,11 +60,13 @@ kidding_table:
       - note: " wethers\_$100"
     sellingDam: true
     sire: DesertNanny BH Hailstorm
-  - dam: Sycamore SS MG Lark Blue   (ADGA)
+  - confirmation: true
+    dam: Sycamore SS MG Lark Blue   (ADGA)
     dueDate: 6/2 - 6/5
     notes_list:
       - note: "does\_$400"
       - note: "   bucks\_$400"
+    showLAScore: true
     sire: DesertNanny BH Hailstorm
   - confirmation: true
     dam: Dozy Doe Down HS Southern Lady
