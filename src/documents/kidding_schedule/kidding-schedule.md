@@ -17,7 +17,7 @@ kidding_table:
   - confirmation: true
     dam: Rosebay Ridge EB Hanalei Blue "Dot"
     dueDate: 5/22 - ­6/4
-    geneticNotes: ''
+    geneticNotes: both parents black and white. should have black/white kids.
     notes_list:
       - note: "1\_doe\_retained "
       - note: "does\_$400"
@@ -62,6 +62,7 @@ kidding_table:
   - confirmation: true
     dam: Sycamore SS MG Lark Blue   (ADGA)
     dueDate: 6/2 - 6/5
+    geneticNotes: both parents black and white. kids should produce black/white kids
     notes_list:
       - note: "does\_$400"
       - note: "   bucks\_$400"
