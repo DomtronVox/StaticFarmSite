@@ -26,6 +26,7 @@ dam_sireNameData:
 dam_damNameData:
   name: MCF RW Charmin
   postfix: '*D 2*M   LA 83 V+V+ AR AGS  88.3  1X GCH, 1X RGCH'
+side_picture: /images/heartcropped.jpg
 milk_records: []
 layout: goatpage.html
 collection: Goats
