@@ -24,6 +24,7 @@ dam_sireNameData:
   titles: SGCH
 dam_damNameData:
   name: Gypsy Moon DH Bronwyn
+side_picture: /images/melody-cropped.jpg
 milk_records: []
 layout: goatpage.html
 collection: Goats
