@@ -140,6 +140,8 @@ kidding_table:
       - note: "does\_retained"
       - note: "1\_buck\_mb\_retained"
       - note: "bucks\_$500"
+    showDamLAScore: true
+    showSireLAScore: true
     sire: Dozy Doe Down  Hidden Tresor
   - dam: 'Dozy Doe Down SH Bella '
     dueDate: 'after 7/19 '
