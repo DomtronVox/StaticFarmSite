@@ -40,6 +40,8 @@ kidding_table:
       - note: "does\_retained"
       - note: " 1\_buck\_mb\_retained"
       - note: "    bucks\_$500 "
+    showDamLAScore: true
+    showSireLAScore: true
     sire: DesertNanny BH Hailstorm
   - confirmation: true
     dam: 'Dozy Doe Down GL Fantasy Blue  '
@@ -153,7 +155,7 @@ kidding_table:
       - note: "bucks\_$400"
       - note: "wethers\_$100"
     sire: Dozy Doe Down  Hidden Tresor
-  - dam: Tx Twincreeks G Spicy Pepper
+  - dam: Tx Twincreeks G Spicy Pepper $400
     dueDate: after 7/19
     geneticNotes: ' Spicy is for sale now for $400. '
     sellingDam: true
