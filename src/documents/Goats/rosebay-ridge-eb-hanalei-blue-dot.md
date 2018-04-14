@@ -28,6 +28,7 @@ dam_sireNameData:
 dam_damNameData:
   name: 'SUSURRARE SALIX L EVADNE '
   postfix: (polled)
+side_picture: /images/dot-best-pic.jpg
 milk_records: []
 layout: goatpage.html
 collection: Goats
