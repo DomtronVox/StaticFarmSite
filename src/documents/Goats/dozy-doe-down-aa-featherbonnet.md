@@ -28,6 +28,12 @@ dam_damNameData:
 pedigree_picture: ''
 side_picture: /images/feather-side-view-13239052_10156855250395487_4965230174718124050_n.jpg
 milk_records: []
+kiddingHistory:
+  - bredDate: '2017'
+    breeder: Some Day Came MG FL Graffiti P
+    buckCount: '1'
+    comments: FF
+    doeCount: '0'
 layout: goatpage.html
 collection: Goats
 ---
