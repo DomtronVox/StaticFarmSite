@@ -55,6 +55,20 @@ milkRecordComments: >-
   *You never know what will come when planning milk tests… this was the year we
   had a death in the family and family sickness.. With all the irregularities in
   her schedule,  I am proud that she did this well.
+kiddingHistory:
+  - bredDate: '2017'
+    breeder: DesertNanny BH Hailstorm (Blue eyes)
+    comments: a "mini me" with blue eyes
+    doeCount: '1'
+  - bredDate: '2016'
+    breeder: Wooly Dog Down Etienne (polled; blue eyes)
+    buckCount: '2'
+    comments: 2 polled
+    doeCount: '1'
+  - bredDate: '2015'
+    breeder: Wooly Dog Down Etienne (polled; Blue eyes)
+    comments: FF
+    doeCount: '1'
 layout: goatpage.html
 collection: Goats
 ---
