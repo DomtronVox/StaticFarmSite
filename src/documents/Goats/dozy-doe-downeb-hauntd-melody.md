@@ -26,6 +26,12 @@ dam_damNameData:
   name: Gypsy Moon DH Bronwyn
 side_picture: /images/melody-cropped.jpg
 milk_records: []
+kiddingHistory:
+  - bredDate: '2017'
+    breeder: Some Day Came MG FL Graffiti (polled)
+    buckCount: '1'
+    comments: kept doe; sold wether
+    doeCount: '1'
 layout: goatpage.html
 collection: Goats
 ---
