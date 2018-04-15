@@ -66,7 +66,7 @@ module.exports = function(data_rows, tableTitle, Goats) {
                     +  '<br /><a href="/'+sire_data.path+'">Buck\'s Page.</a></td>'
 
         //do the date/notes column
-        return_html += '    <td><span style="color:red;font-size:20px;"> Due Date '+row.dueDate+'</span> <br />'
+        return_html += '    <td><span style="color:red;font-size:18px;"> Due '+row.dueDate+'</span> <br />'
         return_html += '<span>'+(row.confirmation ? 'Confirmed' : 'Unconfirmed')+'</span><br /> '
         for (var i in row.notes_list) { return_html += '<p>'+row.notes_list[i].note+'</p>' }
 
