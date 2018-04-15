@@ -11,7 +11,7 @@ sireNameData:
   name: Alpenglade Farm Apache
 damNameData:
   name: Wooly Dog Down Ava
-  postfix: "LA \_88 VEE+"
+  postfix: "LA \_88 VEE"
 sire_sireNameData:
   name: Enchanted Hill Toby
 sire_damNameData:
@@ -26,10 +26,12 @@ kiddingHistory:
   - bredDate: '2017'
     breeder: 'DesertNanny BH Hailstorm LA 89 VEV B '
     buckCount: '1'
+    comments: buck wethered
     doeCount: '2'
   - bredDate: '2016'
     breeder: Phoenix Farm After Midknight *B
     buckCount: '1'
+    comments: FF; wethered
 layout: goatpage.html
 collection: Goats
 ---
