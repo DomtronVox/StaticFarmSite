@@ -33,6 +33,10 @@ dam_damNameData:
 side_picture: /images/sam_3819.jpg
 back_picture: /images/lark-cropped.jpg
 milk_records: []
+kiddingHistory:
+  - bredDate: '2017'
+    breeder: Some Day Came MG FL Graffiti (polled)
+    doeCount: '1'
 layout: goatpage.html
 collection: Goats
 ---
