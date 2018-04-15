@@ -28,6 +28,16 @@ dam_damNameData:
   postfix: 1*M
   titles: ARMCH
 milk_records: []
+kiddingHistory:
+  - bredDate: '2016'
+    breeder: '??'
+    buckCount: '3'
+    comments: kidded before coming to Dozy Doe Down
+    doeCount: ''
+  - bredDate: '2017'
+    breeder: Some Day Came MG FL Graffiti (polled)
+    buckCount: '3'
+    comments: 2 polled (one black/white)
 layout: goatpage.html
 collection: Goats
 ---
