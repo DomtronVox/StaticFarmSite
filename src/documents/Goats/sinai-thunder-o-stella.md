@@ -31,6 +31,11 @@ dam_damNameData:
   name: ' LITTLE TOTS ESTATE FOENICULUM'
 side_picture: /images/stella.jpg
 milk_records: []
+kiddingHistory:
+  - bredDate: '2017'
+    breeder: Some Day Came MG FL Graffiti ((polled)
+    buckCount: '2'
+    comments: FF wethered
 layout: goatpage.html
 collection: Goats
 ---
