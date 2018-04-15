@@ -22,6 +22,14 @@ dam_damNameData:
   name: Wooly Dog Down Xaquelena
 side_picture: /images/fawn side view 13240723_10156855249125487_371690373535664023_n.jpg
 milk_records: []
+kiddingHistory:
+  - bredDate: '2017'
+    breeder: 'DesertNanny BH Hailstorm LA 89 VEV B '
+    buckCount: '1'
+    doeCount: '2'
+  - bredDate: '2016'
+    breeder: Phoenix Farm After Midknight *B
+    buckCount: '1'
 layout: goatpage.html
 collection: Goats
 ---
