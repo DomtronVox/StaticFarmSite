@@ -29,6 +29,19 @@ dam_damNameData:
 side_picture: /images/bella pic2.jpg
 back_picture: /images/sam_3701.jpg
 milk_records: []
+kiddingHistory:
+  - bredDate: '2017'
+    breeder: 'Some Day Came MG FL Graffiti '
+    buckCount: '0'
+    doeCount: '2'
+  - bredDate: '2016'
+    breeder: 'Some Day Came MG FL Graffiti '
+    buckCount: '2'
+  - bredDate: '2015'
+    breeder: Alpenglade Farm Apache
+    buckCount: '0'
+    comments: FF; Flowing River and FeatherBonnet
+    doeCount: '2'
 layout: goatpage.html
 collection: Goats
 ---
