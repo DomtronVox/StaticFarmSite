@@ -30,8 +30,9 @@ side_picture: /images/fantasy side view 13233078_10156855248720487_6271938474121
 milk_records: []
 kiddingHistory:
   - bredDate: '2017'
-    breeder: hailstorm
+    breeder: 'DesertNanny BH Hailstorm '
     buckCount: '1'
+    comments: FF; wethered
     doeCount: ''
 layout: goatpage.html
 collection: Goats
