@@ -42,6 +42,17 @@ milkRecordComments: >-
   *You never know what will come when planning milk tests… this was the year we
   had a death in the family and family sickness.. With all the irregularities in
   her schedule,  I am proud that she did this well.
+kiddingHistory:
+  - bredDate: '2017'
+    breeder: DesertNanny BH Hailstorm LA 89 VEV B
+    buckCount: '1'
+    comments: 2 BE
+    doeCount: '2'
+  - bredDate: '2016'
+    breeder: '?? (kidded before coming here)'
+    buckCount: '1'
+    comments: kidded before coming to Dozy Doe Down
+    doeCount: '2'
 layout: goatpage.html
 collection: Goats
 ---

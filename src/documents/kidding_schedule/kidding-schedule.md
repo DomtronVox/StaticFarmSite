@@ -17,13 +17,13 @@ kidding_table:
   - confirmation: true
     dam: Rosebay Ridge EB Hanalei Blue "Dot"
     dueDate: 5/22 - ­6/4
-    geneticNotes: ''
+    geneticNotes: both parents black and white. should have black/white kids.
     notes_list:
       - note: "1\_doe\_retained "
       - note: "does\_$400"
       - note: "   bucks\_$400"
       - note: "wethers\_$100"
-    sire: DesertNanny BH Hailstorm
+    sire: DesertNanny  BH   Hailstorm
   - confirmation: true
     dam: Sweet Garden FC Rosabella
     dueDate: 6/2-­6/17
@@ -32,7 +32,7 @@ kidding_table:
       - note: "does\_retained"
       - note: " 1\_buck\_mb\_retained"
       - note: "  bucks\_$500"
-    sire: DesertNanny BH Hailstorm
+    sire: DesertNanny  BH   Hailstorm
   - confirmation: true
     dam: 'Doublegate Z Glamour '
     dueDate: 6/2 -/6/17
@@ -40,7 +40,9 @@ kidding_table:
       - note: "does\_retained"
       - note: " 1\_buck\_mb\_retained"
       - note: "    bucks\_$500 "
-    sire: DesertNanny BH Hailstorm
+    showDamLAScore: true
+    showSireLAScore: true
+    sire: DesertNanny  BH   Hailstorm
   - confirmation: true
     dam: 'Dozy Doe Down GL Fantasy Blue  '
     dueDate: 6/2 - 6/5
@@ -49,7 +51,7 @@ kidding_table:
       - note: " does\_$400"
       - note: "   bucks\_$350"
       - note: " wethers\_$100"
-    sire: DesertNanny BH Hailstorm
+    sire: DesertNanny  BH   Hailstorm
   - confirmation: true
     dam: Dozy Doe Down AA FeatherBonnet
     dueDate: 6/2 - 6/17
@@ -58,14 +60,15 @@ kidding_table:
       - note: "bucks\_$350"
       - note: " wethers\_$100"
     sellingDam: true
-    sire: DesertNanny BH Hailstorm
+    sire: DesertNanny  BH   Hailstorm
   - confirmation: true
     dam: Sycamore SS MG Lark Blue   (ADGA)
     dueDate: 6/2 - 6/5
+    geneticNotes: both parents black and white; should produce black/white kids
     notes_list:
       - note: "does\_$400"
       - note: "   bucks\_$400"
-    sire: DesertNanny BH Hailstorm
+    sire: DesertNanny  BH   Hailstorm
   - confirmation: true
     dam: Dozy Doe Down HS Southern Lady
     dueDate: 6/18 - 7/1
@@ -137,6 +140,8 @@ kidding_table:
       - note: "does\_retained"
       - note: "1\_buck\_mb\_retained"
       - note: "bucks\_$500"
+    showDamLAScore: true
+    showSireLAScore: true
     sire: Dozy Doe Down  Hidden Tresor
   - dam: 'Dozy Doe Down SH Bella '
     dueDate: 'after 7/19 '
@@ -152,7 +157,7 @@ kidding_table:
       - note: "bucks\_$400"
       - note: "wethers\_$100"
     sire: Dozy Doe Down  Hidden Tresor
-  - dam: Tx Twincreeks G Spicy Pepper
+  - dam: Tx Twincreeks G Spicy Pepper $400
     dueDate: after 7/19
     geneticNotes: ' Spicy is for sale now for $400. '
     sellingDam: true
