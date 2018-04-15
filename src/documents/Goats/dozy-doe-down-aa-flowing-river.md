@@ -32,7 +32,7 @@ kiddingHistory:
   - bredDate: '2016'
     breeder: 'DesertNanny BH Hailstorm LA 89 VEV B '
     buckCount: '1'
-    comments: FF
+    comments: FF; wethered
     doeCount: '0'
 layout: goatpage.html
 collection: Goats
