@@ -24,6 +24,16 @@ dam_damNameData:
 pedigree_picture: ''
 side_picture: /images/flo-side-view-13177219_10156855251545487_4108445470888386392_n.jpg
 milk_records: []
+kiddingHistory:
+  - bredDate: '2017'
+    breeder: Some Day Came MG FL Graffiti P
+    comments: both cou clair
+    doeCount: '2'
+  - bredDate: '2016'
+    breeder: 'DesertNanny BH Hailstorm LA 89 VEV B '
+    buckCount: '1'
+    comments: FF
+    doeCount: '0'
 layout: goatpage.html
 collection: Goats
 ---
