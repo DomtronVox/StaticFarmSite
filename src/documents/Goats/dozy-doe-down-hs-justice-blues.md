@@ -28,6 +28,8 @@ dam_damNameData:
   name: Doublegate SCG Fashionmodel
   postfix: 2*M LA90 EEEV ELITE DOE ...milk record 5-10 305 790 7.0 55 4.2 33
   titles: SG
+side_picture: /images/img_20180203_171749.jpg
+back_picture: /images/close-up-facial-pic.jpg
 milk_records: []
 layout: goatpage.html
 collection: Goats
