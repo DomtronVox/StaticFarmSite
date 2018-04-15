@@ -13,21 +13,21 @@ layout: homepage.html
 
 <br />
 
-# **Our History**
+## **Our History**
 
-## We were homeschooling our kids, canning our food, baking our bread, heating our home with wood. We were raising and butchering meat rabbits, chickens, and ducks. ALL THIS while living in town. Raising dairy goats for milk, yogurt, and cheese was another means to being self sufficient, so we decided to take the next step and move to the country. (YAY!!)
+**We were homeschooling our kids, canning our food, baking our bread, heating our home with wood. We were raising and butchering meat rabbits, chickens, and ducks. ALL THIS while living in town. Raising dairy goats for milk, yogurt, and cheese was another means to being self sufficient, so we decided to take the next step and move to the country. (YAY!!)**
 
-<br />
+**<br />**
 
 ![](/images/3.5.17 boy 1.jpg)
 
 <br />
 
-## After five years of looking for a location to build our farm, seeing dozens of places, one providentially fell into our laps. An acquaintance was selling some property at an auction. We had only two days notice, but we got our 23 acres of heaven (woodland actually, perfect for goats!)
+**After five years of looking for a location to build our farm, seeing dozens of places, one providentially fell into our laps. An acquaintance was selling some property at an auction. We had only two days notice, but we got our 23 acres of heaven (woodland actually, perfect for goats!)**
 
 <br />
 
-## Deciding to do as much as we could ourselves, we cleared a 700 foot road that bisects the property. Our first building up was a pole barn/workshop. My husband said we needed that first so we could have a place to store building materials and tools.  "REALLY??" I wondered. Then we fenced a couple of acres for our goats, building their housing at the same time. We hired the well and septic crews. Finally came the clearing and grading for the house area, the house and (AT LAST) moving in! we have many more  ideas for improvement.  Like most, our farm is a work in progress.
+**Deciding to do as much as we could ourselves, we cleared a 700 foot road that bisects the property. Our first building up was a pole barn/workshop. My husband said we needed that first so we could have a place to store building materials and tools.  "REALLY??" I wondered. Then we fenced a couple of acres for our goats, building their housing at the same time. We hired the well and septic crews. Finally came the clearing and grading for the house area, the house and (AT LAST) moving in! we have many more  ideas for improvement.  Like most, our farm is a work in progress.**
 
 <br />
 
@@ -41,7 +41,7 @@ Sunrise (above) and Sunset (below) both taken from my porch
 
 ## Location
 
-## Our farm is found between the two picturesque towns of Pumpkintown and Marietta. Located at the foot of the Appalachian mountains in upstate South Carolina, we enjoy an occasional snowfall some winters, long comfortable springs and falls, and warm summers perfect for growing things.
+**Our farm is found between the two picturesque towns of Pumpkintown and Marietta. Located at the foot of the Appalachian mountains in upstate South Carolina, we enjoy an occasional snowfall some winters, long comfortable springs and falls, and warm summers perfect for growing things.**
 
 <br />
 
@@ -49,4 +49,4 @@ Sunrise (above) and Sunset (below) both taken from my porch
 
 <br />
 
-## Ya'all come back now, hear?
+## Y'all come back now, hear?
