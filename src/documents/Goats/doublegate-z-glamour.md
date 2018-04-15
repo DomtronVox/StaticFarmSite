@@ -49,7 +49,7 @@ kiddingHistory:
     comments: 2 BE
     doeCount: '2'
   - bredDate: '2016'
-    breeder: '?? (kidded before coming here)'
+    breeder: '?? '
     buckCount: '1'
     comments: kidded before coming to Dozy Doe Down
     doeCount: '2'
