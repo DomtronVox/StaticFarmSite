@@ -16,7 +16,7 @@ damNameData:
   name: Gypsy Moon Pilar
 sire_sireNameData:
   name: 'Gay-Mor’s T Blue  Looneytoons '
-  postfix: '+*S HES: 87.8 VG 90 90 86'
+  postfix: '+*S HES: 87.8 VG 90 90 86 (blue eyes)'
 sire_damNameData:
   name: Gay-Mor's Lucky Naughty Marietta
   postfix: ' 3*D HES: 88.2 VG 88 88 90 88'
@@ -49,6 +49,10 @@ galleryImages:
       G-G-G.Dam: Woodhaven Farms Moondancer *D 'E'  AR1690 blue eyes  (pic
       courtesy of Kaapaio Acres)
     image: /images/bella-moondancer-pic-kaapio-acres.jpg
+  - caption: >-
+      (FF 2 doe kids) Dozy Doe Down AA FeatherBonnet and Dozy Doe Down AA
+      Flowing River
+    image: /images/bella-apache doelings pic2.jpg
 kiddingHistory:
   - bredDate: '2017'
     breeder: 'Some Day Came MG FL Graffiti '
