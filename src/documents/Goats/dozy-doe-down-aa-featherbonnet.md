@@ -31,7 +31,7 @@ milk_records: []
 galleryImages:
   - caption: 'Dam: Dozy Doe Down SH Bella 1*M (blue eyes)'
     image: /images/bella-pic2.jpg
-  - caption: 'Sire: Alpenglade Farm Apache'
+  - caption: 'Sire: Alpenglade Farm Apache (courtesy of Wooly Dog Down)'
     image: /images/apache-1yr-old.jpg
   - caption: baby Feather
     image: /images/feather-front.jpg
@@ -39,18 +39,21 @@ galleryImages:
     image: /images/feather-head-shot.jpg
   - caption: 'G-G.Dam: Enchanted Hill Mermaid'
     image: /images/apache-s-sire-s-dam-mermaid.jpg
-  - caption: 'G.Sire: Kaapio Acre''s LT Super Hero +*S'
+  - caption: >-
+      G.Sire: Kaapio Acre's LT Super Hero +*S -blue eyes (pic courtest of
+      Clovencroft)
     image: >-
       /images/bella-kaapio-acres-lt-super-hero-s-www.clovencroft.com.-oldies-reference-.html-.jpg
   - caption: >-
       G-G.Sire: Gay-Mor’s T Blue Looneytoons +*S HES: 87.8 VG 90 90 86 -blue
-      eyes
+      eyes  (pic courtesy of Kaapaio Acres)
     image: /images/bella-looney-tunes-pic-kaapioacres.jpg
-  - caption: 'G-G.Dam: Gay-Mor''s Lucky Naughty Marietta 3*D HES: 88.2 VG 88 88 90 88'
+  - caption: >-
+      G-G.Dam: Gay-Mor's Lucky Naughty Marietta 3*D HES: 88.2 VG 88 88 90 88 
+      (pic courtesy of Kaapaio Acres)
     image: /images/bella-marietta-pic-kaapioacres.jpg
-  - caption: "G-G-G.Sire: PGCH/MCH Piddlin’ Acres Blue Thunder +*S AGS\_89.9 VG 7x GCH 5x RGCH BE 1s\_DOUBLE MASTER CHAMPION "
+  - caption: "G-G-G.Sire: PGCH/MCH Piddlin’ Acres Blue Thunder +*S AGS\_89.9 VG 7x GCH 5x RGCH BE 1s\_DOUBLE MASTER CHAMPION  (pic courtesy of Kaapaio Acres)"
     image: /images/bella-thunder9.jpg
-  - {}
 kiddingHistory:
   - bredDate: '2017'
     breeder: Some Day Came MG FL Graffiti P
