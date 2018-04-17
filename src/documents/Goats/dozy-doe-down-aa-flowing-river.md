@@ -28,9 +28,19 @@ milk_records: []
 galleryImages:
   - caption: baby Flo
     image: /images/flo-f2-pic3.jpg
-  - {}
-  - {}
-  - {}
+  - caption: Flo and sister Feather
+    image: /images/bella-apache doelings pic2.jpg
+  - caption: 'Sire: Alpenglade Farm Apache (pic courtesy of Wooly Dog Down)'
+    image: /images/apache-1yr-old.jpg
+  - caption: 'Dam: Dozy Doe Down SH Bella 1*M'
+    image: /images/bella-pic2.jpg
+  - caption: 'G.Sire: Kaapio Acre''s LT Super Hero +*S (pic courtesy of clovencroft)'
+    image: >-
+      /images/bella-kaapio-acres-lt-super-hero-s-www.clovencroft.com.-oldies-reference-.html-.jpg
+  - caption: 'G-G. Dam: Enchanted Hill Mermaid'
+    image: /images/apache-s-sire-s-dam-mermaid.jpg
+  - caption: 'Gay-Mor’s T Blue Looneytoons +*S HES: 87.8 VG 90 90 86'
+    image: /images/bella-looney-tunes-pic-kaapioacres.jpg
   - {}
   - {}
 kiddingHistory:
