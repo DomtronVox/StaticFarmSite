@@ -23,7 +23,16 @@ dam_damNameData:
   name: Gypsy Moon Pilar
 pedigree_picture: ''
 side_picture: /images/flo-side-view-13177219_10156855251545487_4108445470888386392_n.jpg
+back_picture: /images/flowing-river-head-shot.jpg
 milk_records: []
+galleryImages:
+  - caption: baby Flo
+    image: /images/flo-f2-pic3.jpg
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
 kiddingHistory:
   - bredDate: '2017'
     breeder: Some Day Came MG FL Graffiti P
