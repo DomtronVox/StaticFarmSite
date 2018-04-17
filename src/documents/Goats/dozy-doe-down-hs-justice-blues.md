@@ -1,6 +1,6 @@
 ---
 titlesEarned: ' '
-title: 'Dozy Doe Down HS Justice Blues -$500 (Proven) '
+title: Dozy Doe Down HS Justice Blues -$500 (Proven) Sale pending
 milkStar: ' '
 nickname: Justice
 gender: Buck
