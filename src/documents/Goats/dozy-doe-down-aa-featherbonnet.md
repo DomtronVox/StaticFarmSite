@@ -28,6 +28,17 @@ dam_damNameData:
 pedigree_picture: ''
 side_picture: /images/feather-side-view-13239052_10156855250395487_4965230174718124050_n.jpg
 milk_records: []
+galleryImages:
+  - caption: 'Dam: Dozy Doe Down SH Bella 1*M (blue eyes)'
+    image: /images/bella-pic2.jpg
+  - caption: 'Sire: Alpenglade Farm Apache'
+    image: /images/apache-1yr-old.jpg
+  - caption: baby Feather
+    image: /images/feather-front.jpg
+  - caption: baby Feather facial shot
+    image: /images/feather-head-shot.jpg
+  - caption: 'G-G.Dam: Enchanted Hill Mermaid'
+    image: /images/apache-s-sire-s-dam-mermaid.jpg
 kiddingHistory:
   - bredDate: '2017'
     breeder: Some Day Came MG FL Graffiti P
