@@ -27,8 +27,28 @@ dam_damNameData:
   name: Rosasharn's TL Sun Dance
   postfix: "2005 ANDDA RGCH Jr. Doe     2x\_Best Of Breed \_Jr. Doe"
 side_picture: /images/bella pic2.jpg
-back_picture: /images/sam_3701.jpg
+back_picture: /images/bella-rear-view.jpg
 milk_records: []
+galleryImages:
+  - caption: bella
+    image: /images/bella pic1.jpg
+  - caption: 'Sire: Kaapio Acres LT Super Hero +*S (blue eyes)'
+    image: >-
+      /images/bella-kaapio-acres-lt-super-hero-s-www.clovencroft.com.-oldies-reference-.html-.jpg
+  - caption: >-
+      G.Dam: Gay-Mor's Lucky Naughty Marietta 3*D HES: 88.2 VG 88 88 90 88  (pic
+      courtesy of Kaapaio Acres)
+    image: /images/bella-marietta-pic-kaapioacres.jpg
+  - caption: >-
+      G.Sire: Gay-Mor’s T Blue  Looneytoons  +*S HES: 87.8 VG 90 90 86 (pic
+      courtesy of Kaapaio Acres)
+    image: /images/bella-looney-tunes-pic-kaapioacres.jpg
+  - caption: "G-G.Sire: PGCH/MCH Piddlin Acres Blue Thunder +*S AGS\_89.9 VG 89 91 88  7x GCH   5x RGCH 1st DOUBLE MASTER CHAMPION (pic courtesy of Kaapaio Acres)"
+    image: /images/bella-thunder9.jpg
+  - caption: >-
+      G-G-G.Dam: Woodhaven Farms Moondancer *D 'E'  AR1690 blue eyes  (pic
+      courtesy of Kaapaio Acres)
+    image: /images/bella-moondancer-pic-kaapio-acres.jpg
 kiddingHistory:
   - bredDate: '2017'
     breeder: 'Some Day Came MG FL Graffiti '
