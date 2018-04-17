@@ -32,7 +32,9 @@ milk_records: []
 galleryImages:
   - caption: bella
     image: /images/bella pic1.jpg
-  - caption: 'Sire: Kaapio Acres LT Super Hero +*S (blue eyes)'
+  - caption: >-
+      Sire: Kaapio Acres LT Super Hero +*S -blue eyes (pic courtesy of
+      Clovencroft)
     image: >-
       /images/bella-kaapio-acres-lt-super-hero-s-www.clovencroft.com.-oldies-reference-.html-.jpg
   - caption: >-
