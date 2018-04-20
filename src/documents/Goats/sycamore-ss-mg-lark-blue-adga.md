@@ -30,7 +30,7 @@ dam_sireNameData:
   postfix: '*S *B'
 dam_damNameData:
   name: Beaujest RK Lyra
-side_picture: /images/sam_3819.jpg
+side_picture: /images/lark-side-view.jpg
 back_picture: /images/lark-cropped.jpg
 milk_records: []
 kiddingHistory:
