@@ -28,7 +28,17 @@ dam_damNameData:
   postfix: "2005 ANDDA RGCH Jr. Doe     2x\_Best Of Breed \_Jr. Doe"
 side_picture: /images/bella pic2.jpg
 back_picture: /images/bella-rear-view.jpg
-milk_records: []
+milk_records:
+  - milkRecordDIM: '332'
+    milkRecordFat: '7.9'
+    milkRecordFatLBS: '30'
+    milkRecordProtein: '4.8'
+    milkRecordProteinLBS: '18'
+    milkRecordVolume: '378'
+    milkRecordYear: '2015'
+milkRecordComments: >-
+  In BUTTERFAT she test over 9% on 5 out of 10 milk tests. Not a lot in vol but
+  Milk is like cream :)
 galleryImages:
   - caption: bella
     image: /images/bella pic1.jpg
