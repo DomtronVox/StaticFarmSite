@@ -7,9 +7,9 @@ layout: default.html
 ---
 <br />
 
-**Click here to see our **[**Karakachans**](sub_pages/karakachan-lgd.html)**.**
+**Click **[**here**](sub_pages/karakachan-lgd.html)** to see our Karakachans.**
 
-**Click here to go directly to our other **[**LGDs**](sub_pages/other-lgds.html)**.**
+**Click **[**here**](sub_pages/other-lgds.html)** to go directly to our other LGDs.**
 
 <br />
 
