@@ -71,4 +71,4 @@ Pedigree Highlights
 * G-G-G.Dam: **SG Rosasharn's Hazel Nut  4\*D 1\*M  AR1736 LA88 'VEEV' _milk record 4-10 302 860 5.9 51 4.0 34_**
 * G-G-G.Dam: **SGCH AGS PROMISEDLAND CP LIL BOPEEP  1\*D 1\*M  LA92 EEEE  _milk record 305 1350 5.8 78 4.3 58_**
 * G-G-G.Dam:** SG AGS PROMISEDLAND HS ZINNIA 4\*D 1\*M LA 84 V+E+ _milk record 2-00 283 900 5.6 50 4.6 41_**
-* G-G-G-G.Dam:** SGCH/ ARMCH  Rosasharn's Uni 3\*D 2\*M   LA90 EEEV 2002/03 Breed Leader in Milk, BF, Protein   _milk record_ _8-06* 305 1490 7.5 112 3.8 56_ **
+* G-G-G-G.Dam:** SGCH/ ARMCH  Rosasharn's Uni 3\*D 2\*M   LA90 EEEV   _milk record_ _8-06 305 1490 7.5 112 3.8 56  _ 2002/03 Breed Leader in Milk, BF, Protein  **
