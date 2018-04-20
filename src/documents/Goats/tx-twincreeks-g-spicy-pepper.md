@@ -1,6 +1,6 @@
 ---
 titlesEarned: ' '
-title: Tx Twincreeks G Spicy Pepper - $400 Sale Pending
+title: Tx Twincreeks G Spicy Pepper - $400 (Sale Pending)
 milkStar: ' '
 nickname: Spicy
 gender: Senior Doe
