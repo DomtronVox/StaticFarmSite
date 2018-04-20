@@ -39,13 +39,11 @@ Sunrise (above) and Sunset (below) both taken from my porch
 
 <br />
 
-## Location
-
-**Our farm is found between the two picturesque towns of Pumpkintown and Marietta. Located at the foot of the Appalachian mountains in upstate South Carolina, we enjoy an occasional snowfall some winters, long comfortable springs and falls, and warm summers perfect for growing things.**
+**Located at the foot of the Appalachian mountains in upstate South Carolina, we enjoy an occasional snowfall some winters, long comfortable springs and falls, and warm summers perfect for growing things.**
 
 <br />
 
-## Stay awhile and visit.  Click on these links below to see Dozy Doe Down OR you can use the drop down menu under our Logo. [Nigerian Dwarf Goats ](goats.html)| [Kidding Schedule](/kidding-sched.html) | [Livestock Guardian Dogs](livestockgardiandogs) | [For Sale](for-sale2.html) |[ For Newbies ](for-newbies.html)| [FAQs](frequently-asked-questions.html) | [About Us](index.html) | [Contact Us](contactus)
+**Stay awhile and visit.  Click on these links below to see Dozy Doe Down OR you can use the drop down menu under our Logo. **[**Nigerian Dwarf Goats **](goats.html)**\| **[**Kidding Schedule**](/kidding-sched.html)**\| **[**Livestock Guardian Dogs**](livestockgardiandogs)**\| **[**For Sale**](for-sale2.html)**\|**[** For Newbies **](for-newbies.html)**\| **[**FAQs**](frequently-asked-questions.html)**\| **[**About Us**](index.html)**\| **[**Contact Us**](contactus)
 
 <br />
 
