@@ -29,4 +29,13 @@ milk_records: []
 layout: goatpage.html
 collection: Goats
 ---
+black buck with random white markings and blue eyes
 
+Pedigree Highlights
+
+* Sire: **DesertNanny BH Hailstorm LA89 VEV **-blue eyes
+* G.Sire: DesertNanny BBB Blue Haboob \*S \*B  -blue eyes
+* G-G.Dam: **MCH/GCH SG Litttle Rascals Black Dahlia 2\*D 1\*M E**  **LA 92 EEEE** 10 x GCH 4x RsCH AGS 91.0 
+* G-G.Dam:** MCH/GCH TX Twin Creeks MS Maid of Honor 2\*D 2\*M**
+* G-G.Sire:** DesertNanny BR BlueBerryBuckle \*S \*B ** -blue eyes
+* G-G.Sire:  **DF Farms HD Barney Rubble +*S +B LA 87 VVV**
