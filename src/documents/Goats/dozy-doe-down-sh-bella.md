@@ -35,7 +35,7 @@ milk_records:
     milkRecordProtein: '4.8'
     milkRecordProteinLBS: '18'
     milkRecordVolume: '378'
-    milkRecordYear: '2015'
+    milkRecordYear: 2015 FF
 milkRecordComments: >-
   In BUTTERFAT she test over 9% on 5 out of 10 milk tests. Not a lot in vol but
   Milk is like cream :)
