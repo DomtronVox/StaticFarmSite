@@ -12,7 +12,7 @@ sireNameData:
   name: DesertNanny BH Hailstorm
   postfix: ' LA89 VEV (blue eyes)'
 damNameData:
-  name: Deer Ridge Twilight Cascabella 1*M
+  name: Deer Ridge Twilight Cascabella
   postfix: ' 1*M'
 sire_sireNameData:
   name: 'DesertNanny BBB Blue Haboob '
