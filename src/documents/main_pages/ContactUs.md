@@ -5,7 +5,7 @@ navPriority: '90'
 collection: MainPage
 layout: default.html
 ---
-**We really love feedback. Please feel free to contact us**
+**We really love feedback. Please feel free to contact us.**
 
 <br />
 
