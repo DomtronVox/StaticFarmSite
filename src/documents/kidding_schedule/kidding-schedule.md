@@ -11,7 +11,7 @@ kidding_table:
     notes_list:
       - note: "1 doe-\_$400 with registration"
       - note: ' -- $200 without '
-      - {}
+      - note: '------'
       - note: 1 buck- $400 cou blanc
     sellingDam: false
     sire: Dozy Doe Down HS Jimny Cricket -$400 (Proven) Sale Pending
