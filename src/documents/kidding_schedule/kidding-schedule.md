@@ -9,11 +9,11 @@ kidding_table:
     dueDate: 5/2 - 6/4
     geneticNotes: ' Dam’s line carries cou clair patterning'
     notes_list:
-      - note: "does\_$400  "
-      - note: "bucks\_$350"
-      - note: "wethers\_$100"
-    sellingDam: true
-    sire: Dozy Doe Down HS Jimny Cricket -$400 (Proven)
+      - note: "1 does\_$400 with registration $200 without "
+      - note: 1 buck $400 cou blanc
+      - note: ''
+    sellingDam: false
+    sire: Dozy Doe Down HS Jimny Cricket -$400 (Proven) Sale Pending
   - confirmation: true
     dam: Rosebay Ridge EB Hanalei Blue "Dot"
     dueDate: 5/22 - ­6/4
@@ -157,7 +157,7 @@ kidding_table:
       - note: "bucks\_$400"
       - note: "wethers\_$100"
     sire: Dozy Doe Down  Hidden Tresor
-  - dam: Tx Twincreeks G Spicy Pepper $400
+  - dam: Tx Twincreeks G Spicy Pepper - $400 (Sale Pending)
     dueDate: after 7/19
     geneticNotes: ' Spicy is for sale now for $400. '
     sellingDam: true
