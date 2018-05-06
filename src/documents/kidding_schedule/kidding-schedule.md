@@ -6,8 +6,8 @@ tableTitle: 2018 Kidding Schedule
 kidding_table:
   - confirmation: false
     dam: Dozy Doe Down AA Flowing River
-    dueDate: 5/2-4
-    geneticNotes: ' Dam’s line carries cou clair patterning'
+    dueDate: '-- KIDDED 5/4'
+    geneticNotes: " Dam’s line carries cou clair patterning   1 doe-\_$400 with registration -- $200 without "
     notes_list:
       - note: KIDDED 5/4
       - note: "1 doe-\_$400 with registration -- $200 without "
