@@ -9,8 +9,8 @@ kidding_table:
     dueDate: 5/2 - 6/4
     geneticNotes: ' Dam’s line carries cou clair patterning'
     notes_list:
-      - note: "1 does\_$400 with registration $200 without "
-      - note: 1 buck $400 cou blanc
+      - note: "1 doe-\_$400 with registration $200 without "
+      - note: 1 buck- $400 cou blanc
       - note: ''
     sellingDam: false
     sire: Dozy Doe Down HS Jimny Cricket -$400 (Proven) Sale Pending
