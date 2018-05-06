@@ -7,7 +7,7 @@ kidding_table:
   - confirmation: true
     dam: Dozy Doe Down AA Flowing River
     dueDate: '-- KIDDED 5/4'
-    geneticNotes: " Dam’s line carries cou clair patterning   1 doe-\_$400 with registration -- $200 without "
+    geneticNotes: ' Dam’s line carries cou clair patterning '
     notes_list:
       - note: "1 doe-\_$400 with registration"
       - note: ' -- $200 without '
