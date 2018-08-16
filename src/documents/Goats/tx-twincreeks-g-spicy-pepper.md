@@ -1,10 +1,10 @@
 ---
 titlesEarned: ' '
-title: Tx Twincreeks G Spicy Pepper - $400 (Sale Pending)
+title: Tx Twincreeks G Spicy Pepper - SOLD
 milkStar: ' '
 nickname: Spicy
 gender: Senior Doe
-forSale: true
+forSale: false
 la_score: >-
   Spicy is for sale and is probably bred. Excellent chance of kids being
   polled.  
