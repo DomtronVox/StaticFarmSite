@@ -3,7 +3,7 @@ titlesEarned: ' '
 title: Dozy Doe Down HS Southern Lady
 milkStar: ' '
 nickname: Lady
-gender: Junior Doe
+gender: Senior Doe
 birth_date: 3/15/17
 adga_num: 'D1930353 '
 blue_eyes: true
