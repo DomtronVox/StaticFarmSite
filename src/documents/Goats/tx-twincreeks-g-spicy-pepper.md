@@ -1,6 +1,6 @@
 ---
 titlesEarned: ' '
-title: Tx Twincreeks G Spicy Pepper - SOLD
+title: 'Tx Twincreeks G Spicy Pepper '
 milkStar: ' '
 nickname: Spicy
 gender: Senior Doe
