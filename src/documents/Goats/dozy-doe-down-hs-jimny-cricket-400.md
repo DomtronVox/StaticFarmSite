@@ -1,10 +1,10 @@
 ---
 titlesEarned: ' '
-title: Dozy Doe Down HS Jimny Cricket -$400 (Proven) Sale Pending
+title: Dozy Doe Down HS Jimny Cricket -
 milkStar: ' '
 nickname: Cricket
 gender: Buck
-forSale: true
+forSale: false
 birth_date: 3/15/17
 reference: 'no'
 sireNameData:
