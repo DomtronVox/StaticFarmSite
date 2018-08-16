@@ -1,9 +1,10 @@
 ---
 titlesEarned: ' '
-title: Dozy Doe Down HS Jackie Girl
+title: Dozy Doe Down HS Jackie Girl - $400
 milkStar: ' '
 nickname: Jackie
 gender: Junior Doe
+forSale: true
 birth_date: 3/15/17
 adga_num: D1930357
 reference: 'no'
