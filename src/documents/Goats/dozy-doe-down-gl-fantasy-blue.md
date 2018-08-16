@@ -11,7 +11,7 @@ polled: true
 reference: 'no'
 sireNameData:
   name: 'Flat Rocks Gem''s Legacy '
-  postfix: ' +B    LA 88 VEE   (polled)'
+  postfix: ' ++B    LA 88 VEE   (polled)'
 damNameData:
   name: Wooly Dog Down Celestrina Blue
   postfix: (blue eyes; polled)
