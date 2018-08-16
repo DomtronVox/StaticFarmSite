@@ -9,7 +9,7 @@ birth_date: 5/16/16
 adga_num: D1911207P
 blue_eyes: true
 polled: true
-reference: 'yes'
+reference: 'no'
 sireNameData:
   name: 'Wooly Dog Down Etienne Bleu '
   postfix: '(polled, blue eyes)'
