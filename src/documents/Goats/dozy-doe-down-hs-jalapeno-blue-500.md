@@ -1,13 +1,13 @@
 ---
 titlesEarned: ' '
-title: Dozy Doe Down HS Jalapeno Blue ($500)
+title: 'Dozy Doe Down HS Jalapeno Blue '
 milkStar: ' '
 nickname: Jalapeno
 gender: Buck
-forSale: true
+forSale: false
 birth_date: 3/20/17
 blue_eyes: true
-reference: 'no'
+reference: 'yes'
 sireNameData:
   name: DesertNanny BH Hailstorm
   postfix: ' LA89 VEV (blue eyes)'
