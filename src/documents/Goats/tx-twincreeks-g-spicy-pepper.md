@@ -5,9 +5,7 @@ milkStar: ' '
 nickname: Spicy
 gender: Senior Doe
 forSale: false
-la_score: >-
-  Spicy is for sale and is probably bred. Excellent chance of kids being
-  polled.  
+la_score: ''
 birth_date: 12/20/10
 adga_num: D1549910
 reference: 'yes'
