@@ -10,7 +10,7 @@ la_score: >-
   polled.  
 birth_date: 12/20/10
 adga_num: D1549910
-reference: 'no'
+reference: 'yes'
 sireNameData:
   name: Piddlin' Acres BD Ginseng
   postfix: " +B  LA88\_VVE"
