@@ -4,11 +4,12 @@ title: Rosebay Ridge EB Hanalei Blue "Dot"
 milkStar: ' '
 nickname: Dot
 gender: Junior Doe
+forSale: true
 birth_date: 5/16/16
 adga_num: D1911207P
 blue_eyes: true
 polled: true
-reference: 'no'
+reference: 'yes'
 sireNameData:
   name: 'Wooly Dog Down Etienne Bleu '
   postfix: '(polled, blue eyes)'
