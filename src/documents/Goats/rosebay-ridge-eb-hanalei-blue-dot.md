@@ -3,7 +3,7 @@ titlesEarned: ' '
 title: Rosebay Ridge EB Hanalei Blue "Dot"
 milkStar: ' '
 nickname: Dot
-gender: Junior Doe
+gender: Senior Doe
 forSale: true
 birth_date: 5/16/16
 adga_num: D1911207P
