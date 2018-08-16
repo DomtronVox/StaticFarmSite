@@ -1,13 +1,13 @@
 ---
 titlesEarned: ' '
-title: Dozy Doe Down HS Justice Blues -SOLD
+title: 'Dozy Doe Down HS Justice Blues '
 milkStar: ' '
 nickname: Justice
 gender: Buck
-forSale: true
+forSale: false
 birth_date: 3/15/17
 blue_eyes: true
-reference: 'no'
+reference: 'yes'
 sireNameData:
   name: 'DesertNanny BH Hailstorm '
   postfix: LA 89 VEV (blue eyes)
