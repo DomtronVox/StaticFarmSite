@@ -3,7 +3,7 @@ titlesEarned: ' '
 title: Dozy Doe Down HS Janessa Blue
 milkStar: ' '
 nickname: Janessa
-gender: Junior Doe
+gender: Senior Doe
 birth_date: 3/21/17
 adga_num: D1930354
 blue_eyes: true
