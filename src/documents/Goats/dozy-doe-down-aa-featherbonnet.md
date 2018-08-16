@@ -7,7 +7,7 @@ gender: Senior Doe
 forSale: true
 birth_date: 3/6/15
 adga_num: D176778
-reference: 'no'
+reference: 'yes'
 sireNameData:
   name: Alpenglade Farm Apache
   postfix: ' '
