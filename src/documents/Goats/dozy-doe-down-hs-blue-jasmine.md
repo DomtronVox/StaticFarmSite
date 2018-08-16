@@ -1,9 +1,10 @@
 ---
 titlesEarned: ' '
-title: Dozy Doe Down HS Blue Jasmine
+title: Dozy Doe Down HS Blue Jasmine $400
 milkStar: ' '
 nickname: Jasmine
 gender: Junior Doe
+forSale: true
 birth_date: 3/20/17
 adga_num: D1930356
 blue_eyes: true
