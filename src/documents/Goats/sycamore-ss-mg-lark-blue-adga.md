@@ -1,13 +1,13 @@
 ---
 titlesEarned: ' '
-title: Sycamore SS MG Lark Blue   (ADGA)
+title: Sycamore SS MG Lark Blue   (ADGA) - SOLD
 milkStar: ' '
 nickname: Lark
 gender: Senior Doe
 birth_date: 3/12/16
 adga_num: D1905203
 blue_eyes: true
-reference: 'no'
+reference: 'yes'
 sireNameData:
   name: ' Lost Valley Z Mardi Gras'
   postfix: '+*B +*S LA  88 VVE  '
