@@ -8,7 +8,7 @@ la_score: LA 89 VEV
 birth_date: 4/22/14
 adga_num: D1696392
 blue_eyes: true
-reference: 'no'
+reference: 'yes'
 sireNameData:
   name: 'DesertNanny BBB Blue Haboob '
   postfix: ' *S *B (blue eyes)'
