@@ -17,7 +17,7 @@ damNameData:
   postfix: (blue eyes; polled)
 sire_sireNameData:
   name: 'Flat Rocks Gem '
-  postfix: +S ++B (polled)
+  postfix: '+S ++B *B (polled) '
 sire_damNameData:
   name: Five Alarm Grace
 dam_sireNameData:
