@@ -9,7 +9,7 @@ sireNameData:
   postfix: LA 89 VEV
 damNameData:
   name: SG Doublegate Z Glamour
-  postfix: ' 3*M'
+  postfix: ' 3*M LA85 VEV'
   titles: 'SG '
 sire_sireNameData:
   name: ' DesertNanny BBB Blue Haboob '
