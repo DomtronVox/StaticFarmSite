@@ -1,6 +1,6 @@
 ---
 titlesEarned: ' '
-title: Dozy Doe Down HS Blue Jasmine $400
+title: Dozy Doe Down HS Blue Jasmine (pending) $400
 milkStar: ' '
 nickname: Jasmine
 gender: Senior Doe
