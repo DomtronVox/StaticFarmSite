@@ -1,6 +1,6 @@
 ---
 titlesEarned: ' '
-title: Sycamore SS MG Lark Blue   (ADGA) - SOLD
+title: 'Sycamore SS MG Lark Blue   (ADGA) - '
 milkStar: ' '
 nickname: Lark
 gender: Senior Doe
