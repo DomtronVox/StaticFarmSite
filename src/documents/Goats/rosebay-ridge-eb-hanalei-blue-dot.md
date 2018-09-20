@@ -1,6 +1,6 @@
 ---
 titlesEarned: ' '
-title: 'Rosebay Ridge EB Hanalei Blue "Dot" - '
+title: Rosebay Ridge EB Hanalei Blue "Dot"
 milkStar: ' '
 nickname: Dot
 gender: Senior Doe
