@@ -1,6 +1,6 @@
 ---
 titlesEarned: ' '
-title: Dozy Doe Down AA FeatherBonnet - SOLD
+title: 'Dozy Doe Down AA FeatherBonnet - '
 milkStar: ' '
 nickname: Feather
 gender: Senior Doe
