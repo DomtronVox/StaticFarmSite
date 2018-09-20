@@ -4,6 +4,7 @@ title: Sinai Thunder O Stella
 milkStar: Congrats for making the 2018 ELITE DOE LIST!
 nickname: Stella
 gender: Senior Doe
+la_score: Congrats for making the 2018 ELITE DOE LIST!
 birth_date: 2/25/16
 adga_num: D1812563
 moonspots: true
