@@ -7,18 +7,18 @@ birth_date: 7/26/18
 blue_eyes: true
 reference: 'no'
 sireNameData:
-  name: DesertNanny BH Hailstorm
-  postfix: LA 89 VEV
+  name: Dozy Doe Down Hidden Tresor
+  postfix: ''
   titles: ''
 damNameData:
   name: 'Gypsy Moon DH Mad TeaParty '
   postfix: 1*M LA 87 VVVV
 sire_sireNameData:
-  name: DesertNanny BBB Blue Haboob
+  name: Wooly Dog Down Etienne Bleu (blue eyes; polled)
   postfix: '*S *B (blue eyes)'
 sire_damNameData:
-  name: Desert Nanny BR Blackbottom Pie
-  postfix: ' LA 86'
+  name: Gypsy Moon SZ Ambergris
+  postfix: ''
 dam_sireNameData:
   name: ' Algedi Farm DJ Drops of Honey'
   postfix: +*B
