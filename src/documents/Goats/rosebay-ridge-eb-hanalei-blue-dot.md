@@ -1,10 +1,10 @@
 ---
 titlesEarned: ' '
-title: Rosebay Ridge EB Hanalei Blue "Dot" - $450
+title: 'Rosebay Ridge EB Hanalei Blue "Dot" - '
 milkStar: ' '
 nickname: Dot
 gender: Senior Doe
-forSale: true
+forSale: false
 birth_date: 5/16/16
 adga_num: D1911207P
 blue_eyes: true
