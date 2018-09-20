@@ -1,6 +1,6 @@
 ---
 title: 'For '
-navTitle: SALES POLICY & FEES for our LGDs
+navTitle: Sales Policy & Fees for our LGDs
 navNest: LGDs
 navPriority: '5'
 collection: SubPage
