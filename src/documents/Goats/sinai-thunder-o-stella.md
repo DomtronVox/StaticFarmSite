@@ -14,7 +14,7 @@ sireNameData:
   postfix: +*B  (moonspots)
 damNameData:
   name: Little Tots Estate St Kowkab
-  postfix: "1*M *D  AR  LA86\_+VVV "
+  postfix: "1*M *D  AR  LA86\_+VVV milk rec. 3-00 305 1050 6.8 71 4.6 48 101 00"
   titles: SG
 sire_sireNameData:
   name: "CEDAR VIEW JOSEPHUS   +*B  LA85\_+EV"
