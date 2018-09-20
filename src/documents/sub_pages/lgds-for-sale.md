@@ -1,5 +1,5 @@
 ---
-title: For Sale
+title: 'For '
 navTitle: 'LGDs '
 navNest: LGDs
 navPriority: '5'
