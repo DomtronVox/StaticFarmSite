@@ -1,7 +1,7 @@
 ---
 titlesEarned: ' '
 title: Sinai Thunder O Stella
-milkStar: ' '
+milkStar: Congrats for making the 2018 ELITE DOE LIST!
 nickname: Stella
 gender: Senior Doe
 birth_date: 2/25/16
