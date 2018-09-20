@@ -1,6 +1,6 @@
 ---
 title: SALES POLICY & FEES
-navTitle: For Sale
+navTitle: SALES POLICY & FEES for our goats
 navNest: For Sale
 navPriority: '3'
 collection: SubPage
