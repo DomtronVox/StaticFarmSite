@@ -25,6 +25,7 @@ dam_sireNameData:
   name: Twin Creeks Edge of Twilight
 dam_damNameData:
   name: TwinCreeks G Spicy Pepper
+side_picture: /images/jasmine.jpg
 milk_records: []
 layout: goatpage.html
 collection: Goats
