@@ -4,6 +4,7 @@ nickname: Elle
 gender: Junior Doe
 birth_date: 6/12/18
 moonspots: true
+reference: 'no'
 sireNameData:
   name: DesertNanny BH Hailstorm
   postfix: LA 89 VEV
