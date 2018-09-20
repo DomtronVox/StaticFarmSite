@@ -7,7 +7,7 @@ gender: Buck
 birth_date: 4/17/16
 adga_num: D1905201
 blue_eyes: true
-reference: 'no'
+reference: 'yes'
 sireNameData:
   name: 'Wooly Dog Down Etienne Bleu   '
   postfix: (blue eyes; polled)
