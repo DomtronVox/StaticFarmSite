@@ -1,9 +1,10 @@
 ---
 titlesEarned: ' '
-title: Wooly Dog Down AA WoodlandFawn
+title: Wooly Dog Down AA WoodlandFawn (pending)
 milkStar: ' '
 nickname: Fawn
 gender: Senior Doe
+forSale: true
 birth_date: 3/13/15
 adga_num: D1778256
 reference: 'no'
