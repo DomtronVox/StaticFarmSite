@@ -1,6 +1,6 @@
 ---
 titlesEarned: ' '
-title: Dozy Doe Down HS Justice Blues SOLD
+title: 'Dozy Doe Down HS Justice Blues - '
 milkStar: ' '
 nickname: Justice
 gender: Buck
