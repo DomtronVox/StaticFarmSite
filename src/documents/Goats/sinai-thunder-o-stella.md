@@ -11,7 +11,7 @@ moonspots: true
 reference: 'no'
 sireNameData:
   name: Cedar View Olivero
-  postfix: +*B  (moonspots)
+  postfix: +*B   2018 ELITE BUCK   (moonspots)
 damNameData:
   name: Little Tots Estate St Kowkab
   postfix: "1*M *D  AR  LA86\_+VVV milk rec. 3-00 305 1050 6.8 71 4.6 48 101 00"
