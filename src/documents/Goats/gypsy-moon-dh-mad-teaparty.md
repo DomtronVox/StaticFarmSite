@@ -59,7 +59,7 @@ galleryImages:
   - caption: TeaParty's udder pic - side view
     image: >-
       /images/teaparty-udder-side-view-13161847_10156854393910487_2888433877850064385_o.jpg
-  - caption: GCH Algedi Farm DJ Drops of Honey +*B (courtesy of Gypsy Moon
+  - caption: 'Sire: GCH Algedi Farm DJ Drops of Honey +*B (courtesy of Gypsy Moon)'
     image: /images/drops-of-honey-courtesy-of-gypsy-moon.jpg
 kiddingHistory:
   - bredDate: '2017'
