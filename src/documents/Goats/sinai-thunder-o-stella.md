@@ -22,8 +22,9 @@ sire_sireNameData:
 sire_damNameData:
   name: CEDAR VIEW ISABELLA
   postfix: >-
-    4*M   LA91 EEEE    4x  ELITE DOE ...milk record 4-10 305 1400 7.0 98 4.5 63
-    101 20
+    4*M   LA91 EEEE   4x  ELITE DOE 2015 & 2016 ADGA Top Ten Breed Leader, 4x
+    GCH, 4x BOB, 3x BU, 1x Supreme Udder, 1x BIS ...milk record 4-10 305 1400
+    7.0 98 4.5 63 101 20
   titles: 'SGCH '
 dam_sireNameData:
   name: 'ROSASHARN HB CHEWBACCA '
