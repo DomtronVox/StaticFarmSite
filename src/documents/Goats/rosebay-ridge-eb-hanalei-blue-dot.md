@@ -34,4 +34,4 @@ milk_records: []
 layout: goatpage.html
 collection: Goats
 ---
-
+Hanalei will be going on milk test next year. Her littermate sister, Rosebay Ridge EB Oolik-Hanna, just appraised 87 as a FF through ADGA Linear Appraisal program and is currently milking over 4 lbs a day on milk test.
