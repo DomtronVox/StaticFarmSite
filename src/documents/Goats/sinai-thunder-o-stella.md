@@ -22,8 +22,8 @@ sire_sireNameData:
 sire_damNameData:
   name: CEDAR VIEW ISABELLA
   postfix: >-
-    4*M   LA91 EEEE     ELITE DOE ...milk record 4-10 305 1400 7.0 98 4.5 63 101
-    20
+    4*M   LA91 EEEE    4x  ELITE DOE ...milk record 4-10 305 1400 7.0 98 4.5 63
+    101 20
   titles: 'SGCH '
 dam_sireNameData:
   name: 'ROSASHARN HB CHEWBACCA '
@@ -44,7 +44,7 @@ Pedigree Highlights
 
 * Sire: **Cedar View Olivero +*B LA88 VEV** (moonspots)
 * Dam: **SG Little Tots Estate St Kowkab 1\*M \*D  AR  LA86 +VVV  **_...milk record 3-00 305 1050 6.8 71 4.6 48 101 00 **Top 10 AGS in Milk Testing**_
-* G.Dam: **SGCH CEDAR VIEW ISABELLA 4*M   LA91 EEEE     ELITE DOE **_...milk record 4-10 305 1400 7.0 98 4.5 63 101 20_
+* G.Dam: **SGCH CEDAR VIEW ISABELLA 4*M   LA91 EEEE    4x ELITE DOE  2015 & 2016 ADGA Top Ten Breed Leader, 4x GCH, 4x BOB, 3x BU, 1x Supreme Udder, 1x BIS   **_...milk record 4-10 305 1400 7.0 98 4.5 63 101 20 _
 * G-G.Dam: **SG LITTLE TOTS ESTATE SYEIRA 4*M  90 VEEE ** _...milk record 5-00 305 1150 8.1 93 4.3 50_ (polled) 
 * G-G.Sire: **GCH   J-NELS LY CAPPUCCINO +*B   LA 91 EEE**
 * G-G.Dam: **SG CORI'S FANCY N DONATELLA 3*M   LA89 VVEE**
