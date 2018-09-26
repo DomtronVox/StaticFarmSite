@@ -55,6 +55,12 @@ milkRecordComments: >-
   *You never know what will come when planning milk tests… this was the year we
   had a death in the family and family sickness.. With all the irregularities in
   her schedule,  I am proud that she did this well.
+galleryImages:
+  - caption: TeaParty's udder pic - side view
+    image: >-
+      /images/teaparty-udder-side-view-13161847_10156854393910487_2888433877850064385_o.jpg
+  - caption: GCH Algedi Farm DJ Drops of Honey +*B (courtesy of Gypsy Moon
+    image: /images/drops-of-honey-courtesy-of-gypsy-moon.jpg
 kiddingHistory:
   - bredDate: '2017'
     breeder: DesertNanny BH Hailstorm (Blue eyes)
